@@ -1,0 +1,10060 @@
+
+==================== SERVER: 10.66.96.201 ====================
+
+Difference checkCommandsBlock
+
+Processing task : 26933683
+
+Difference checkCommandsBlock
+
+Processing task : 26936818
+
+Difference checkCommands
+
+Time taken in audit execution: 05:37:59
+
+Completed Task: #100.127.205.153
+
+
+show running-config | begin router bgp | include 100.127.132.14
+show running-config | begin router bgp | include 100.127.132.15
+show running-config | begin router bgp | include 100.127.132.42
+show running-config | begin router bgp | include 182.19.92.193
+show run interface BD2000
+show run interface BD2003
+show run interface Te0/4/0
+show run interface BD2001
+show run interface BD2007
+show run interface BD2008
+show run interface BD2002
+show run interface BD2004
+show run interface BD2005
+show run interface BD2006
+show running-config interface BD2000
+show running-config interface BD2003
+show running-config interface Te0/4/0
+show running-config interface BD2001
+show running-config interface BD2007
+show running-config interface BD2008
+show running-config interface BD2002
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface BD2003
+show running-config interface Te0/4/0
+show running-config interface BD2001
+show running-config interface BD2007
+show running-config interface BD2008
+show running-config interface BD2002
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2008
+show running-config interface BD2008
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface BD2003
+show running-config interface Te0/4/0
+show running-config interface BD2001
+show running-config interface BD2007
+show running-config interface BD2008
+show running-config interface BD2002
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2008
+show running-config interface BD2008
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2008
+show running-config interface BD2008
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+Processing task : 26789547
+
+Difference checkCommandsBlock
+
+Processing task : 26792682
+
+Difference checkCommandsBlock
+
+Processing task : 26795817
+
+Processing task : 26798952
+
+Processing task : 26802087
+
+Difference checkCommandsBlock
+
+Processing task : 26805222
+
+Difference checkCommands
+
+Processing task : 26808357
+
+Difference checkCommandsBlock
+
+Processing task : 26811492
+
+Difference checkCommandsBlock
+
+Processing task : 26814627
+
+Processing task : 26817762
+
+Difference checkCommandsBlock
+
+Processing task : 26820897
+
+Difference checkCommandsBlock
+
+Processing task : 26824032
+
+Difference checkCommandsBlock
+
+Processing task : 26827167
+
+Difference checkCommandsBlock
+
+Processing task : 26830302
+
+Difference checkCommandsBlock
+
+Processing task : 26833437
+
+Difference checkCommandsBlock
+
+Processing task : 26836572
+
+Difference checkCommandsBlock
+
+Processing task : 26839707
+
+Difference checkCommandsBlock
+
+Processing task : 26842842
+
+Difference checkCommandsBlock
+
+Processing task : 26845977
+
+Difference checkCommandsBlock
+
+Processing task : 26849112
+
+Processing task : 26852247
+
+Difference checkCommands
+
+Processing task : 26855382
+
+Processing task : 26858517
+
+Difference checkCommands
+
+Processing task : 26861652
+
+Difference checkCommandsBlock
+
+Processing task : 26864787
+
+Difference checkCommands
+
+Processing task : 26867922
+
+Difference checkCommands
+
+Processing task : 26871057
+
+Difference checkCommandsBlock
+
+Processing task : 26874192
+
+Processing task : 26877327
+
+Processing task : 26880462
+
+Processing task : 26883597
+
+Difference checkCommandsBlock
+
+Processing task : 26886732
+
+Difference checkCommands
+
+Processing task : 26889867
+
+Processing task : 26893002
+
+Difference checkCommands
+
+Processing task : 26896137
+
+Difference checkCommands
+
+Processing task : 26899272
+
+Difference checkCommandsBlock
+
+Processing task : 26902407
+
+Difference checkCommands
+
+Processing task : 26905542
+
+Difference checkCommands
+
+Processing task : 26908677
+
+Difference checkCommandsBlock
+
+Processing task : 26911812
+
+Difference checkCommands
+
+Processing task : 26914947
+
+Processing task : 26918082
+
+Processing task : 26921217
+
+Processing task : 26924352
+
+Difference checkCommandsBlock
+
+Processing task : 26927487
+
+Difference checkCommandsBlock
+
+Processing task : 26930622
+
+Difference checkCommandsBlock
+
+Processing task : 26933757
+
+Difference checkCommandsBlock
+
+Processing task : 26936892
+
+Difference checkCommands
+
+Time taken in audit execution: 05:42:32
+
+Completed Task: #182.19.98.190
+
+
+Processing task : 26789494
+
+Difference checkCommandsBlock
+
+Processing task : 26792629
+
+Difference checkCommandsBlock
+
+Processing task : 26795764
+
+Processing task : 26798899
+
+Processing task : 26802034
+
+Difference checkCommandsBlock
+
+Processing task : 26805169
+
+Difference checkCommands
+
+Processing task : 26808304
+
+Difference checkCommandsBlock
+
+Processing task : 26811439
+
+Difference checkCommandsBlock
+
+Processing task : 26814574
+
+Processing task : 26817709
+
+Difference checkCommandsBlock
+
+Processing task : 26820844
+
+Difference checkCommandsBlock
+
+Processing task : 26823979
+
+Difference checkCommandsBlock
+
+Processing task : 26827114
+
+Difference checkCommandsBlock
+
+Processing task : 26830249
+
+Difference checkCommandsBlock
+
+Processing task : 26833384
+
+Difference checkCommandsBlock
+
+Processing task : 26836519
+
+Difference checkCommandsBlock
+
+Processing task : 26839654
+
+Difference checkCommandsBlock
+
+Processing task : 26842789
+
+Difference checkCommandsBlock
+
+Processing task : 26845924
+
+Difference checkCommandsBlock
+
+Processing task : 26849059
+
+Processing task : 26852194
+
+Difference checkCommands
+
+Processing task : 26855329
+
+Processing task : 26858464
+
+Difference checkCommands
+
+Processing task : 26861599
+
+Difference checkCommandsBlock
+
+Processing task : 26864734
+
+Difference checkCommands
+
+Processing task : 26867869
+
+Difference checkCommands
+
+Processing task : 26871004
+
+Difference checkCommandsBlock
+
+Processing task : 26874139
+
+Difference checkCommands
+
+Processing task : 26877274
+
+Difference checkCommands
+
+Processing task : 26880409
+
+Difference checkCommands
+
+Processing task : 26883544
+
+Difference checkCommandsBlock
+
+Processing task : 26886679
+
+Difference checkCommands
+
+Processing task : 26889814
+
+Processing task : 26892949
+
+Difference checkCommands
+
+Processing task : 26896084
+
+Difference checkCommands
+
+Processing task : 26899219
+
+Difference checkCommandsBlock
+
+Processing task : 26902354
+
+Difference checkCommands
+
+Processing task : 26905489
+
+Difference checkCommands
+
+Processing task : 26908624
+
+Difference checkCommandsBlock
+
+Processing task : 26911759
+
+Difference checkCommands
+
+Processing task : 26914894
+
+Processing task : 26918029
+
+Processing task : 26921164
+
+Processing task : 26924299
+
+Difference checkCommandsBlock
+
+Processing task : 26927434
+
+Difference checkCommandsBlock
+
+Processing task : 26930569
+
+Difference checkCommandsBlock
+
+Processing task : 26933704
+
+Difference checkCommandsBlock
+
+Processing task : 26936839
+
+Difference checkCommands
+
+Time taken in audit execution: 05:43:18
+
+Completed Task: #103.29.45.82
+
+
+==================== SERVER: 10.66.96.202 ====================
+
+show running-config | begin router bgp | include 10.96.0.115
+show running-config | begin router bgp | include 10.96.0.116
+show running-config | begin router bgp | include 10.96.0.117
+show running-config | begin router bgp | include 10.96.0.118
+show running-config | begin router bgp | include 10.96.0.131
+show running-config | begin router bgp | include 10.96.0.132
+show running-config | begin router bgp | include 10.96.0.134
+show running-config | begin router bgp | include 10.96.0.213
+show running-config | begin router bgp | include 10.96.0.215
+show running-config | begin router bgp | include 10.96.0.216
+show running-config | begin router bgp | include 10.96.1.140
+show running-config | begin router bgp | include 100.69.152.135
+show running-config | begin router bgp | include 100.69.153.65
+show running-config | begin router bgp | include 100.69.157.222
+show running-config | begin router bgp | include 100.69.158.11
+show running-config | begin router bgp | include 100.69.158.12
+show running-config | begin router bgp | include 100.69.158.18
+show running-config | begin router bgp | include 100.69.158.118
+show running-config | begin router bgp | include 100.69.158.146
+show running-config | begin router bgp | include 100.127.128.9
+show running-config | begin router bgp | include 100.127.128.10
+show running-config | begin router bgp | include 100.127.128.11
+show running-config | begin router bgp | include 100.127.129.147
+show running-config | begin router bgp | include 100.127.129.148
+show running-config | begin router bgp | include 100.127.129.149
+show running-config | begin router bgp | include 100.127.130.32
+show running-config | begin router bgp | include 100.127.130.33
+show running-config | begin router bgp | include 100.127.130.184
+show running-config | begin router bgp | include 100.127.130.234
+show running-config | begin router bgp | include 100.127.130.235
+show running-config | begin router bgp | include 100.127.130.236
+show running-config | begin router bgp | include 100.127.130.237
+show running-config | begin router bgp | include 100.127.130.238
+show running-config | begin router bgp | include 100.127.131.42
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show running-config | begin router bgp | include 10.96.0.114
+show running-config | begin router bgp | include 10.96.0.115
+show running-config | begin router bgp | include 10.96.0.116
+show running-config | begin router bgp | include 10.96.0.117
+show running-config | begin router bgp | include 10.96.0.118
+show running-config | begin router bgp | include 10.96.0.131
+show running-config | begin router bgp | include 10.96.0.132
+show running-config | begin router bgp | include 10.96.0.134
+show running-config | begin router bgp | include 10.96.0.213
+show running-config | begin router bgp | include 10.96.0.215
+show running-config | begin router bgp | include 10.96.0.216
+show running-config | begin router bgp | include 10.96.1.140
+show running-config | begin router bgp | include 100.69.152.135
+show running-config | begin router bgp | include 100.69.153.65
+show running-config | begin router bgp | include 100.69.157.222
+show running-config | begin router bgp | include 100.69.158.11
+show running-config | begin router bgp | include 100.69.158.12
+show running-config | begin router bgp | include 100.69.158.18
+show running-config | begin router bgp | include 100.69.158.118
+show running-config | begin router bgp | include 100.69.158.146
+show running-config | begin router bgp | include 100.127.128.9
+show running-config | begin router bgp | include 100.127.128.10
+show running-config | begin router bgp | include 100.127.128.11
+show running-config | begin router bgp | include 100.127.129.147
+show running-config | begin router bgp | include 100.127.129.148
+show running-config | begin router bgp | include 100.127.129.149
+show running-config | begin router bgp | include 100.127.130.32
+show running-config | begin router bgp | include 100.127.130.33
+show running-config | begin router bgp | include 100.127.130.184
+show running-config | begin router bgp | include 100.127.130.234
+show running-config | begin router bgp | include 100.127.130.235
+show running-config | begin router bgp | include 100.127.130.236
+show running-config | begin router bgp | include 100.127.130.237
+show running-config | begin router bgp | include 100.127.130.238
+show running-config | begin router bgp | include 100.127.131.42
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show run interface BD2000
+show run interface BD2004
+show run interface BD2002
+show run interface BD2001
+show run interface Te0/4/4
+show run interface BD143
+show run interface Te0/0/1
+show run interface BD144
+show run interface Te0/4/6
+show run interface BD2003
+show run interface Te0/0/6
+show run interface BD435
+show run interface Te0/4/2
+show run interface Te0/4/3
+show run interface BD388
+show run interface Te0/0/4
+show run interface BD441
+show run interface BD2573
+show run interface BD2401
+show running-config interface BD2000
+show running-config interface BD2004
+show running-config interface BD2002
+show running-config interface BD2001
+show running-config interface Te0/4/4
+show running-config interface BD143
+show running-config interface Te0/0/1
+show running-config interface BD144
+show running-config interface Te0/4/6
+show running-config interface BD2003
+show running-config interface Te0/0/6
+show running-config interface BD435
+show running-config interface Te0/4/2
+show running-config interface Te0/4/3
+show running-config interface BD388
+show running-config interface Te0/0/4
+show running-config interface BD441
+show running-config interface BD2573
+show running-config interface BD2401
+show running-config interface BD2000
+show running-config interface BD2004
+show running-config interface BD2002
+show running-config interface BD2001
+show running-config interface Te0/4/4
+show running-config interface BD143
+show running-config interface Te0/0/1
+show running-config interface BD144
+show running-config interface Te0/4/6
+show running-config interface BD2003
+show running-config interface Te0/0/6
+show running-config interface BD435
+show running-config interface Te0/4/2
+show running-config interface Te0/4/3
+show running-config interface BD388
+show running-config interface Te0/0/4
+show running-config interface BD441
+show running-config interface BD2573
+show running-config interface BD2401
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show bridge-domain BD143
+show running-config interface BD143
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD144
+show running-config interface BD144
+
+show interfaces Te0/4/6
+show running-config interface Te0/4/6
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show bridge-domain BD435
+show running-config interface BD435
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show interfaces Te0/4/3
+show running-config interface Te0/4/3
+
+show bridge-domain BD388
+show running-config interface BD388
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD441
+show running-config interface BD441
+
+show bridge-domain BD2573
+show running-config interface BD2573
+
+show bridge-domain BD2401
+show running-config interface BD2401
+show running-config interface BD2000
+show running-config interface BD2004
+show running-config interface BD2002
+show running-config interface BD2001
+show running-config interface Te0/4/4
+show running-config interface BD143
+show running-config interface Te0/0/1
+show running-config interface BD144
+show running-config interface Te0/4/6
+show running-config interface BD2003
+show running-config interface Te0/0/6
+show running-config interface BD435
+show running-config interface Te0/4/2
+show running-config interface Te0/4/3
+show running-config interface BD388
+show running-config interface Te0/0/4
+show running-config interface BD441
+show running-config interface BD2573
+show running-config interface BD2401
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show bridge-domain BD143
+show running-config interface BD143
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD144
+show running-config interface BD144
+
+show interfaces Te0/4/6
+show running-config interface Te0/4/6
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show bridge-domain BD435
+show running-config interface BD435
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show interfaces Te0/4/3
+show running-config interface Te0/4/3
+
+show bridge-domain BD388
+show running-config interface BD388
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD441
+show running-config interface BD441
+
+show bridge-domain BD2573
+show running-config interface BD2573
+
+show bridge-domain BD2401
+show running-config interface BD2401
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show bridge-domain BD143
+show running-config interface BD143
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD144
+show running-config interface BD144
+
+show interfaces Te0/4/6
+show running-config interface Te0/4/6
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show bridge-domain BD435
+show running-config interface BD435
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show interfaces Te0/4/3
+show running-config interface Te0/4/3
+
+show bridge-domain BD388
+show running-config interface BD388
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD441
+show running-config interface BD441
+
+show bridge-domain BD2573
+show running-config interface BD2573
+
+show bridge-domain BD2401
+show running-config interface BD2401
+Processing task : 26789557
+
+Difference checkCommandsBlock
+
+Processing task : 26792692
+
+Difference checkCommandsBlock
+
+Processing task : 26795827
+
+Processing task : 26798962
+
+Processing task : 26802097
+
+Difference checkCommandsBlock
+
+Processing task : 26805232
+
+Difference checkCommands
+
+Processing task : 26808367
+
+Difference checkCommandsBlock
+
+Processing task : 26811502
+
+Difference checkCommandsBlock
+
+Processing task : 26814637
+
+Processing task : 26817772
+
+Difference checkCommandsBlock
+
+Processing task : 26820907
+
+Difference checkCommandsBlock
+
+Processing task : 26824042
+
+Difference checkCommandsBlock
+
+Processing task : 26827177
+
+Difference checkCommandsBlock
+
+Processing task : 26830312
+
+Difference checkCommandsBlock
+
+Processing task : 26833447
+
+Difference checkCommandsBlock
+
+Processing task : 26836582
+
+Difference checkCommandsBlock
+
+Processing task : 26839717
+
+Difference checkCommandsBlock
+
+Processing task : 26842852
+
+Difference checkCommandsBlock
+
+Processing task : 26845987
+
+Difference checkCommandsBlock
+
+Processing task : 26849122
+
+Processing task : 26852257
+
+Difference checkCommands
+
+Processing task : 26855392
+
+Processing task : 26858527
+
+Difference checkCommands
+
+Processing task : 26861662
+
+Difference checkCommandsBlock
+
+Processing task : 26864797
+
+Difference checkCommands
+
+Processing task : 26867932
+
+Difference checkCommands
+
+Processing task : 26871067
+
+Difference checkCommandsBlock
+
+Processing task : 26874202
+
+Difference checkCommands
+
+Processing task : 26877337
+
+Difference checkCommands
+
+Processing task : 26880472
+
+Difference checkCommands
+
+Processing task : 26883607
+
+Difference checkCommandsBlock
+
+Processing task : 26886742
+
+Difference checkCommands
+
+Processing task : 26889877
+
+Processing task : 26893012
+
+Difference checkCommands
+
+Processing task : 26896147
+
+Difference checkCommands
+
+Processing task : 26899282
+
+Difference checkCommandsBlock
+
+Processing task : 26902417
+
+Difference checkCommands
+
+Processing task : 26905552
+
+Difference checkCommands
+
+Processing task : 26908687
+
+Difference checkCommandsBlock
+
+Processing task : 26911822
+
+Difference checkCommands
+
+Processing task : 26914957
+
+Processing task : 26918092
+
+Processing task : 26921227
+
+Processing task : 26924362
+
+Difference checkCommandsBlock
+
+Processing task : 26927497
+
+Difference checkCommandsBlock
+
+Processing task : 26930632
+
+Difference checkCommandsBlock
+
+Processing task : 26933767
+
+Difference checkCommandsBlock
+
+Processing task : 26936902
+
+Difference checkCommands
+
+Time taken in audit execution: 05:55:13
+
+Completed Task: #182.19.116.138
+
+
+==================== SERVER: 10.66.96.203 ====================
+
+Difference checkCommandsBlock
+
+Processing task : 26824048
+
+Difference checkCommandsBlock
+
+Processing task : 26827183
+
+Difference checkCommandsBlock
+
+Processing task : 26830318
+
+Difference checkCommandsBlock
+
+Processing task : 26833453
+
+Difference checkCommandsBlock
+
+Processing task : 26836588
+
+Difference checkCommandsBlock
+
+Processing task : 26839723
+
+Difference checkCommandsBlock
+
+Processing task : 26842858
+
+Difference checkCommandsBlock
+
+Processing task : 26845993
+
+Difference checkCommandsBlock
+
+Processing task : 26849128
+
+Processing task : 26852263
+
+Difference checkCommands
+
+Processing task : 26855398
+
+Processing task : 26858533
+
+Difference checkCommands
+
+Processing task : 26861668
+
+Difference checkCommandsBlock
+
+Processing task : 26864803
+
+Difference checkCommands
+
+Processing task : 26867938
+
+Difference checkCommands
+
+Processing task : 26871073
+
+Difference checkCommandsBlock
+
+Processing task : 26874208
+
+Difference checkCommands
+
+Processing task : 26877343
+
+Difference checkCommands
+
+Processing task : 26880478
+
+Difference checkCommands
+
+Processing task : 26883613
+
+Difference checkCommandsBlock
+
+Processing task : 26886748
+
+Difference checkCommands
+
+Processing task : 26889883
+
+Processing task : 26893018
+
+Difference checkCommands
+
+Processing task : 26896153
+
+Difference checkCommands
+
+Processing task : 26899288
+
+Difference checkCommandsBlock
+
+Processing task : 26902423
+
+Difference checkCommands
+
+Processing task : 26905558
+
+Difference checkCommands
+
+Processing task : 26908693
+
+Difference checkCommandsBlock
+
+Processing task : 26911828
+
+Difference checkCommands
+
+Processing task : 26914963
+
+Processing task : 26918098
+
+Processing task : 26921233
+
+Processing task : 26924368
+
+Difference checkCommandsBlock
+
+Processing task : 26927503
+
+Difference checkCommandsBlock
+
+Processing task : 26930638
+
+Difference checkCommandsBlock
+
+Processing task : 26933773
+
+Difference checkCommandsBlock
+
+Processing task : 26936908
+
+Difference checkCommands
+
+Time taken in audit execution: 05:35:17
+
+Completed Task: #182.19.116.168
+
+
+Processing task : 26789386
+
+Difference checkCommandsBlock
+
+Processing task : 26792521
+
+Difference checkCommandsBlock
+
+Processing task : 26795656
+
+Processing task : 26798791
+
+Processing task : 26801926
+
+Difference checkCommandsBlock
+
+Processing task : 26805061
+
+Difference checkCommands
+
+Processing task : 26808196
+
+Difference checkCommandsBlock
+
+Processing task : 26811331
+
+Difference checkCommandsBlock
+
+Processing task : 26814466
+
+Processing task : 26817601
+
+Difference checkCommandsBlock
+
+Processing task : 26820736
+
+Difference checkCommandsBlock
+
+Processing task : 26823871
+
+Difference checkCommandsBlock
+
+Processing task : 26827006
+
+Difference checkCommandsBlock
+
+Processing task : 26830141
+
+Difference checkCommandsBlock
+
+Processing task : 26833276
+
+Difference checkCommandsBlock
+
+Processing task : 26836411
+
+Difference checkCommandsBlock
+
+Processing task : 26839546
+
+Difference checkCommandsBlock
+
+Processing task : 26842681
+
+Difference checkCommandsBlock
+
+Processing task : 26845816
+
+Difference checkCommandsBlock
+
+Processing task : 26848951
+
+Processing task : 26852086
+
+Difference checkCommands
+
+Processing task : 26855221
+
+Processing task : 26858356
+
+Difference checkCommands
+
+Processing task : 26861491
+
+Difference checkCommandsBlock
+
+Processing task : 26864626
+
+Difference checkCommands
+
+Processing task : 26867761
+
+Difference checkCommands
+
+Processing task : 26870896
+
+Difference checkCommandsBlock
+
+Processing task : 26874031
+
+Difference checkCommands
+
+Processing task : 26877166
+
+Difference checkCommands
+
+Processing task : 26880301
+
+Difference checkCommands
+
+Processing task : 26883436
+
+Difference checkCommandsBlock
+
+Processing task : 26886571
+
+Difference checkCommands
+
+Processing task : 26889706
+
+Processing task : 26892841
+
+Difference checkCommands
+
+Processing task : 26895976
+
+Difference checkCommands
+
+Processing task : 26899111
+
+Difference checkCommandsBlock
+
+Processing task : 26902246
+
+Difference checkCommands
+
+Processing task : 26905381
+
+Difference checkCommands
+
+Processing task : 26908516
+
+Difference checkCommandsBlock
+
+Processing task : 26911651
+
+Difference checkCommands
+
+Processing task : 26914786
+
+Processing task : 26917921
+
+Processing task : 26921056
+
+Processing task : 26924191
+
+Difference checkCommandsBlock
+
+Processing task : 26927326
+
+Difference checkCommandsBlock
+
+Processing task : 26930461
+
+Difference checkCommandsBlock
+
+Processing task : 26933596
+
+Difference checkCommandsBlock
+
+Processing task : 26936731
+
+Difference checkCommands
+
+Time taken in audit execution: 05:38:46
+
+Completed Task: #100.127.188.135
+
+
+Processing task : 26789510
+
+Difference checkCommandsBlock
+
+Processing task : 26792645
+
+Difference checkCommandsBlock
+
+Processing task : 26795780
+
+Processing task : 26798915
+
+Processing task : 26802050
+
+Difference checkCommandsBlock
+
+Processing task : 26805185
+
+Difference checkCommands
+
+Processing task : 26808320
+
+Difference checkCommandsBlock
+
+Processing task : 26811455
+
+Difference checkCommandsBlock
+
+Processing task : 26814590
+
+Processing task : 26817725
+
+Difference checkCommandsBlock
+
+Processing task : 26820860
+
+Difference checkCommandsBlock
+
+Processing task : 26823995
+
+Difference checkCommandsBlock
+
+Processing task : 26827130
+
+Difference checkCommandsBlock
+
+Processing task : 26830265
+
+Difference checkCommandsBlock
+
+Processing task : 26833400
+
+Difference checkCommandsBlock
+
+Processing task : 26836535
+
+Difference checkCommandsBlock
+
+Processing task : 26839670
+
+Difference checkCommandsBlock
+
+Processing task : 26842805
+
+Difference checkCommandsBlock
+
+Processing task : 26845940
+
+Difference checkCommandsBlock
+
+Processing task : 26849075
+
+Processing task : 26852210
+
+Difference checkCommands
+
+Processing task : 26855345
+
+Processing task : 26858480
+
+Difference checkCommands
+
+Processing task : 26861615
+
+Difference checkCommandsBlock
+
+Processing task : 26864750
+
+Difference checkCommands
+
+Processing task : 26867885
+
+Difference checkCommands
+
+Processing task : 26871020
+
+Difference checkCommandsBlock
+
+Processing task : 26874155
+
+Difference checkCommands
+
+Processing task : 26877290
+
+Difference checkCommands
+
+Processing task : 26880425
+
+Difference checkCommands
+
+Processing task : 26883560
+
+Difference checkCommandsBlock
+
+Processing task : 26886695
+
+Difference checkCommands
+
+Processing task : 26889830
+
+Processing task : 26892965
+
+Difference checkCommands
+
+Processing task : 26896100
+
+Difference checkCommands
+
+Processing task : 26899235
+
+Difference checkCommandsBlock
+
+Processing task : 26902370
+
+Difference checkCommands
+
+Processing task : 26905505
+
+Difference checkCommands
+
+Processing task : 26908640
+
+Difference checkCommandsBlock
+
+Processing task : 26911775
+
+Difference checkCommands
+
+Processing task : 26914910
+
+Processing task : 26918045
+
+Processing task : 26921180
+
+Processing task : 26924315
+
+Difference checkCommandsBlock
+
+Processing task : 26927450
+
+Difference checkCommandsBlock
+
+Processing task : 26930585
+
+Difference checkCommandsBlock
+
+Processing task : 26933720
+
+Difference checkCommandsBlock
+
+Processing task : 26936855
+
+Difference checkCommands
+
+Time taken in audit execution: 05:38:49
+
+Completed Task: #103.29.45.169
+
+
+==================== SERVER: 10.66.96.204 ====================
+
+
+Difference checkCommandsBlock
+
+Processing task : 26827102
+
+Difference checkCommandsBlock
+
+
+show bridge-domain BD2058
+Processing task : 26830237
+
+Difference checkCommandsBlock
+
+Processing task : 26833372
+
+Difference checkCommandsBlock
+
+show running-config interface BD2058
+Processing task : 26836507
+
+Difference checkCommandsBlock
+
+Processing task : 26839642
+
+Difference checkCommandsBlock
+
+Processing task : 26842777
+
+Difference checkCommandsBlock
+
+Processing task : 26845912
+
+Difference checkCommandsBlock
+
+
+show bridge-domain BD2232
+Processing task : 26849047
+
+Processing task : 26852182
+
+Difference checkCommands
+
+show running-config interface BD2232
+Processing task : 26855317
+
+Processing task : 26858452
+
+Difference checkCommands
+
+Processing task : 26861587
+
+Difference checkCommandsBlock
+
+Processing task : 26864722
+
+Difference checkCommands
+
+
+show bridge-domain BD2231
+Processing task : 26867857
+
+Difference checkCommands
+
+show running-config interface BD2231
+Processing task : 26870992
+
+Difference checkCommandsBlock
+
+Processing task : 26874127
+
+Processing task : 26877262
+
+Processing task : 26880397
+
+Processing task : 26883532
+
+Difference checkCommandsBlock
+
+Processing task : 26886667
+
+Difference checkCommands
+
+Processing task : 26889802
+
+Processing task : 26892937
+
+Difference checkCommands
+
+Processing task : 26896072
+
+Difference checkCommands
+
+Processing task : 26899207
+
+Difference checkCommandsBlock
+
+Processing task : 26902342
+
+Difference checkCommands
+
+Processing task : 26905477
+
+Difference checkCommands
+
+Processing task : 26908612
+
+Difference checkCommandsBlock
+
+Processing task : 26911747
+
+Difference checkCommands
+
+Processing task : 26914882
+
+Processing task : 26918017
+
+Processing task : 26921152
+
+Processing task : 26924287
+
+Difference checkCommandsBlock
+
+Processing task : 26927422
+
+Difference checkCommandsBlock
+
+Processing task : 26930557
+
+Difference checkCommandsBlock
+
+Processing task : 26933692
+
+Difference checkCommandsBlock
+
+Processing task : 26936827
+
+Difference checkCommands
+
+Time taken in audit execution: 05:44:26
+
+Completed Task: #103.29.45.1
+
+
+Processing task : 26789566
+
+Difference checkCommandsBlock
+
+Processing task : 26792701
+
+Difference checkCommandsBlock
+
+Processing task : 26795836
+
+Processing task : 26798971
+
+Processing task : 26802106
+
+Difference checkCommandsBlock
+
+Processing task : 26805241
+
+Difference checkCommands
+
+Processing task : 26808376
+
+Difference checkCommandsBlock
+
+Processing task : 26811511
+
+Difference checkCommandsBlock
+
+Processing task : 26814646
+
+Processing task : 26817781
+
+Difference checkCommandsBlock
+
+Processing task : 26820916
+
+Difference checkCommandsBlock
+
+Processing task : 26824051
+
+Difference checkCommandsBlock
+
+Processing task : 26827186
+
+Difference checkCommandsBlock
+
+Processing task : 26830321
+
+Difference checkCommandsBlock
+
+Processing task : 26833456
+
+Difference checkCommandsBlock
+
+Processing task : 26836591
+
+Difference checkCommandsBlock
+
+Processing task : 26839726
+
+Difference checkCommandsBlock
+
+Processing task : 26842861
+
+Difference checkCommandsBlock
+
+Processing task : 26845996
+
+Difference checkCommandsBlock
+
+Processing task : 26849131
+
+Processing task : 26852266
+
+Difference checkCommands
+
+Processing task : 26855401
+
+Processing task : 26858536
+
+Difference checkCommands
+
+Processing task : 26861671
+
+Difference checkCommandsBlock
+
+Processing task : 26864806
+
+Difference checkCommands
+
+Processing task : 26867941
+
+Difference checkCommands
+
+Processing task : 26871076
+
+Difference checkCommandsBlock
+
+Processing task : 26874211
+
+Difference checkCommands
+
+Processing task : 26877346
+
+Difference checkCommands
+
+Processing task : 26880481
+
+Difference checkCommands
+
+Processing task : 26883616
+
+Difference checkCommandsBlock
+
+Processing task : 26886751
+
+Difference checkCommands
+
+Processing task : 26889886
+
+Processing task : 26893021
+
+Difference checkCommands
+
+Processing task : 26896156
+
+Difference checkCommands
+
+Processing task : 26899291
+
+Difference checkCommandsBlock
+
+Processing task : 26902426
+
+Difference checkCommands
+
+Processing task : 26905561
+
+Difference checkCommands
+
+Processing task : 26908696
+
+Difference checkCommandsBlock
+
+Processing task : 26911831
+
+Difference checkCommands
+
+Processing task : 26914966
+
+Processing task : 26918101
+
+Processing task : 26921236
+
+Processing task : 26924371
+
+Difference checkCommandsBlock
+
+Processing task : 26927506
+
+Difference checkCommandsBlock
+
+Processing task : 26930641
+
+Difference checkCommandsBlock
+
+Processing task : 26933776
+
+Difference checkCommandsBlock
+
+Processing task : 26936911
+
+Difference checkCommands
+
+Time taken in audit execution: 05:47:50
+
+Completed Task: #182.19.116.174
+
+
+Processing task : 26789521
+
+Difference checkCommandsBlock
+
+Processing task : 26792656
+
+Difference checkCommandsBlock
+
+Processing task : 26795791
+
+Processing task : 26798926
+
+Processing task : 26802061
+
+Difference checkCommandsBlock
+
+Processing task : 26805196
+
+Difference checkCommands
+
+Processing task : 26808331
+
+Difference checkCommandsBlock
+
+Processing task : 26811466
+
+Difference checkCommandsBlock
+
+Processing task : 26814601
+
+Processing task : 26817736
+
+Difference checkCommandsBlock
+
+Processing task : 26820871
+
+Difference checkCommandsBlock
+
+Processing task : 26824006
+
+Difference checkCommandsBlock
+
+Processing task : 26827141
+
+Difference checkCommandsBlock
+
+Processing task : 26830276
+
+Difference checkCommandsBlock
+
+Processing task : 26833411
+
+Difference checkCommandsBlock
+
+Processing task : 26836546
+
+Difference checkCommandsBlock
+
+Processing task : 26839681
+
+Difference checkCommandsBlock
+
+Processing task : 26842816
+
+Difference checkCommandsBlock
+
+Processing task : 26845951
+
+Difference checkCommandsBlock
+
+Processing task : 26849086
+
+Processing task : 26852221
+
+Difference checkCommands
+
+Processing task : 26855356
+
+Processing task : 26858491
+
+Difference checkCommands
+
+Processing task : 26861626
+
+Difference checkCommandsBlock
+
+Processing task : 26864761
+
+Difference checkCommands
+
+Processing task : 26867896
+
+Difference checkCommands
+
+Processing task : 26871031
+
+Difference checkCommandsBlock
+
+Processing task : 26874166
+
+Difference checkCommands
+
+Processing task : 26877301
+
+Difference checkCommands
+
+Processing task : 26880436
+
+Difference checkCommands
+
+Processing task : 26883571
+
+Difference checkCommandsBlock
+
+Processing task : 26886706
+
+Difference checkCommands
+
+Processing task : 26889841
+
+Processing task : 26892976
+
+Difference checkCommands
+
+Processing task : 26896111
+
+Difference checkCommands
+
+Processing task : 26899246
+
+Difference checkCommandsBlock
+
+Processing task : 26902381
+
+Difference checkCommands
+
+Processing task : 26905516
+
+Difference checkCommands
+
+Processing task : 26908651
+
+Difference checkCommandsBlock
+
+Processing task : 26911786
+
+Difference checkCommands
+
+Processing task : 26914921
+
+Processing task : 26918056
+
+Processing task : 26921191
+
+Processing task : 26924326
+
+Difference checkCommandsBlock
+
+Processing task : 26927461
+
+Difference checkCommandsBlock
+
+Processing task : 26930596
+
+Difference checkCommandsBlock
+
+Processing task : 26933731
+
+Difference checkCommandsBlock
+
+Processing task : 26936866
+
+Difference checkCommands
+
+Time taken in audit execution: 05:48:53
+
+Completed Task: #103.29.45.236
+
+
+==================== SERVER: 10.66.96.205 ====================
+
+show bridge-domain BD2324
+show running-config interface BD2324
+
+show bridge-domain BD2347
+show running-config interface BD2347
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD3401
+show running-config interface BD3401
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show interfaces Te0/2/1
+show running-config interface Te0/2/1
+
+show bridge-domain BD3402
+show running-config interface BD3402
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2325
+show running-config interface BD2325
+
+show bridge-domain BD2324
+show running-config interface BD2324
+
+show bridge-domain BD2347
+show running-config interface BD2347
+
+show bridge-domain BD2002
+show running-config interface BD2002exception is here....
+
+Fail : Wait timeout reached.
+Processing task : 26789549
+
+Difference checkCommandsBlock
+
+Processing task : 26792684
+
+Difference checkCommandsBlock
+
+Processing task : 26795819
+
+Processing task : 26798954
+
+Processing task : 26802089
+
+Difference checkCommandsBlock
+
+Processing task : 26805224
+
+Difference checkCommands
+
+Processing task : 26808359
+
+Difference checkCommandsBlock
+
+Processing task : 26811494
+
+Difference checkCommandsBlock
+
+Processing task : 26814629
+
+Processing task : 26817764
+
+Difference checkCommandsBlock
+
+Processing task : 26820899
+
+Difference checkCommandsBlock
+
+Processing task : 26824034
+
+Difference checkCommandsBlock
+
+Processing task : 26827169
+
+Difference checkCommandsBlock
+
+Processing task : 26830304
+
+Difference checkCommandsBlock
+
+Processing task : 26833439
+
+Difference checkCommandsBlock
+
+Processing task : 26836574
+
+Difference checkCommandsBlock
+
+Processing task : 26839709
+
+Difference checkCommandsBlock
+
+Processing task : 26842844
+
+Difference checkCommandsBlock
+
+Processing task : 26845979
+
+Difference checkCommandsBlock
+
+Processing task : 26849114
+
+Processing task : 26852249
+
+Difference checkCommands
+
+Processing task : 26855384
+
+Processing task : 26858519
+
+Difference checkCommands
+
+Processing task : 26861654
+
+Difference checkCommandsBlock
+
+Processing task : 26864789
+
+Difference checkCommands
+
+Processing task : 26867924
+
+Difference checkCommands
+
+Processing task : 26871059
+
+Difference checkCommandsBlock
+
+Processing task : 26874194
+
+Difference checkCommands
+
+Processing task : 26877329
+
+Difference checkCommands
+
+Processing task : 26880464
+
+Difference checkCommands
+
+Processing task : 26883599
+
+Difference checkCommandsBlock
+
+Processing task : 26886734
+
+Difference checkCommands
+
+Processing task : 26889869
+
+Processing task : 26893004
+
+Difference checkCommands
+
+Processing task : 26896139
+
+Difference checkCommands
+
+Processing task : 26899274
+
+Difference checkCommandsBlock
+
+Processing task : 26902409
+
+Difference checkCommands
+
+Processing task : 26905544
+
+Difference checkCommands
+
+Processing task : 26908679
+
+Difference checkCommandsBlock
+
+Processing task : 26911814
+
+Difference checkCommands
+
+Processing task : 26914949
+
+Processing task : 26918084
+
+Processing task : 26921219
+
+Processing task : 26924354
+
+Difference checkCommandsBlock
+
+Processing task : 26927489
+
+Difference checkCommandsBlock
+
+Processing task : 26930624
+
+Difference checkCommandsBlock
+
+Processing task : 26933759
+
+Difference checkCommandsBlock
+
+Processing task : 26936894
+
+Difference checkCommands
+
+Time taken in audit execution: 06:02:12
+
+Completed Task: #182.19.98.225
+
+
+Processing task : 26789545
+
+Difference checkCommandsBlock
+
+Processing task : 26792680
+
+Difference checkCommandsBlock
+
+Processing task : 26795815
+
+Processing task : 26798950
+
+Processing task : 26802085
+
+Difference checkCommandsBlock
+
+Processing task : 26805220
+
+Difference checkCommands
+
+Processing task : 26808355
+
+Difference checkCommandsBlock
+
+Processing task : 26811490
+
+Difference checkCommandsBlock
+
+Processing task : 26814625
+
+Processing task : 26817760
+
+Difference checkCommandsBlock
+
+Processing task : 26820895
+
+Difference checkCommandsBlock
+
+Processing task : 26824030
+
+Difference checkCommandsBlock
+
+Processing task : 26827165
+
+Difference checkCommandsBlock
+
+Processing task : 26830300
+
+Difference checkCommandsBlock
+
+Processing task : 26833435
+
+Difference checkCommandsBlock
+
+Processing task : 26836570
+
+Difference checkCommandsBlock
+
+Processing task : 26839705
+
+Difference checkCommandsBlock
+
+Processing task : 26842840
+
+Difference checkCommandsBlock
+
+Processing task : 26845975
+
+Difference checkCommandsBlock
+
+Processing task : 26849110
+
+Processing task : 26852245
+
+Difference checkCommands
+
+Processing task : 26855380
+
+Processing task : 26858515
+
+Difference checkCommands
+
+Processing task : 26861650
+
+Difference checkCommandsBlock
+
+Processing task : 26864785
+
+Difference checkCommands
+
+Processing task : 26867920
+
+Difference checkCommands
+
+Processing task : 26871055
+
+Difference checkCommandsBlock
+
+Processing task : 26874190
+
+Difference checkCommands
+
+Processing task : 26877325
+
+Difference checkCommands
+
+Processing task : 26880460
+
+Difference checkCommands
+
+Processing task : 26883595
+
+Difference checkCommandsBlock
+
+Processing task : 26886730
+
+Difference checkCommands
+
+Processing task : 26889865
+
+Processing task : 26893000
+
+Difference checkCommands
+
+Processing task : 26896135
+
+Difference checkCommands
+
+Processing task : 26899270
+
+Difference checkCommandsBlock
+
+Processing task : 26902405
+
+Difference checkCommands
+
+Processing task : 26905540
+
+Difference checkCommands
+
+Processing task : 26908675
+
+Difference checkCommandsBlock
+
+Processing task : 26911810
+
+Difference checkCommands
+
+Processing task : 26914945
+
+Processing task : 26918080
+
+Processing task : 26921215
+
+Processing task : 26924350
+
+Difference checkCommandsBlock
+
+Processing task : 26927485
+
+Difference checkCommandsBlock
+
+Processing task : 26930620
+
+Difference checkCommandsBlock
+
+Processing task : 26933755
+
+Difference checkCommandsBlock
+
+Processing task : 26936890
+
+Difference checkCommands
+
+Time taken in audit execution: 06:02:36
+
+Completed Task: #182.19.93.248
+
+exception is here....
+
+Fail : Wait timeout reached.
+Processing task : 26787625
+
+Processing task : 26790760
+
+Processing task : 26793895
+
+Processing task : 26797030
+
+Processing task : 26800165
+
+Processing task : 26803300
+
+Processing task : 26806435
+
+Processing task : 26809570
+
+Processing task : 26812705
+
+Processing task : 26815840
+
+Processing task : 26818975
+
+Processing task : 26822110
+
+Processing task : 26825245
+
+Processing task : 26828380
+
+Processing task : 26831515
+
+Processing task : 26834650
+
+Processing task : 26837785
+
+Processing task : 26840920
+
+Processing task : 26844055
+
+Processing task : 26847190
+
+Processing task : 26850325
+
+Processing task : 26853460
+
+Processing task : 26856595
+
+Processing task : 26859730
+
+Processing task : 26862865
+
+Processing task : 26866000
+
+Processing task : 26869135
+
+Processing task : 26872270
+
+Processing task : 26875405
+
+Processing task : 26878540
+
+Processing task : 26881675
+
+Processing task : 26884810
+
+Processing task : 26887945
+
+Processing task : 26891080
+
+Processing task : 26894215
+
+Processing task : 26897350
+
+Processing task : 26900485
+
+Processing task : 26903620
+
+Processing task : 26906755
+
+Processing task : 26909890
+
+Processing task : 26913025
+
+Processing task : 26916160
+
+Processing task : 26919295
+
+Processing task : 26922430
+
+Processing task : 26925565
+
+Processing task : 26928700
+
+Processing task : 26931835
+
+Processing task : 26934970
+
+Time taken in audit execution: 09:00:43
+
+Completed Task: #10.220.41.66
+
+
+==================== SERVER: 10.66.96.206 ====================
+
+show running-config | begin router bgp | include 100.127.128.86
+show running-config | begin router bgp | include 100.127.128.103
+show running-config | begin router bgp | include 100.127.129.30
+show running-config | begin router bgp | include 100.127.129.32
+show running-config | begin router bgp | include 100.127.129.33
+show running-config | begin router bgp | include 100.127.129.34
+show running-config | begin router bgp | include 100.127.129.69
+show running-config | begin router bgp | include 100.127.129.70
+show running-config | begin router bgp | include 100.127.129.71
+show running-config | begin router bgp | include 100.127.129.72
+show running-config | begin router bgp | include 100.127.129.127
+show running-config | begin router bgp | include 100.127.130.148
+show running-config | begin router bgp | include 100.127.130.176
+show running-config | begin router bgp | include 100.127.131.25
+show running-config | begin router bgp | include 100.127.131.26
+show running-config | begin router bgp | include 100.127.131.176
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show running-config | begin router bgp | include 10.96.1.66
+show running-config | begin router bgp | include 10.96.1.67
+show running-config | begin router bgp | include 10.143.202.223
+show running-config | begin router bgp | include 10.143.202.224
+show running-config | begin router bgp | include 10.143.202.225
+show running-config | begin router bgp | include 10.143.202.226
+show running-config | begin router bgp | include 10.164.54.28
+show running-config | begin router bgp | include 10.164.54.231
+show running-config | begin router bgp | include 10.164.54.253
+show running-config | begin router bgp | include 10.164.54.254
+show running-config | begin router bgp | include 10.164.54.255
+show running-config | begin router bgp | include 100.68.104.157
+show running-config | begin router bgp | include 100.68.104.158
+show running-config | begin router bgp | include 100.68.104.159
+show running-config | begin router bgp | include 100.69.153.58
+show running-config | begin router bgp | include 100.69.155.176
+show running-config | begin router bgp | include 100.69.158.134
+show running-config | begin router bgp | include 100.69.158.139
+show running-config | begin router bgp | include 100.69.159.165
+show running-config | begin router bgp | include 100.127.128.0
+show running-config | begin router bgp | include 100.127.128.1
+show running-config | begin router bgp | include 100.127.128.2
+show running-config | begin router bgp | include 100.127.128.3
+show running-config | begin router bgp | include 100.127.128.4
+show running-config | begin router bgp | include 100.127.128.86
+show running-config | begin router bgp | include 100.127.128.103
+show running-config | begin router bgp | include 100.127.129.30
+show running-config | begin router bgp | include 100.127.129.32
+show running-config | begin router bgp | include 100.127.129.33
+show running-config | begin router bgp | include 100.127.129.34
+show running-config | begin router bgp | include 100.127.129.69
+show running-config | begin router bgp | include 100.127.129.70
+show running-config | begin router bgp | include 100.127.129.71
+show running-config | begin router bgp | include 100.127.129.72
+show running-config | begin router bgp | include 100.127.129.127
+show running-config | begin router bgp | include 100.127.130.148
+show running-config | begin router bgp | include 100.127.130.176
+show running-config | begin router bgp | include 100.127.131.25
+show running-config | begin router bgp | include 100.127.131.26
+show running-config | begin router bgp | include 100.127.131.176
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show run interface BD2002
+show run interface BD2000
+show run interface BD2004
+show run interface BD2006
+show run interface BD2001
+show run interface Te0/0/5
+show run interface BD2003
+show run interface Te0/4/4
+show run interface Te0/4/7
+show run interface BD2005
+show run interface BD25
+show run interface Te0/0/1
+show run interface BD324
+show run interface Te0/0/6
+show run interface BD325
+show run interface Te0/4/0
+show run interface BD76
+show run interface Te0/0/7
+show run interface Te0/4/1
+show run interface BD484
+show running-config interface BD2002
+show running-config interface BD2000
+show running-config interface BD2004
+show running-config interface BD2006
+show running-config interface BD2001
+show running-config interface Te0/0/5
+show running-config interface BD2003
+show running-config interface Te0/4/4
+show running-config interface Te0/4/7
+show running-config interface BD2005
+show running-config interface BD25
+show running-config interface Te0/0/1
+show running-config interface BD324
+show running-config interface Te0/0/6
+show running-config interface BD325
+show running-config interface Te0/4/0
+show running-config interface BD76
+show running-config interface Te0/0/7
+show running-config interface Te0/4/1
+show running-config interface BD484
+show running-config interface BD2002
+show running-config interface BD2000
+show running-config interface BD2004
+show running-config interface BD2006
+show running-config interface BD2001
+show running-config interface Te0/0/5
+show running-config interface BD2003
+show running-config interface Te0/4/4
+show running-config interface Te0/4/7
+show running-config interface BD2005
+show running-config interface BD25
+show running-config interface Te0/0/1
+show running-config interface BD324
+show running-config interface Te0/0/6
+show running-config interface BD325
+show running-config interface Te0/4/0
+show running-config interface BD76
+show running-config interface Te0/0/7
+show running-config interface Te0/4/1
+show running-config interface BD484
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/5
+show running-config interface Te0/0/5
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show interfaces Te0/4/7
+show running-config interface Te0/4/7
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD25
+show running-config interface BD25
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD324
+show running-config interface BD324
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show bridge-domain BD325
+show running-config interface BD325
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD76
+show running-config interface BD76
+
+show interfaces Te0/0/7
+show running-config interface Te0/0/7
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD484
+show running-config interface BD484
+show running-config interface BD2002
+show running-config interface BD2000
+show running-config interface BD2004
+show running-config interface BD2006
+show running-config interface BD2001
+show running-config interface Te0/0/5
+show running-config interface BD2003
+show running-config interface Te0/4/4
+show running-config interface Te0/4/7
+show running-config interface BD2005
+show running-config interface BD25
+show running-config interface Te0/0/1
+show running-config interface BD324
+show running-config interface Te0/0/6
+show running-config interface BD325
+show running-config interface Te0/4/0
+show running-config interface BD76
+show running-config interface Te0/0/7
+show running-config interface Te0/4/1
+show running-config interface BD484
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/5
+show running-config interface Te0/0/5
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show interfaces Te0/4/7
+show running-config interface Te0/4/7
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD25
+show running-config interface BD25
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD324
+show running-config interface BD324
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show bridge-domain BD325
+show running-config interface BD325
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD76
+show running-config interface BD76
+
+show interfaces Te0/0/7
+show running-config interface Te0/0/7
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD484
+show running-config interface BD484
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/5
+show running-config interface Te0/0/5
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show interfaces Te0/4/7
+show running-config interface Te0/4/7
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD25
+show running-config interface BD25
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD324
+show running-config interface BD324
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show bridge-domain BD325
+show running-config interface BD325
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD76
+show running-config interface BD76
+
+show interfaces Te0/0/7
+show running-config interface Te0/0/7
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD484
+show running-config interface BD484
+Processing task : 26788307
+
+Difference checkCommandsBlock
+
+Processing task : 26791442
+
+Difference checkCommandsBlock
+
+Processing task : 26794577
+
+Processing task : 26797712
+
+Processing task : 26800847
+
+Difference checkCommandsBlock
+
+Processing task : 26803982
+
+Difference checkCommands
+
+Processing task : 26807117
+
+Difference checkCommandsBlock
+
+Processing task : 26810252
+
+Difference checkCommandsBlock
+
+Processing task : 26813387
+
+Processing task : 26816522
+
+Difference checkCommandsBlock
+
+Processing task : 26819657
+
+Difference checkCommandsBlock
+
+Processing task : 26822792
+
+Difference checkCommandsBlock
+
+Processing task : 26825927
+
+Difference checkCommandsBlock
+
+Processing task : 26829062
+
+Difference checkCommandsBlock
+
+Processing task : 26832197
+
+Difference checkCommandsBlock
+
+Processing task : 26835332
+
+Difference checkCommandsBlock
+
+Processing task : 26838467
+
+Difference checkCommandsBlock
+
+Processing task : 26841602
+
+Difference checkCommandsBlock
+
+Processing task : 26844737
+
+Difference checkCommandsBlock
+
+Processing task : 26847872
+
+Processing task : 26851007
+
+Difference checkCommands
+
+Processing task : 26854142
+
+Processing task : 26857277
+
+Difference checkCommands
+
+Processing task : 26860412
+
+Difference checkCommandsBlock
+
+Processing task : 26863547
+
+Difference checkCommands
+
+Processing task : 26866682
+
+Difference checkCommands
+
+Processing task : 26869817
+
+Difference checkCommandsBlock
+
+Processing task : 26872952
+
+Difference checkCommands
+
+Processing task : 26876087
+
+Difference checkCommands
+
+Processing task : 26879222
+
+Difference checkCommands
+
+Processing task : 26882357
+
+Difference checkCommandsBlock
+
+Processing task : 26885492
+
+Difference checkCommands
+
+Processing task : 26888627
+
+Processing task : 26891762
+
+Difference checkCommands
+
+Processing task : 26894897
+
+Difference checkCommands
+
+Processing task : 26898032
+
+Difference checkCommandsBlock
+
+Processing task : 26901167
+
+Difference checkCommands
+
+Processing task : 26904302
+
+Difference checkCommands
+
+Processing task : 26907437
+
+Difference checkCommandsBlock
+
+Processing task : 26910572
+
+Difference checkCommands
+
+Processing task : 26913707
+
+Processing task : 26916842
+
+Processing task : 26919977
+
+Processing task : 26923112
+
+Difference checkCommandsBlock
+
+Processing task : 26926247
+
+Difference checkCommandsBlock
+
+Processing task : 26929382
+
+Difference checkCommandsBlock
+
+Processing task : 26932517
+
+Difference checkCommandsBlock
+
+Processing task : 26935652
+
+Difference checkCommands
+
+Time taken in audit execution: 06:32:16
+
+Completed Task: #100.127.3.80
+
+
+==================== SERVER: 10.66.96.207 ====================
+
+Difference checkCommandsBlock
+
+Processing task : 26823999
+
+Difference checkCommandsBlock
+
+Processing task : 26827134
+
+Difference checkCommandsBlock
+
+Processing task : 26830269
+
+Difference checkCommandsBlock
+
+Processing task : 26833404
+
+Difference checkCommandsBlock
+
+Processing task : 26836539
+
+Difference checkCommandsBlock
+
+Processing task : 26839674
+
+Difference checkCommandsBlock
+
+Processing task : 26842809
+
+Difference checkCommandsBlock
+
+Processing task : 26845944
+
+Difference checkCommandsBlock
+
+Processing task : 26849079
+
+Processing task : 26852214
+
+Difference checkCommands
+
+Processing task : 26855349
+
+Processing task : 26858484
+
+Difference checkCommands
+
+Processing task : 26861619
+
+Difference checkCommandsBlock
+
+Processing task : 26864754
+
+Difference checkCommands
+
+Processing task : 26867889
+
+Difference checkCommands
+
+Processing task : 26871024
+
+Difference checkCommandsBlock
+
+Processing task : 26874159
+
+Difference checkCommands
+
+Processing task : 26877294
+
+Difference checkCommands
+
+Processing task : 26880429
+
+Difference checkCommands
+
+Processing task : 26883564
+
+Difference checkCommandsBlock
+
+Processing task : 26886699
+
+Difference checkCommands
+
+Processing task : 26889834
+
+Processing task : 26892969
+
+Difference checkCommands
+
+Processing task : 26896104
+
+Difference checkCommands
+
+Processing task : 26899239
+
+Difference checkCommandsBlock
+
+Processing task : 26902374
+
+Difference checkCommands
+
+Processing task : 26905509
+
+Difference checkCommands
+
+Processing task : 26908644
+
+Difference checkCommandsBlock
+
+Processing task : 26911779
+
+Difference checkCommands
+
+Processing task : 26914914
+
+Processing task : 26918049
+
+Processing task : 26921184
+
+Processing task : 26924319
+
+Difference checkCommandsBlock
+
+Processing task : 26927454
+
+Difference checkCommandsBlock
+
+Processing task : 26930589
+
+Difference checkCommandsBlock
+
+Processing task : 26933724
+
+Difference checkCommandsBlock
+
+Processing task : 26936859
+
+Difference checkCommands
+
+Time taken in audit execution: 05:37:37
+
+Completed Task: #103.29.45.177
+
+
+Processing task : 26789486
+
+Difference checkCommandsBlock
+
+Processing task : 26792621
+
+Difference checkCommandsBlock
+
+Processing task : 26795756
+
+Processing task : 26798891
+
+Processing task : 26802026
+
+Difference checkCommandsBlock
+
+Processing task : 26805161
+
+Difference checkCommands
+
+Processing task : 26808296
+
+Difference checkCommandsBlock
+
+Processing task : 26811431
+
+Difference checkCommandsBlock
+
+Processing task : 26814566
+
+Processing task : 26817701
+
+Difference checkCommandsBlock
+
+Processing task : 26820836
+
+Difference checkCommandsBlock
+
+Processing task : 26823971
+
+Difference checkCommandsBlock
+
+Processing task : 26827106
+
+Difference checkCommandsBlock
+
+Processing task : 26830241
+
+Difference checkCommandsBlock
+
+Processing task : 26833376
+
+Difference checkCommandsBlock
+
+Processing task : 26836511
+
+Difference checkCommandsBlock
+
+Processing task : 26839646
+
+Difference checkCommandsBlock
+
+Processing task : 26842781
+
+Difference checkCommandsBlock
+
+Processing task : 26845916
+
+Difference checkCommandsBlock
+
+Processing task : 26849051
+
+Processing task : 26852186
+
+Difference checkCommands
+
+Processing task : 26855321
+
+Processing task : 26858456
+
+Difference checkCommands
+
+Processing task : 26861591
+
+Difference checkCommandsBlock
+
+Processing task : 26864726
+
+Difference checkCommands
+
+Processing task : 26867861
+
+Difference checkCommands
+
+Processing task : 26870996
+
+Difference checkCommandsBlock
+
+Processing task : 26874131
+
+Difference checkCommands
+
+Processing task : 26877266
+
+Difference checkCommands
+
+Processing task : 26880401
+
+Difference checkCommands
+
+Processing task : 26883536
+
+Difference checkCommandsBlock
+
+Processing task : 26886671
+
+Difference checkCommands
+
+Processing task : 26889806
+
+Processing task : 26892941
+
+Difference checkCommands
+
+Processing task : 26896076
+
+Difference checkCommands
+
+Processing task : 26899211
+
+Difference checkCommandsBlock
+
+Processing task : 26902346
+
+Difference checkCommands
+
+Processing task : 26905481
+
+Difference checkCommands
+
+Processing task : 26908616
+
+Difference checkCommandsBlock
+
+Processing task : 26911751
+
+Difference checkCommands
+
+Processing task : 26914886
+
+Processing task : 26918021
+
+Processing task : 26921156
+
+Processing task : 26924291
+
+Difference checkCommandsBlock
+
+Processing task : 26927426
+
+Difference checkCommandsBlock
+
+Processing task : 26930561
+
+Difference checkCommandsBlock
+
+Processing task : 26933696
+
+Difference checkCommandsBlock
+
+Processing task : 26936831
+
+Difference checkCommands
+
+Time taken in audit execution: 05:39:10
+
+Completed Task: #103.29.45.22
+
+
+Processing task : 26788328
+
+Difference checkCommandsBlock
+
+Processing task : 26791463
+
+Difference checkCommandsBlock
+
+Processing task : 26794598
+
+Processing task : 26797733
+
+Processing task : 26800868
+
+Difference checkCommandsBlock
+
+Processing task : 26804003
+
+Difference checkCommands
+
+Processing task : 26807138
+
+Difference checkCommandsBlock
+
+Processing task : 26810273
+
+Difference checkCommandsBlock
+
+Processing task : 26813408
+
+Processing task : 26816543
+
+Difference checkCommandsBlock
+
+Processing task : 26819678
+
+Difference checkCommandsBlock
+
+Processing task : 26822813
+
+Difference checkCommandsBlock
+
+Processing task : 26825948
+
+Difference checkCommandsBlock
+
+Processing task : 26829083
+
+Difference checkCommandsBlock
+
+Processing task : 26832218
+
+Difference checkCommandsBlock
+
+Processing task : 26835353
+
+Difference checkCommandsBlock
+
+Processing task : 26838488
+
+Difference checkCommandsBlock
+
+Processing task : 26841623
+
+Difference checkCommandsBlock
+
+Processing task : 26844758
+
+Difference checkCommandsBlock
+
+Processing task : 26847893
+
+Processing task : 26851028
+
+Difference checkCommands
+
+Processing task : 26854163
+
+Processing task : 26857298
+
+Difference checkCommands
+
+Processing task : 26860433
+
+Difference checkCommandsBlock
+
+Processing task : 26863568
+
+Difference checkCommands
+
+Processing task : 26866703
+
+Difference checkCommands
+
+Processing task : 26869838
+
+Difference checkCommandsBlock
+
+Processing task : 26872973
+
+Difference checkCommands
+
+Processing task : 26876108
+
+Difference checkCommands
+
+Processing task : 26879243
+
+Difference checkCommands
+
+Processing task : 26882378
+
+Difference checkCommandsBlock
+
+Processing task : 26885513
+
+Difference checkCommands
+
+Processing task : 26888648
+
+Processing task : 26891783
+
+Difference checkCommands
+
+Processing task : 26894918
+
+Difference checkCommands
+
+Processing task : 26898053
+
+Difference checkCommandsBlock
+
+Processing task : 26901188
+
+Difference checkCommands
+
+Processing task : 26904323
+
+Difference checkCommands
+
+Processing task : 26907458
+
+Difference checkCommandsBlock
+
+Processing task : 26910593
+
+Difference checkCommands
+
+Processing task : 26913728
+
+Processing task : 26916863
+
+Processing task : 26919998
+
+Processing task : 26923133
+
+Difference checkCommandsBlock
+
+Processing task : 26926268
+
+Difference checkCommandsBlock
+
+Processing task : 26929403
+
+Difference checkCommandsBlock
+
+Processing task : 26932538
+
+Difference checkCommandsBlock
+
+Processing task : 26935673
+
+Difference checkCommands
+
+Time taken in audit execution: 06:03:25
+
+Completed Task: #100.127.3.129
+
+
+==================== SERVER: 10.66.96.208 ====================
+
+Completed Task: #182.19.92.70
+
+
+show running-config | begin router bgp | include 10.96.1.159
+show running-config | begin router bgp | include 10.96.1.160
+show running-config | begin router bgp | include 10.96.1.162
+show running-config | begin router bgp | include 10.96.1.185
+show running-config | begin router bgp | include 10.96.1.186
+show running-config | begin router bgp | include 10.96.1.187
+show running-config | begin router bgp | include 10.96.1.188
+show running-config | begin router bgp | include 10.96.1.189
+show running-config | begin router bgp | include 10.96.1.190
+show running-config | begin router bgp | include 10.96.1.191
+show running-config | begin router bgp | include 10.96.1.192
+show running-config | begin router bgp | include 10.96.1.193
+show running-config | begin router bgp | include 10.96.2.62
+show running-config | begin router bgp | include 100.69.152.97
+show running-config | begin router bgp | include 100.69.157.227
+show running-config | begin router bgp | include 100.69.157.228
+show running-config | begin router bgp | include 100.69.157.229
+show running-config | begin router bgp | include 100.69.157.230
+show running-config | begin router bgp | include 100.69.157.252
+show running-config | begin router bgp | include 100.69.158.61
+show running-config | begin router bgp | include 100.69.158.62
+show running-config | begin router bgp | include 100.69.158.69
+show running-config | begin router bgp | include 100.69.158.76
+show running-config | begin router bgp | include 100.69.158.77
+show running-config | begin router bgp | include 100.69.159.137
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show running-config | begin router bgp | include 10.96.0.244
+show running-config | begin router bgp | include 10.96.0.245
+show running-config | begin router bgp | include 10.96.0.246
+show running-config | begin router bgp | include 10.96.0.247
+show running-config | begin router bgp | include 10.96.0.248
+show running-config | begin router bgp | include 10.96.1.149
+show running-config | begin router bgp | include 10.96.1.150
+show running-config | begin router bgp | include 10.96.1.151
+show running-config | begin router bgp | include 10.96.1.152
+show running-config | begin router bgp | include 10.96.1.153
+show running-config | begin router bgp | include 10.96.1.154
+show running-config | begin router bgp | include 10.96.1.155
+show running-config | begin router bgp | include 10.96.1.157
+show running-config | begin router bgp | include 10.96.1.158
+show running-config | begin router bgp | include 10.96.1.159
+show running-config | begin router bgp | include 10.96.1.160
+show running-config | begin router bgp | include 10.96.1.162
+show running-config | begin router bgp | include 10.96.1.185
+show running-config | begin router bgp | include 10.96.1.186
+show running-config | begin router bgp | include 10.96.1.187
+show running-config | begin router bgp | include 10.96.1.188
+show running-config | begin router bgp | include 10.96.1.189
+show running-config | begin router bgp | include 10.96.1.190
+show running-config | begin router bgp | include 10.96.1.191
+show running-config | begin router bgp | include 10.96.1.192
+show running-config | begin router bgp | include 10.96.1.193
+show running-config | begin router bgp | include 10.96.2.62
+show running-config | begin router bgp | include 100.69.152.97
+show running-config | begin router bgp | include 100.69.157.227
+show running-config | begin router bgp | include 100.69.157.228
+show running-config | begin router bgp | include 100.69.157.229
+show running-config | begin router bgp | include 100.69.157.230
+show running-config | begin router bgp | include 100.69.157.252
+show running-config | begin router bgp | include 100.69.158.61
+show running-config | begin router bgp | include 100.69.158.62
+show running-config | begin router bgp | include 100.69.158.69
+show running-config | begin router bgp | include 100.69.158.76
+show running-config | begin router bgp | include 100.69.158.77
+show running-config | begin router bgp | include 100.69.159.137
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show running-config | begin router bgp | include 10.96.0.244
+show running-config | begin router bgp | include 10.96.0.245
+show running-config | begin router bgp | include 10.96.0.246
+show running-config | begin router bgp | include 10.96.0.247
+show running-config | begin router bgp | include 10.96.0.248
+show running-config | begin router bgp | include 10.96.1.149
+show running-config | begin router bgp | include 10.96.1.150
+show running-config | begin router bgp | include 10.96.1.151
+show running-config | begin router bgp | include 10.96.1.152
+show running-config | begin router bgp | include 10.96.1.153
+show running-config | begin router bgp | include 10.96.1.154
+show running-config | begin router bgp | include 10.96.1.155
+show running-config | begin router bgp | include 10.96.1.157
+show running-config | begin router bgp | include 10.96.1.158
+show running-config | begin router bgp | include 10.96.1.159
+show running-config | begin router bgp | include 10.96.1.160
+show running-config | begin router bgp | include 10.96.1.162
+show running-config | begin router bgp | include 10.96.1.185
+show running-config | begin router bgp | include 10.96.1.186
+show running-config | begin router bgp | include 10.96.1.187
+show running-config | begin router bgp | include 10.96.1.188
+show running-config | begin router bgp | include 10.96.1.189
+show running-config | begin router bgp | include 10.96.1.190
+show running-config | begin router bgp | include 10.96.1.191
+show running-config | begin router bgp | include 10.96.1.192
+show running-config | begin router bgp | include 10.96.1.193
+show running-config | begin router bgp | include 10.96.2.62
+show running-config | begin router bgp | include 100.69.152.97
+show running-config | begin router bgp | include 100.69.157.227
+show running-config | begin router bgp | include 100.69.157.228
+show running-config | begin router bgp | include 100.69.157.229
+show running-config | begin router bgp | include 100.69.157.230
+show running-config | begin router bgp | include 100.69.157.252
+show running-config | begin router bgp | include 100.69.158.61
+show running-config | begin router bgp | include 100.69.158.62
+show running-config | begin router bgp | include 100.69.158.69
+show running-config | begin router bgp | include 100.69.158.76
+show running-config | begin router bgp | include 100.69.158.77
+show running-config | begin router bgp | include 100.69.159.137
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show run interface BD2000
+show run interface BD2002
+show run interface BD155
+show run interface Te0/0/0
+show run interface BD156
+show run interface Gi0/3/7
+show run interface BD2001
+show run interface Gi0/3/0
+show run interface BD158
+show run interface Gi0/2/0
+show run interface BD159
+show run interface Gi0/2/4
+show run interface BD2003
+show run interface Gi0/2/6
+show run interface BD2571
+show run interface BD2570
+show running-config interface BD2000
+show running-config interface BD2002
+show running-config interface BD155
+show running-config interface Te0/0/0
+show running-config interface BD156
+show running-config interface Gi0/3/7
+show running-config interface BD2001
+show running-config interface Gi0/3/0
+show running-config interface BD158
+show running-config interface Gi0/2/0
+show running-config interface BD159
+show running-config interface Gi0/2/4
+show running-config interface BD2003
+show running-config interface Gi0/2/6
+show running-config interface BD2571
+show running-config interface BD2570
+show running-config interface BD2000
+show running-config interface BD2002
+show running-config interface BD155
+show running-config interface Te0/0/0
+show running-config interface BD156
+show running-config interface Gi0/3/7
+show running-config interface BD2001
+show running-config interface Gi0/3/0
+show running-config interface BD158
+show running-config interface Gi0/2/0
+show running-config interface BD159
+show running-config interface Gi0/2/4
+show running-config interface BD2003
+show running-config interface Gi0/2/6
+show running-config interface BD2571
+show running-config interface BD2570
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD155
+show running-config interface BD155
+
+show interfaces Te0/0/0
+show running-config interface Te0/0/0
+
+show bridge-domain BD156
+show running-config interface BD156
+
+show interfaces Gi0/3/7
+show running-config interface Gi0/3/7
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Gi0/3/0
+show running-config interface Gi0/3/0
+
+show bridge-domain BD158
+show running-config interface BD158
+
+show interfaces Gi0/2/0
+show running-config interface Gi0/2/0
+
+show bridge-domain BD159
+show running-config interface BD159
+
+show interfaces Gi0/2/4
+show running-config interface Gi0/2/4
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Gi0/2/6
+show running-config interface Gi0/2/6
+
+show bridge-domain BD2571
+show running-config interface BD2571
+
+show bridge-domain BD2570
+show running-config interface BD2570
+show running-config interface BD2000
+show running-config interface BD2002
+show running-config interface BD155
+show running-config interface Te0/0/0
+show running-config interface BD156
+show running-config interface Gi0/3/7
+show running-config interface BD2001
+show running-config interface Gi0/3/0
+show running-config interface BD158
+show running-config interface Gi0/2/0
+show running-config interface BD159
+show running-config interface Gi0/2/4
+show running-config interface BD2003
+show running-config interface Gi0/2/6
+show running-config interface BD2571
+show running-config interface BD2570
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD155
+show running-config interface BD155
+
+show interfaces Te0/0/0
+show running-config interface Te0/0/0
+
+show bridge-domain BD156
+show running-config interface BD156
+
+show interfaces Gi0/3/7
+show running-config interface Gi0/3/7
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Gi0/3/0
+show running-config interface Gi0/3/0
+
+show bridge-domain BD158
+show running-config interface BD158
+
+show interfaces Gi0/2/0
+show running-config interface Gi0/2/0
+
+show bridge-domain BD159
+show running-config interface BD159
+
+show interfaces Gi0/2/4
+show running-config interface Gi0/2/4
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Gi0/2/6
+show running-config interface Gi0/2/6
+
+show bridge-domain BD2571
+show running-config interface BD2571
+
+show bridge-domain BD2570
+show running-config interface BD2570
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD155
+show running-config interface BD155
+
+show interfaces Te0/0/0
+show running-config interface Te0/0/0
+
+show bridge-domain BD156
+show running-config interface BD156
+
+show interfaces Gi0/3/7
+show running-config interface Gi0/3/7
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Gi0/3/0
+show running-config interface Gi0/3/0
+
+show bridge-domain BD158
+show running-config interface BD158
+
+show interfaces Gi0/2/0
+show running-config interface Gi0/2/0
+
+show bridge-domain BD159
+show running-config interface BD159
+
+show interfaces Gi0/2/4
+show running-config interface Gi0/2/4
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Gi0/2/6
+show running-config interface Gi0/2/6
+
+show bridge-domain BD2571
+show running-config interface BD2571
+
+show bridge-domain BD2570
+show running-config interface BD2570
+Processing task : 26788318
+
+Difference checkCommandsBlock
+
+Processing task : 26791453
+
+Difference checkCommandsBlock
+
+Processing task : 26794588
+
+Processing task : 26797723
+
+Processing task : 26800858
+
+Difference checkCommandsBlock
+
+Processing task : 26803993
+
+Difference checkCommands
+
+Processing task : 26807128
+
+Difference checkCommandsBlock
+
+Processing task : 26810263
+
+Difference checkCommandsBlock
+
+Processing task : 26813398
+
+Processing task : 26816533
+
+Difference checkCommandsBlock
+
+Processing task : 26819668
+
+Difference checkCommandsBlock
+
+Processing task : 26822803
+
+Difference checkCommandsBlock
+
+Processing task : 26825938
+
+Difference checkCommandsBlock
+
+Processing task : 26829073
+
+Difference checkCommandsBlock
+
+Processing task : 26832208
+
+Difference checkCommandsBlock
+
+Processing task : 26835343
+
+Difference checkCommandsBlock
+
+Processing task : 26838478
+
+Difference checkCommandsBlock
+
+Processing task : 26841613
+
+Difference checkCommandsBlock
+
+Processing task : 26844748
+
+Difference checkCommandsBlock
+
+Processing task : 26847883
+
+Processing task : 26851018
+
+Difference checkCommands
+
+Processing task : 26854153
+
+Processing task : 26857288
+
+Difference checkCommands
+
+Processing task : 26860423
+
+Difference checkCommandsBlock
+
+Processing task : 26863558
+
+Difference checkCommands
+
+Processing task : 26866693
+
+Difference checkCommands
+
+Processing task : 26869828
+
+Difference checkCommandsBlock
+
+Processing task : 26872963
+
+Difference checkCommands
+
+Processing task : 26876098
+
+Difference checkCommands
+
+Processing task : 26879233
+
+Difference checkCommands
+
+Processing task : 26882368
+
+Difference checkCommandsBlock
+
+Processing task : 26885503
+
+Difference checkCommands
+
+Processing task : 26888638
+
+Processing task : 26891773
+
+Difference checkCommands
+
+Processing task : 26894908
+
+Difference checkCommands
+
+Processing task : 26898043
+
+Difference checkCommandsBlock
+
+Processing task : 26901178
+
+Difference checkCommands
+
+Processing task : 26904313
+
+Difference checkCommands
+
+Processing task : 26907448
+
+Difference checkCommandsBlock
+
+Processing task : 26910583
+
+Difference checkCommands
+
+Processing task : 26913718
+
+Processing task : 26916853
+
+Processing task : 26919988
+
+Processing task : 26923123
+
+Difference checkCommandsBlock
+
+Processing task : 26926258
+
+Difference checkCommandsBlock
+
+Processing task : 26929393
+
+Difference checkCommandsBlock
+
+Processing task : 26932528
+
+Difference checkCommandsBlock
+
+Processing task : 26935663
+
+Difference checkCommands
+
+Time taken in audit execution: 06:44:16
+
+Completed Task: #100.127.3.103
+
+
+==================== SERVER: 10.66.96.209 ====================
+
+Difference checkCommandsBlock
+
+Processing task : 26824004
+
+Difference checkCommandsBlock
+
+Processing task : 26827139
+
+Difference checkCommandsBlock
+
+Processing task : 26830274
+
+Difference checkCommandsBlock
+
+Processing task : 26833409
+
+Difference checkCommandsBlock
+
+Processing task : 26836544
+
+Difference checkCommandsBlock
+
+Processing task : 26839679
+
+Difference checkCommandsBlock
+
+Processing task : 26842814
+
+Difference checkCommandsBlock
+
+Processing task : 26845949
+
+Difference checkCommandsBlock
+
+Processing task : 26849084
+
+Processing task : 26852219
+
+Difference checkCommands
+
+Processing task : 26855354
+
+Processing task : 26858489
+
+Difference checkCommands
+
+Processing task : 26861624
+
+Difference checkCommandsBlock
+
+Processing task : 26864759
+
+Difference checkCommands
+
+Processing task : 26867894
+
+Difference checkCommands
+
+Processing task : 26871029
+
+Difference checkCommandsBlock
+
+Processing task : 26874164
+
+Difference checkCommands
+
+Processing task : 26877299
+
+Difference checkCommands
+
+Processing task : 26880434
+
+Difference checkCommands
+
+Processing task : 26883569
+
+Difference checkCommandsBlock
+
+Processing task : 26886704
+
+Difference checkCommands
+
+Processing task : 26889839
+
+Processing task : 26892974
+
+Difference checkCommands
+
+Processing task : 26896109
+
+Difference checkCommands
+
+Processing task : 26899244
+
+Difference checkCommandsBlock
+
+Processing task : 26902379
+
+Difference checkCommands
+
+Processing task : 26905514
+
+Difference checkCommands
+
+Processing task : 26908649
+
+Difference checkCommandsBlock
+
+Processing task : 26911784
+
+Difference checkCommands
+
+Processing task : 26914919
+
+Processing task : 26918054
+
+Processing task : 26921189
+
+Processing task : 26924324
+
+Difference checkCommandsBlock
+
+Processing task : 26927459
+
+Difference checkCommandsBlock
+
+Processing task : 26930594
+
+Difference checkCommandsBlock
+
+Processing task : 26933729
+
+Difference checkCommandsBlock
+
+Processing task : 26936864
+
+Difference checkCommands
+
+Processing task : 26789530
+
+Difference checkCommandsBlock
+
+Processing task : 26792665
+
+Difference checkCommandsBlock
+
+Processing task : 26795800
+
+Processing task : 26798935
+
+Processing task : 26802070
+
+Difference checkCommandsBlock
+
+Processing task : 26805205
+
+Difference checkCommands
+
+Processing task : 26808340
+
+Difference checkCommandsBlock
+
+Processing task : 26811475
+
+Difference checkCommandsBlock
+
+Time taken in audit execution: 05:41:44
+
+Completed Task: #103.29.45.188
+
+
+Processing task : 26814610
+
+Processing task : 26817745
+
+Difference checkCommandsBlock
+
+Processing task : 26820880
+
+Difference checkCommandsBlock
+
+Processing task : 26824015
+
+Difference checkCommandsBlock
+
+Processing task : 26827150
+
+Difference checkCommandsBlock
+
+Processing task : 26830285
+
+Difference checkCommandsBlock
+
+Processing task : 26833420
+
+Difference checkCommandsBlock
+
+Processing task : 26836555
+
+Difference checkCommandsBlock
+
+Processing task : 26839690
+
+Difference checkCommandsBlock
+
+Processing task : 26842825
+
+Difference checkCommandsBlock
+
+Processing task : 26845960
+
+Difference checkCommandsBlock
+
+Processing task : 26849095
+
+Processing task : 26852230
+
+Difference checkCommands
+
+Processing task : 26855365
+
+Processing task : 26858500
+
+Difference checkCommands
+
+Processing task : 26861635
+
+Difference checkCommandsBlock
+
+Processing task : 26864770
+
+Difference checkCommands
+
+Processing task : 26867905
+
+Difference checkCommands
+
+Processing task : 26871040
+
+Difference checkCommandsBlock
+
+Processing task : 26874175
+
+Difference checkCommands
+
+Processing task : 26877310
+
+Difference checkCommands
+
+Processing task : 26880445
+
+Difference checkCommands
+
+Processing task : 26883580
+
+Difference checkCommandsBlock
+
+Processing task : 26886715
+
+Difference checkCommands
+
+Processing task : 26889850
+
+Processing task : 26892985
+
+Difference checkCommands
+
+Processing task : 26896120
+
+Difference checkCommands
+
+Processing task : 26899255
+
+Difference checkCommandsBlock
+
+Processing task : 26902390
+
+Difference checkCommands
+
+Processing task : 26905525
+
+Difference checkCommands
+
+Processing task : 26908660
+
+Difference checkCommandsBlock
+
+Processing task : 26911795
+
+Difference checkCommands
+
+Processing task : 26914930
+
+Processing task : 26918065
+
+Processing task : 26921200
+
+Processing task : 26924335
+
+Difference checkCommandsBlock
+
+Processing task : 26927470
+
+Difference checkCommandsBlock
+
+Processing task : 26930605
+
+Difference checkCommandsBlock
+
+Processing task : 26933740
+
+Difference checkCommandsBlock
+
+Processing task : 26936875
+
+Difference checkCommands
+
+Time taken in audit execution: 05:41:40
+
+Completed Task: #182.19.92.160
+
+
+Processing task : 26789501
+
+Difference checkCommandsBlock
+
+Processing task : 26792636
+
+Difference checkCommandsBlock
+
+Processing task : 26795771
+
+Processing task : 26798906
+
+Processing task : 26802041
+
+Difference checkCommandsBlock
+
+Processing task : 26805176
+
+Difference checkCommands
+
+Processing task : 26808311
+
+Difference checkCommandsBlock
+
+Processing task : 26811446
+
+Difference checkCommandsBlock
+
+Processing task : 26814581
+
+Processing task : 26817716
+
+Difference checkCommandsBlock
+
+Processing task : 26820851
+
+Difference checkCommandsBlock
+
+Processing task : 26823986
+
+Difference checkCommandsBlock
+
+Processing task : 26827121
+
+Difference checkCommandsBlock
+
+Processing task : 26830256
+
+Difference checkCommandsBlock
+
+Processing task : 26833391
+
+Difference checkCommandsBlock
+
+Processing task : 26836526
+
+Difference checkCommandsBlock
+
+Processing task : 26839661
+
+Difference checkCommandsBlock
+
+Processing task : 26842796
+
+Difference checkCommandsBlock
+
+Processing task : 26845931
+
+Difference checkCommandsBlock
+
+Processing task : 26849066
+
+Processing task : 26852201
+
+Difference checkCommands
+
+Processing task : 26855336
+
+Processing task : 26858471
+
+Difference checkCommands
+
+Processing task : 26861606
+
+Difference checkCommandsBlock
+
+Processing task : 26864741
+
+Difference checkCommands
+
+Processing task : 26867876
+
+Difference checkCommands
+
+Processing task : 26871011
+
+Difference checkCommandsBlock
+
+Processing task : 26874146
+
+Difference checkCommands
+
+Processing task : 26877281
+
+Difference checkCommands
+
+Processing task : 26880416
+
+Difference checkCommands
+
+Processing task : 26883551
+
+Difference checkCommandsBlock
+
+Processing task : 26886686
+
+Difference checkCommands
+
+Processing task : 26889821
+
+Processing task : 26892956
+
+Difference checkCommands
+
+Processing task : 26896091
+
+Difference checkCommands
+
+Processing task : 26899226
+
+Difference checkCommandsBlock
+
+Processing task : 26902361
+
+Difference checkCommands
+
+Processing task : 26905496
+
+Difference checkCommands
+
+Processing task : 26908631
+
+Difference checkCommandsBlock
+
+Processing task : 26911766
+
+Difference checkCommands
+
+Processing task : 26914901
+
+Processing task : 26918036
+
+Processing task : 26921171
+
+Processing task : 26924306
+
+Difference checkCommandsBlock
+
+Processing task : 26927441
+
+Difference checkCommandsBlock
+
+Processing task : 26930576
+
+Difference checkCommandsBlock
+
+Processing task : 26933711
+
+Difference checkCommandsBlock
+
+Processing task : 26936846
+
+Difference checkCommands
+
+Time taken in audit execution: 05:48:53
+
+Completed Task: #103.29.45.105
+
+
+==================== SERVER: 10.66.96.210 ====================
+
+
+Difference checkCommandsBlock
+
+Processing task : 26839706
+
+Difference checkCommandsBlock
+
+Processing task : 26842841
+
+Difference checkCommandsBlock
+
+Processing task : 26845976
+
+Difference checkCommandsBlock
+
+Processing task : 26849111
+
+Processing task : 26852246
+
+Difference checkCommands
+
+Processing task : 26855381
+
+Processing task : 26858516
+
+Difference checkCommands
+
+Processing task : 26861651
+
+Difference checkCommandsBlock
+
+Processing task : 26864786
+
+Difference checkCommands
+
+Processing task : 26867921
+
+Difference checkCommands
+
+Processing task : 26871056
+
+Difference checkCommandsBlock
+
+Processing task : 26874191
+
+Difference checkCommands
+
+Processing task : 26877326
+
+Difference checkCommands
+
+Processing task : 26880461
+
+Difference checkCommands
+
+Processing task : 26883596
+
+Difference checkCommandsBlock
+
+Processing task : 26886731
+
+Difference checkCommands
+
+Processing task : 26889866
+
+Processing task : 26893001
+
+Difference checkCommands
+
+Processing task : 26896136
+
+Difference checkCommands
+
+Processing task : 26899271
+
+Difference checkCommandsBlock
+
+Processing task : 26902406
+
+Difference checkCommands
+
+Processing task : 26905541
+
+Difference checkCommands
+
+Processing task : 26908676
+
+Difference checkCommandsBlock
+
+Processing task : 26911811
+
+Difference checkCommands
+
+Processing task : 26914946
+
+Processing task : 26918081
+
+Processing task : 26921216
+
+Processing task : 26924351
+
+Difference checkCommandsBlock
+
+Processing task : 26927486
+
+Difference checkCommandsBlock
+
+Processing task : 26930621
+
+Difference checkCommandsBlock
+
+Processing task : 26933756
+
+Difference checkCommandsBlock
+
+Processing task : 26936891
+
+Difference checkCommands
+
+Time taken in audit execution: 05:43:10
+
+Completed Task: #182.19.98.182
+
+
+show running-config | begin router bgp | include 100.127.8.133
+show running-config | begin router bgp | include 100.127.132.57
+show running-config | begin router bgp | include 100.127.132.58
+show running-config | begin router bgp | include 100.127.195.5
+show running-config | begin router bgp | include 100.127.195.6
+show running-config | begin router bgp | include 100.127.195.7
+show running-config | begin router bgp | include 100.127.195.8
+show running-config | begin router bgp | include 100.127.195.30
+show running-config | begin router bgp | include 182.19.92.193
+show run interface BD2005
+show run interface BD2006
+show run interface BD2000
+show run interface BD2002
+show run interface BD2403
+show run interface Te0/0/4
+show run interface BD2262
+show run interface BD2162
+show run interface BD2007
+show run interface BD2263
+show run interface BD2001
+show run interface Te0/0/1
+show run interface Te0/4/1
+show run interface BD2003
+show run interface BD2004
+show running-config interface BD2005
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface BD2002
+show running-config interface BD2403
+show running-config interface Te0/0/4
+show running-config interface BD2262
+show running-config interface BD2162
+show running-config interface BD2007
+show running-config interface BD2263
+show running-config interface BD2001
+show running-config interface Te0/0/1
+show running-config interface Te0/4/1
+show running-config interface BD2003
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface BD2002
+show running-config interface BD2403
+show running-config interface Te0/0/4
+show running-config interface BD2262
+show running-config interface BD2162
+show running-config interface BD2007
+show running-config interface BD2263
+show running-config interface BD2001
+show running-config interface Te0/0/1
+show running-config interface Te0/4/1
+show running-config interface BD2003
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2403
+show running-config interface BD2403
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD2262
+show running-config interface BD2262
+
+show bridge-domain BD2162
+show running-config interface BD2162
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2263
+show running-config interface BD2263
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2004
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface BD2002
+show running-config interface BD2403
+show running-config interface Te0/0/4
+show running-config interface BD2262
+show running-config interface BD2162
+show running-config interface BD2007
+show running-config interface BD2263
+show running-config interface BD2001
+show running-config interface Te0/0/1
+show running-config interface Te0/4/1
+show running-config interface BD2003
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2403
+show running-config interface BD2403
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD2262
+show running-config interface BD2262
+
+show bridge-domain BD2162
+show running-config interface BD2162
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2263
+show running-config interface BD2263
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2403
+show running-config interface BD2403
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD2262
+show running-config interface BD2262
+
+show bridge-domain BD2162
+show running-config interface BD2162
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2263
+show running-config interface BD2263
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2004
+show running-config interface BD2004
+Processing task : 26788338
+
+Difference checkCommandsBlock
+
+Processing task : 26791473
+
+Difference checkCommandsBlock
+
+Processing task : 26794608
+
+Processing task : 26797743
+
+Processing task : 26800878
+
+Difference checkCommandsBlock
+
+Processing task : 26804013
+
+Difference checkCommands
+
+Processing task : 26807148
+
+Difference checkCommandsBlock
+
+Processing task : 26810283
+
+Difference checkCommandsBlock
+
+Processing task : 26813418
+
+Processing task : 26816553
+
+Difference checkCommandsBlock
+
+Processing task : 26819688
+
+Difference checkCommandsBlock
+
+Processing task : 26822823
+
+Difference checkCommandsBlock
+
+Processing task : 26825958
+
+Difference checkCommandsBlock
+
+Processing task : 26829093
+
+Difference checkCommandsBlock
+
+Processing task : 26832228
+
+Difference checkCommandsBlock
+
+Processing task : 26835363
+
+Difference checkCommandsBlock
+
+Processing task : 26838498
+
+Difference checkCommandsBlock
+
+Processing task : 26841633
+
+Difference checkCommandsBlock
+
+Processing task : 26844768
+
+Difference checkCommandsBlock
+
+Processing task : 26847903
+
+Processing task : 26851038
+
+Difference checkCommands
+
+Processing task : 26854173
+
+Processing task : 26857308
+
+Difference checkCommands
+
+Processing task : 26860443
+
+Difference checkCommandsBlock
+
+Processing task : 26863578
+
+Difference checkCommands
+
+Processing task : 26866713
+
+Difference checkCommands
+
+Processing task : 26869848
+
+Difference checkCommandsBlock
+
+Processing task : 26872983
+
+Processing task : 26876118
+
+Processing task : 26879253
+
+Processing task : 26882388
+
+Difference checkCommandsBlock
+
+Processing task : 26885523
+
+Difference checkCommands
+
+Processing task : 26888658
+
+Processing task : 26891793
+
+Difference checkCommands
+
+Processing task : 26894928
+
+Difference checkCommands
+
+Processing task : 26898063
+
+Difference checkCommandsBlock
+
+Processing task : 26901198
+
+Difference checkCommands
+
+Processing task : 26904333
+
+Difference checkCommands
+
+Processing task : 26907468
+
+Difference checkCommandsBlock
+
+Processing task : 26910603
+
+Difference checkCommands
+
+Processing task : 26913738
+
+Processing task : 26916873
+
+Processing task : 26920008
+
+Processing task : 26923143
+
+Difference checkCommandsBlock
+
+Processing task : 26926278
+
+Difference checkCommandsBlock
+
+Processing task : 26929413
+
+Difference checkCommandsBlock
+
+Processing task : 26932548
+
+Difference checkCommandsBlock
+
+Processing task : 26935683
+
+Difference checkCommands
+
+Time taken in audit execution: 06:17:44
+
+Completed Task: #100.127.6.3
+
+
+==================== SERVER: 10.66.96.211 ====================
+
+
+Processing task : 26826120
+
+Difference checkCommandsBlock
+
+Processing task : 26829255
+
+Difference checkCommandsBlock
+
+Processing task : 26832390
+
+Difference checkCommandsBlock
+
+Processing task : 26835525
+
+Difference checkCommandsBlock
+
+Processing task : 26838660
+
+Difference checkCommandsBlock
+
+Processing task : 26841795
+
+Difference checkCommandsBlock
+
+Processing task : 26844930
+
+Difference checkCommandsBlock
+
+Processing task : 26848065
+
+Processing task : 26851200
+
+Difference checkCommands
+
+Processing task : 26854335
+
+Processing task : 26857470
+
+Difference checkCommands
+
+Processing task : 26860605
+
+Difference checkCommandsBlock
+
+Processing task : 26863740
+
+Difference checkCommands
+
+Processing task : 26866875
+
+Difference checkCommands
+
+Processing task : 26870010
+
+Difference checkCommandsBlock
+
+Processing task : 26873145
+
+Difference checkCommands
+
+Processing task : 26876280
+
+Difference checkCommands
+
+Processing task : 26879415
+
+Difference checkCommands
+
+Processing task : 26882550
+
+Difference checkCommandsBlock
+
+Processing task : 26885685
+
+Difference checkCommands
+
+Processing task : 26888820
+
+Processing task : 26891955
+
+Difference checkCommands
+
+Processing task : 26895090
+
+Difference checkCommands
+
+Processing task : 26898225
+
+Difference checkCommandsBlock
+
+Processing task : 26901360
+
+Difference checkCommands
+
+Processing task : 26904495
+
+Difference checkCommands
+
+Processing task : 26907630
+
+Difference checkCommandsBlock
+
+Processing task : 26910765
+
+Difference checkCommands
+
+Processing task : 26913900
+
+Processing task : 26917035
+
+Processing task : 26920170
+
+Processing task : 26923305
+
+Difference checkCommandsBlock
+
+Processing task : 26926440
+
+Difference checkCommandsBlock
+
+Processing task : 26929575
+
+Difference checkCommandsBlock
+
+Processing task : 26932710
+
+Difference checkCommandsBlock
+
+Processing task : 26935845
+
+Difference checkCommands
+
+Time taken in audit execution: 06:01:22
+
+Completed Task: #100.127.26.27
+
+
+show running-config | begin router bgp | include 10.99.106.217
+show running-config | begin router bgp | include 10.99.106.218
+show running-config | begin router bgp | include 100.127.8.133
+show running-config | begin router bgp | include 100.127.132.2
+show running-config | begin router bgp | include 100.127.132.3
+show running-config | begin router bgp | include 100.127.132.4
+show running-config | begin router bgp | include 100.127.132.6
+show running-config | begin router bgp | include 100.127.132.10
+show running-config | begin router bgp | include 100.127.132.11
+show running-config | begin router bgp | include 100.127.132.12
+show running-config | begin router bgp | include 100.127.132.13
+show running-config | begin router bgp | include 100.127.195.30
+show running-config | begin router bgp | include 182.19.92.193
+show running-config | begin router bgp | include 10.99.106.214
+show running-config | begin router bgp | include 10.99.106.215
+show running-config | begin router bgp | include 10.99.106.216
+show running-config | begin router bgp | include 10.99.106.217
+show running-config | begin router bgp | include 10.99.106.218
+show running-config | begin router bgp | include 100.127.8.133
+show running-config | begin router bgp | include 100.127.132.2
+show running-config | begin router bgp | include 100.127.132.3
+show running-config | begin router bgp | include 100.127.132.4
+show running-config | begin router bgp | include 100.127.132.6
+show running-config | begin router bgp | include 100.127.132.10
+show running-config | begin router bgp | include 100.127.132.11
+show running-config | begin router bgp | include 100.127.132.12
+show running-config | begin router bgp | include 100.127.132.13
+show running-config | begin router bgp | include 100.127.195.30
+show running-config | begin router bgp | include 182.19.92.193
+show running-config | begin router bgp | include 100.127.8.133
+show running-config | begin router bgp | include 182.19.92.193
+show running-config | begin router bgp | include 10.99.106.214
+show running-config | begin router bgp | include 10.99.106.215
+show running-config | begin router bgp | include 10.99.106.216
+show running-config | begin router bgp | include 10.99.106.217
+show running-config | begin router bgp | include 10.99.106.218
+show running-config | begin router bgp | include 100.127.8.133
+show running-config | begin router bgp | include 100.127.132.2
+show running-config | begin router bgp | include 100.127.132.3
+show running-config | begin router bgp | include 100.127.132.4
+show running-config | begin router bgp | include 100.127.132.6
+show running-config | begin router bgp | include 100.127.132.10
+show running-config | begin router bgp | include 100.127.132.11
+show running-config | begin router bgp | include 100.127.132.12
+show running-config | begin router bgp | include 100.127.132.13
+show running-config | begin router bgp | include 100.127.195.30
+show running-config | begin router bgp | include 182.19.92.193
+show run interface BD2002
+show run interface BD2006
+show run interface BD2000
+show run interface Te0/4/6
+show run interface BD2403
+show run interface Te0/0/4
+show run interface BD2001
+show run interface Te0/4/5
+show run interface BD2003
+show run interface BD2004
+show run interface BD2005
+show running-config interface BD2002
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface Te0/4/6
+show running-config interface BD2403
+show running-config interface Te0/0/4
+show running-config interface BD2001
+show running-config interface Te0/4/5
+show running-config interface BD2003
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface BD2002
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface Te0/4/6
+show running-config interface BD2403
+show running-config interface Te0/0/4
+show running-config interface BD2001
+show running-config interface Te0/4/5
+show running-config interface BD2003
+show running-config interface BD2004
+show running-config interface BD2005
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show interfaces Te0/4/6
+show running-config interface Te0/4/6
+
+show bridge-domain BD2403
+show running-config interface BD2403
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/4/5
+show running-config interface Te0/4/5
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+show running-config interface BD2002
+show running-config interface BD2006
+show running-config interface BD2000
+show running-config interface Te0/4/6
+show running-config interface BD2403
+show running-config interface Te0/0/4
+show running-config interface BD2001
+show running-config interface Te0/4/5
+show running-config interface BD2003
+show running-config interface BD2004
+show running-config interface BD2005
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show interfaces Te0/4/6
+show running-config interface Te0/4/6
+
+show bridge-domain BD2403
+show running-config interface BD2403
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/4/5
+show running-config interface Te0/4/5
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show interfaces Te0/4/6
+show running-config interface Te0/4/6
+
+show bridge-domain BD2403
+show running-config interface BD2403
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/4/5
+show running-config interface Te0/4/5
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+Processing task : 26789483
+
+Difference checkCommandsBlock
+
+Processing task : 26792618
+
+Difference checkCommandsBlock
+
+Processing task : 26795753
+
+Processing task : 26798888
+
+Processing task : 26802023
+
+Difference checkCommandsBlock
+
+Processing task : 26805158
+
+Difference checkCommands
+
+Processing task : 26808293
+
+Difference checkCommandsBlock
+
+Processing task : 26811428
+
+Difference checkCommandsBlock
+
+Processing task : 26814563
+
+Processing task : 26817698
+
+Difference checkCommandsBlock
+
+Processing task : 26820833
+
+Difference checkCommandsBlock
+
+Processing task : 26823968
+
+Difference checkCommandsBlock
+
+Processing task : 26827103
+
+Difference checkCommandsBlock
+
+Processing task : 26830238
+
+Difference checkCommandsBlock
+
+Processing task : 26833373
+
+Difference checkCommandsBlock
+
+Processing task : 26836508
+
+Difference checkCommandsBlock
+
+Processing task : 26839643
+
+Difference checkCommandsBlock
+
+Processing task : 26842778
+
+Difference checkCommandsBlock
+
+Processing task : 26845913
+
+Difference checkCommandsBlock
+
+Processing task : 26849048
+
+Processing task : 26852183
+
+Difference checkCommands
+
+Processing task : 26855318
+
+Processing task : 26858453
+
+Difference checkCommands
+
+Processing task : 26861588
+
+Difference checkCommandsBlock
+
+Processing task : 26864723
+
+Difference checkCommands
+
+Processing task : 26867858
+
+Difference checkCommands
+
+Processing task : 26870993
+
+Difference checkCommandsBlock
+
+Processing task : 26874128
+
+Processing task : 26877263
+
+Processing task : 26880398
+
+Processing task : 26883533
+
+Difference checkCommandsBlock
+
+Processing task : 26886668
+
+Difference checkCommands
+
+Processing task : 26889803
+
+Processing task : 26892938
+
+Difference checkCommands
+
+Processing task : 26896073
+
+Difference checkCommands
+
+Processing task : 26899208
+
+Difference checkCommandsBlock
+
+Processing task : 26902343
+
+Difference checkCommands
+
+Processing task : 26905478
+
+Difference checkCommands
+
+Processing task : 26908613
+
+Difference checkCommandsBlock
+
+Processing task : 26911748
+
+Difference checkCommands
+
+Processing task : 26914883
+
+Processing task : 26918018
+
+Processing task : 26921153
+
+Processing task : 26924288
+
+Difference checkCommandsBlock
+
+Processing task : 26927423
+
+Difference checkCommandsBlock
+
+Processing task : 26930558
+
+Difference checkCommandsBlock
+
+Processing task : 26933693
+
+Difference checkCommandsBlock
+
+Processing task : 26936828
+
+Difference checkCommands
+
+Time taken in audit execution: 05:58:25
+
+Completed Task: #103.29.45.3
+
+
+==================== SERVER: 10.66.96.212 ====================
+
+Difference checkCommands
+
+Processing task : 26899225
+
+Difference checkCommandsBlock
+
+Processing task : 26902360
+
+Difference checkCommands
+
+Processing task : 26905495
+
+Difference checkCommands
+
+Processing task : 26908630
+
+Difference checkCommandsBlock
+
+Processing task : 26911765
+
+Difference checkCommands
+
+Processing task : 26914900
+
+Processing task : 26918035
+
+Processing task : 26921170
+
+Processing task : 26924305
+
+Difference checkCommandsBlock
+
+Processing task : 26927440
+
+Difference checkCommandsBlock
+
+Processing task : 26930575
+
+Difference checkCommandsBlock
+
+Processing task : 26933710
+
+Difference checkCommandsBlock
+
+Processing task : 26936845
+
+Difference checkCommands
+
+Time taken in audit execution: 05:37:40
+
+Completed Task: #103.29.45.104
+
+
+show running-config | begin router bgp | include 100.69.168.144
+show running-config | begin router bgp | include 100.127.26.100
+show running-config | begin router bgp | include 100.127.26.102
+show running-config | begin router bgp | include 100.69.168.138
+show running-config | begin router bgp | include 100.69.168.140
+show running-config | begin router bgp | include 100.69.168.141
+show running-config | begin router bgp | include 100.69.168.144
+show running-config | begin router bgp | include 100.127.26.100
+show running-config | begin router bgp | include 100.127.26.102
+show running-config | begin router bgp | include 10.137.15.213
+show running-config | begin router bgp | include 10.137.15.217
+show running-config | begin router bgp | include 10.137.15.221
+show running-config | begin router bgp | include 10.137.15.225
+show running-config | begin router bgp | include 10.137.15.229
+show running-config | begin router bgp | include 100.69.168.138
+show running-config | begin router bgp | include 100.69.168.140
+show running-config | begin router bgp | include 100.69.168.141
+show running-config | begin router bgp | include 100.69.168.144
+show running-config | begin router bgp | include 100.127.26.100
+Processing task : 26789506
+
+Difference checkCommandsBlock
+
+Processing task : 26792641
+
+Difference checkCommandsBlock
+
+Processing task : 26795776
+
+Processing task : 26798911
+
+Processing task : 26802046
+
+Difference checkCommandsBlock
+
+Processing task : 26805181
+
+Difference checkCommands
+
+Processing task : 26808316
+
+Difference checkCommandsBlock
+
+Processing task : 26811451
+
+Difference checkCommandsBlock
+
+Processing task : 26814586
+
+Processing task : 26817721
+
+Difference checkCommandsBlock
+
+Processing task : 26820856
+
+Difference checkCommandsBlock
+
+Processing task : 26823991
+
+Difference checkCommandsBlock
+
+Processing task : 26827126
+
+Difference checkCommandsBlock
+
+Processing task : 26830261
+
+Difference checkCommandsBlock
+
+Processing task : 26833396
+
+Difference checkCommandsBlock
+
+Processing task : 26836531
+
+Difference checkCommandsBlock
+
+Processing task : 26839666
+
+Difference checkCommandsBlock
+
+Processing task : 26842801
+
+Difference checkCommandsBlock
+
+Processing task : 26845936
+
+Difference checkCommandsBlock
+
+Processing task : 26849071
+
+Processing task : 26852206
+
+Difference checkCommands
+
+Processing task : 26855341
+
+Processing task : 26858476
+
+Difference checkCommands
+
+Processing task : 26861611
+
+Difference checkCommandsBlock
+
+Processing task : 26864746
+
+Difference checkCommands
+
+Processing task : 26867881
+
+Difference checkCommands
+
+Processing task : 26871016
+
+Difference checkCommandsBlock
+
+Processing task : 26874151
+
+Difference checkCommands
+
+Processing task : 26877286
+
+Difference checkCommands
+
+Processing task : 26880421
+
+Difference checkCommands
+
+Processing task : 26883556
+
+Difference checkCommandsBlock
+
+Processing task : 26886691
+
+Difference checkCommands
+
+Processing task : 26889826
+
+Processing task : 26892961
+
+Difference checkCommands
+
+Processing task : 26896096
+
+Difference checkCommands
+
+Processing task : 26899231
+
+Difference checkCommandsBlock
+
+Processing task : 26902366
+
+Difference checkCommands
+
+Processing task : 26905501
+
+Difference checkCommands
+
+Processing task : 26908636
+
+Difference checkCommandsBlock
+
+Processing task : 26911771
+
+Difference checkCommands
+
+Processing task : 26914906
+
+Processing task : 26918041
+
+Processing task : 26921176
+
+Processing task : 26924311
+
+Difference checkCommandsBlock
+
+Processing task : 26927446
+
+Difference checkCommandsBlock
+
+Processing task : 26930581
+
+Difference checkCommandsBlock
+
+Processing task : 26933716
+
+Difference checkCommandsBlock
+
+Processing task : 26936851
+
+Difference checkCommands
+
+Time taken in audit execution: 05:41:07
+
+Completed Task: #103.29.45.121
+
+
+show running-config | begin router bgp | include 100.127.26.102
+show running-config | begin router bgp | include 100.69.168.138
+show running-config | begin router bgp | include 100.69.168.140
+show running-config | begin router bgp | include 100.69.168.141
+show running-config | begin router bgp | include 100.69.168.144
+show running-config | begin router bgp | include 100.127.26.100
+show running-config | begin router bgp | include 100.127.26.102
+show running-config | begin router bgp | include 100.69.168.138
+show running-config | begin router bgp | include 100.69.168.140
+show running-config | begin router bgp | include 100.69.168.141
+show running-config | begin router bgp | include 100.69.168.144
+show running-config | begin router bgp | include 100.127.26.100
+show running-config | begin router bgp | include 100.127.26.102
+show run interface Po10
+show run interface BD2001
+show run interface BD2005
+show run interface BD2502
+show running-config interface Po10
+show running-config interface BD2001
+show running-config interface BD2005
+show running-config interface BD2502
+show running-config interface Po10
+show running-config interface BD2001
+show running-config interface BD2005
+show running-config interface BD2502
+
+show interfaces Po10
+show running-config interface TenGigabitEthernet0/0/0
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/7
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2502
+show running-config interface BD2502
+show running-config interface Po10
+show running-config interface BD2001
+show running-config interface BD2005
+show running-config interface BD2502
+
+show interfaces Po10
+show running-config interface TenGigabitEthernet0/0/0
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/7
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2502
+show running-config interface BD2502
+
+show interfaces Po10
+show running-config interface TenGigabitEthernet0/0/0
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/7
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2502
+show running-config interface BD2502
+Processing task : 26789556
+
+Difference checkCommandsBlock
+
+Processing task : 26792691
+
+Difference checkCommandsBlock
+
+Processing task : 26795826
+
+Processing task : 26798961
+
+Processing task : 26802096
+
+Difference checkCommandsBlock
+
+Processing task : 26805231
+
+Difference checkCommands
+
+Processing task : 26808366
+
+Difference checkCommandsBlock
+
+Processing task : 26811501
+
+Difference checkCommandsBlock
+
+Processing task : 26814636
+
+Processing task : 26817771
+
+Difference checkCommandsBlock
+
+Processing task : 26820906
+
+Difference checkCommandsBlock
+
+Processing task : 26824041
+
+Difference checkCommandsBlock
+
+Processing task : 26827176
+
+Difference checkCommandsBlock
+
+Processing task : 26830311
+
+Difference checkCommandsBlock
+
+Processing task : 26833446
+
+Difference checkCommandsBlock
+
+Processing task : 26836581
+
+Difference checkCommandsBlock
+
+Processing task : 26839716
+
+Difference checkCommandsBlock
+
+Processing task : 26842851
+
+Difference checkCommandsBlock
+
+Processing task : 26845986
+
+Difference checkCommandsBlock
+
+Processing task : 26849121
+
+Processing task : 26852256
+
+Difference checkCommands
+
+Processing task : 26855391
+
+Processing task : 26858526
+
+Difference checkCommands
+
+Processing task : 26861661
+
+Difference checkCommandsBlock
+
+Processing task : 26864796
+
+Difference checkCommands
+
+Processing task : 26867931
+
+Difference checkCommands
+
+Processing task : 26871066
+
+Difference checkCommandsBlock
+
+Processing task : 26874201
+
+Difference checkCommands
+
+Processing task : 26877336
+
+Difference checkCommands
+
+Processing task : 26880471
+
+Difference checkCommands
+
+Processing task : 26883606
+
+Difference checkCommandsBlock
+
+Processing task : 26886741
+
+Difference checkCommands
+
+Processing task : 26889876
+
+Processing task : 26893011
+
+Difference checkCommands
+
+Processing task : 26896146
+
+Difference checkCommands
+
+Processing task : 26899281
+
+Difference checkCommandsBlock
+
+Processing task : 26902416
+
+Difference checkCommands
+
+Processing task : 26905551
+
+Difference checkCommands
+
+Processing task : 26908686
+
+Difference checkCommandsBlock
+
+Processing task : 26911821
+
+Difference checkCommands
+
+Processing task : 26914956
+
+Processing task : 26918091
+
+Processing task : 26921226
+
+Processing task : 26924361
+
+Difference checkCommandsBlock
+
+Processing task : 26927496
+
+Difference checkCommandsBlock
+
+Processing task : 26930631
+
+Difference checkCommandsBlock
+
+Processing task : 26933766
+
+Difference checkCommandsBlock
+
+Processing task : 26936901
+
+Difference checkCommands
+
+Time taken in audit execution: 05:49:01
+
+Completed Task: #182.19.99.14
+
+
+==================== SERVER: 10.66.96.213 ====================
+
+Difference checkCommands
+
+Processing task : 26867864
+
+Difference checkCommands
+
+Processing task : 26870999
+
+Difference checkCommandsBlock
+
+Processing task : 26874134
+
+Difference checkCommands
+
+Processing task : 26877269
+
+Difference checkCommands
+
+Processing task : 26880404
+
+Difference checkCommands
+
+Processing task : 26883539
+
+Difference checkCommandsBlock
+
+Processing task : 26886674
+
+Difference checkCommands
+
+Processing task : 26889809
+
+Processing task : 26892944
+
+Difference checkCommands
+
+Processing task : 26896079
+
+Difference checkCommands
+
+Processing task : 26899214
+
+Difference checkCommandsBlock
+
+Processing task : 26902349
+
+Difference checkCommands
+
+Processing task : 26905484
+
+Difference checkCommands
+
+Processing task : 26908619
+
+Difference checkCommandsBlock
+
+Processing task : 26911754
+
+Difference checkCommands
+
+Processing task : 26914889
+
+Processing task : 26918024
+
+Processing task : 26921159
+
+Processing task : 26924294
+
+Difference checkCommandsBlock
+
+Processing task : 26927429
+
+Difference checkCommandsBlock
+
+Processing task : 26930564
+
+Difference checkCommandsBlock
+
+Processing task : 26933699
+
+Difference checkCommandsBlock
+
+Processing task : 26936834
+
+Difference checkCommands
+
+Time taken in audit execution: 05:36:01
+
+Completed Task: #103.29.45.66
+
+
+Processing task : 26789474
+
+Difference checkCommandsBlock
+
+Processing task : 26792609
+
+Difference checkCommandsBlock
+
+Processing task : 26795744
+
+Processing task : 26798879
+
+Processing task : 26802014
+
+Difference checkCommandsBlock
+
+Processing task : 26805149
+
+Difference checkCommands
+
+Processing task : 26808284
+
+Difference checkCommandsBlock
+
+Processing task : 26811419
+
+Difference checkCommandsBlock
+
+Processing task : 26814554
+
+Processing task : 26817689
+
+Difference checkCommandsBlock
+
+Processing task : 26820824
+
+Difference checkCommandsBlock
+
+Processing task : 26823959
+
+Difference checkCommandsBlock
+
+Processing task : 26827094
+
+Difference checkCommandsBlock
+
+Processing task : 26830229
+
+Difference checkCommandsBlock
+
+Processing task : 26833364
+
+Difference checkCommandsBlock
+
+Processing task : 26836499
+
+Difference checkCommandsBlock
+
+Processing task : 26839634
+
+Difference checkCommandsBlock
+
+Processing task : 26842769
+
+Difference checkCommandsBlock
+
+Processing task : 26845904
+
+Difference checkCommandsBlock
+
+Processing task : 26849039
+
+Processing task : 26852174
+
+Difference checkCommands
+
+Processing task : 26855309
+
+Processing task : 26858444
+
+Difference checkCommands
+
+Processing task : 26861579
+
+Difference checkCommandsBlock
+
+Processing task : 26864714
+
+Difference checkCommands
+
+Processing task : 26867849
+
+Difference checkCommands
+
+show running-config | begin router bgp | include 172.16.242.22
+Processing task : 26870984
+
+Difference checkCommandsBlock
+
+Processing task : 26874119
+
+Difference checkCommands
+
+Processing task : 26877254
+
+Difference checkCommands
+
+Processing task : 26880389
+
+Difference checkCommands
+
+Processing task : 26883524
+
+Difference checkCommandsBlock
+
+Processing task : 26886659
+
+Difference checkCommands
+
+Processing task : 26889794
+
+Processing task : 26892929
+
+Difference checkCommands
+
+Processing task : 26896064
+
+Difference checkCommands
+
+Processing task : 26899199
+
+Difference checkCommandsBlock
+
+Processing task : 26902334
+
+Difference checkCommands
+
+Processing task : 26905469
+
+Difference checkCommands
+
+Processing task : 26908604
+
+Difference checkCommandsBlock
+
+Processing task : 26911739
+
+Difference checkCommands
+
+Processing task : 26914874
+
+Processing task : 26918009
+
+Processing task : 26921144
+
+Processing task : 26924279
+
+Difference checkCommandsBlock
+
+Processing task : 26927414
+
+Difference checkCommandsBlock
+
+Processing task : 26930549
+
+Difference checkCommandsBlock
+
+Processing task : 26933684
+
+Difference checkCommandsBlock
+
+Processing task : 26936819
+
+Difference checkCommands
+
+Time taken in audit execution: 05:36:24
+
+Completed Task: #100.127.205.154
+
+
+show running-config | begin router bgp | include 100.127.26.100
+show running-config | begin router bgp | include 100.127.26.102
+show running-config | begin router bgp | include 100.127.26.100
+show running-config | begin router bgp | include 100.127.26.102
+show run interface Po13
+show run interface Po14
+show running-config interface Po13
+show running-config interface Po14
+show running-config interface Po13
+show running-config interface Po14
+
+show interfaces Po13
+show running-config interface TenGigabitEthernet0/4/1
+show running-config interface TenGigabitEthernet0/4/4
+show running-config interface TenGigabitEthernet0/4/5
+
+show interfaces Po14
+show running-config interface TenGigabitEthernet0/0/0
+show running-config interface TenGigabitEthernet0/0/1
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/0/7
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/2
+show running-config interface Po13
+show running-config interface Po14
+
+show interfaces Po13
+show running-config interface TenGigabitEthernet0/4/1
+show running-config interface TenGigabitEthernet0/4/4
+show running-config interface TenGigabitEthernet0/4/5
+
+show interfaces Po14
+show running-config interface TenGigabitEthernet0/0/0
+show running-config interface TenGigabitEthernet0/0/1
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/0/7
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/2
+
+show interfaces Po13
+show running-config interface TenGigabitEthernet0/4/1
+show running-config interface TenGigabitEthernet0/4/4
+show running-config interface TenGigabitEthernet0/4/5
+
+show interfaces Po14
+show running-config interface TenGigabitEthernet0/0/0
+show running-config interface TenGigabitEthernet0/0/1
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/0/7
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/2
+Processing task : 26789529
+
+Difference checkCommandsBlock
+
+Processing task : 26792664
+
+Difference checkCommandsBlock
+
+Processing task : 26795799
+
+Processing task : 26798934
+
+Processing task : 26802069
+
+Difference checkCommandsBlock
+
+Processing task : 26805204
+
+Difference checkCommands
+
+Processing task : 26808339
+
+Difference checkCommandsBlock
+
+Processing task : 26811474
+
+Difference checkCommandsBlock
+
+Processing task : 26814609
+
+Processing task : 26817744
+
+Difference checkCommandsBlock
+
+Processing task : 26820879
+
+Difference checkCommandsBlock
+
+Processing task : 26824014
+
+Difference checkCommandsBlock
+
+Processing task : 26827149
+
+Difference checkCommandsBlock
+
+Processing task : 26830284
+
+Difference checkCommandsBlock
+
+Processing task : 26833419
+
+Difference checkCommandsBlock
+
+Processing task : 26836554
+
+Difference checkCommandsBlock
+
+Processing task : 26839689
+
+Difference checkCommandsBlock
+
+Processing task : 26842824
+
+Difference checkCommandsBlock
+
+Processing task : 26845959
+
+Difference checkCommandsBlock
+
+Processing task : 26849094
+
+Processing task : 26852229
+
+Difference checkCommands
+
+Processing task : 26855364
+
+Processing task : 26858499
+
+Difference checkCommands
+
+Processing task : 26861634
+
+Difference checkCommandsBlock
+
+Processing task : 26864769
+
+Difference checkCommands
+
+Processing task : 26867904
+
+Difference checkCommands
+
+Processing task : 26871039
+
+Difference checkCommandsBlock
+
+Processing task : 26874174
+
+Difference checkCommands
+
+Processing task : 26877309
+
+Difference checkCommands
+
+Processing task : 26880444
+
+Difference checkCommands
+
+Processing task : 26883579
+
+Difference checkCommandsBlock
+
+Processing task : 26886714
+
+Difference checkCommands
+
+Processing task : 26889849
+
+Processing task : 26892984
+
+Difference checkCommands
+
+Processing task : 26896119
+
+Difference checkCommands
+
+Processing task : 26899254
+
+Difference checkCommandsBlock
+
+Processing task : 26902389
+
+Difference checkCommands
+
+Processing task : 26905524
+
+Difference checkCommands
+
+Processing task : 26908659
+
+Difference checkCommandsBlock
+
+Processing task : 26911794
+
+Difference checkCommands
+
+Processing task : 26914929
+
+Processing task : 26918064
+
+Processing task : 26921199
+
+Processing task : 26924334
+
+Difference checkCommandsBlock
+
+Processing task : 26927469
+
+Difference checkCommandsBlock
+
+Processing task : 26930604
+
+Difference checkCommandsBlock
+
+Processing task : 26933739
+
+Difference checkCommandsBlock
+
+Processing task : 26936874
+
+Difference checkCommands
+
+Time taken in audit execution: 05:48:00
+
+Completed Task: #182.19.92.97
+
+
+==================== SERVER: 10.66.96.214 ====================
+
+Difference checkCommands
+
+Processing task : 26883591
+
+Difference checkCommandsBlock
+
+Processing task : 26886726
+
+Difference checkCommands
+
+Processing task : 26889861
+
+Processing task : 26892996
+
+Difference checkCommands
+
+Processing task : 26896131
+
+Difference checkCommands
+
+Processing task : 26899266
+
+Difference checkCommandsBlock
+
+Processing task : 26902401
+
+Difference checkCommands
+
+Processing task : 26905536
+
+Difference checkCommands
+
+Processing task : 26908671
+
+Difference checkCommandsBlock
+
+show running-config | begin router bgp | include 182.19.92.85
+Processing task : 26911806
+
+Difference checkCommands
+
+Processing task : 26914941
+
+Processing task : 26918076
+
+Processing task : 26921211
+
+Processing task : 26924346
+
+Difference checkCommandsBlock
+
+Processing task : 26927481
+
+Difference checkCommandsBlock
+
+Processing task : 26930616
+
+Difference checkCommandsBlock
+
+Processing task : 26933751
+
+Difference checkCommandsBlock
+
+Processing task : 26936886
+
+Difference checkCommands
+
+Time taken in audit execution: 05:45:15
+
+Completed Task: #182.19.93.103
+
+
+show running-config | begin router bgp | include 10.96.0.18
+show running-config | begin router bgp | include 10.96.0.19
+show running-config | begin router bgp | include 10.96.0.20
+show running-config | begin router bgp | include 10.96.0.41
+show running-config | begin router bgp | include 10.96.1.16
+show running-config | begin router bgp | include 10.96.1.17
+show running-config | begin router bgp | include 10.96.1.18
+show running-config | begin router bgp | include 10.96.1.19
+show running-config | begin router bgp | include 100.68.104.31
+show running-config | begin router bgp | include 100.69.156.63
+show running-config | begin router bgp | include 100.69.158.94
+show running-config | begin router bgp | include 100.69.158.125
+show running-config | begin router bgp | include 100.69.159.0
+show running-config | begin router bgp | include 100.69.159.177
+show running-config | begin router bgp | include 100.69.159.194
+show running-config | begin router bgp | include 100.127.129.134
+show running-config | begin router bgp | include 100.127.130.10
+show running-config | begin router bgp | include 100.127.130.11
+show running-config | begin router bgp | include 100.127.130.12
+show running-config | begin router bgp | include 100.127.130.13
+show running-config | begin router bgp | include 100.127.130.14
+show running-config | begin router bgp | include 100.127.130.67
+show running-config | begin router bgp | include 100.127.130.68
+show running-config | begin router bgp | include 100.127.130.69
+show running-config | begin router bgp | include 100.127.130.170
+show running-config | begin router bgp | include 100.127.130.173
+show running-config | begin router bgp | include 100.127.130.190
+show running-config | begin router bgp | include 182.19.92.84
+show running-config | begin router bgp | include 182.19.92.85
+show run interface BD2000
+show run interface Te0/4/2
+show run interface Te0/0/5
+show run interface Te0/4/1
+show run interface BD2002
+show run interface BD2001
+show run interface Te0/0/1
+show run interface BD51
+show run interface Te0/0/4
+show run interface BD437
+show run interface Te0/4/3
+show run interface BD438
+show run interface Te0/4/4
+show run interface BD2128
+show run interface BD2127
+show run interface BD2130
+show run interface BD2131
+show running-config interface BD2000
+show running-config interface Te0/4/2
+show running-config interface Te0/0/5
+show running-config interface Te0/4/1
+show running-config interface BD2002
+show running-config interface BD2001
+show running-config interface Te0/0/1
+show running-config interface BD51
+show running-config interface Te0/0/4
+show running-config interface BD437
+show running-config interface Te0/4/3
+show running-config interface BD438
+show running-config interface Te0/4/4
+show running-config interface BD2128
+show running-config interface BD2127
+show running-config interface BD2130
+show running-config interface BD2131
+show running-config interface BD2000
+show running-config interface Te0/4/2
+show running-config interface Te0/0/5
+show running-config interface Te0/4/1
+show running-config interface BD2002
+show running-config interface BD2001
+show running-config interface Te0/0/1
+show running-config interface BD51
+show running-config interface Te0/0/4
+show running-config interface BD437
+show running-config interface Te0/4/3
+show running-config interface BD438
+show running-config interface Te0/4/4
+show running-config interface BD2128
+show running-config interface BD2127
+show running-config interface BD2130
+show running-config interface BD2131
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show interfaces Te0/0/5
+show running-config interface Te0/0/5
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD51
+show running-config interface BD51
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD437
+show running-config interface BD437
+
+show interfaces Te0/4/3
+show running-config interface Te0/4/3
+
+show bridge-domain BD438
+show running-config interface BD438
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show bridge-domain BD2128
+show running-config interface BD2128
+
+show bridge-domain BD2127
+show running-config interface BD2127
+
+show bridge-domain BD2130
+show running-config interface BD2130
+
+show bridge-domain BD2131
+show running-config interface BD2131
+show running-config interface BD2000
+show running-config interface Te0/4/2
+show running-config interface Te0/0/5
+show running-config interface Te0/4/1
+show running-config interface BD2002
+show running-config interface BD2001
+show running-config interface Te0/0/1
+show running-config interface BD51
+show running-config interface Te0/0/4
+show running-config interface BD437
+show running-config interface Te0/4/3
+show running-config interface BD438
+show running-config interface Te0/4/4
+show running-config interface BD2128
+show running-config interface BD2127
+show running-config interface BD2130
+show running-config interface BD2131
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show interfaces Te0/0/5
+show running-config interface Te0/0/5
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD51
+show running-config interface BD51
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD437
+show running-config interface BD437
+
+show interfaces Te0/4/3
+show running-config interface Te0/4/3
+
+show bridge-domain BD438
+show running-config interface BD438
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show bridge-domain BD2128
+show running-config interface BD2128
+
+show bridge-domain BD2127
+show running-config interface BD2127
+
+show bridge-domain BD2130
+show running-config interface BD2130
+
+show bridge-domain BD2131
+show running-config interface BD2131
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show interfaces Te0/0/5
+show running-config interface Te0/0/5
+
+show interfaces Te0/4/1
+show running-config interface Te0/4/1
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/1
+show running-config interface Te0/0/1
+
+show bridge-domain BD51
+show running-config interface BD51
+
+show interfaces Te0/0/4
+show running-config interface Te0/0/4
+
+show bridge-domain BD437
+show running-config interface BD437
+
+show interfaces Te0/4/3
+show running-config interface Te0/4/3
+
+show bridge-domain BD438
+show running-config interface BD438
+
+show interfaces Te0/4/4
+show running-config interface Te0/4/4
+
+show bridge-domain BD2128
+show running-config interface BD2128
+
+show bridge-domain BD2127
+show running-config interface BD2127
+
+show bridge-domain BD2130
+show running-config interface BD2130
+
+show bridge-domain BD2131
+show running-config interface BD2131
+Processing task : 26789559
+
+Difference checkCommandsBlock
+
+Processing task : 26792694
+
+Difference checkCommandsBlock
+
+Processing task : 26795829
+
+Processing task : 26798964
+
+Processing task : 26802099
+
+Difference checkCommandsBlock
+
+Processing task : 26805234
+
+Difference checkCommands
+
+Processing task : 26808369
+
+Difference checkCommandsBlock
+
+Processing task : 26811504
+
+Difference checkCommandsBlock
+
+Processing task : 26814639
+
+Processing task : 26817774
+
+Difference checkCommandsBlock
+
+Processing task : 26820909
+
+Difference checkCommandsBlock
+
+Processing task : 26824044
+
+Difference checkCommandsBlock
+
+Processing task : 26827179
+
+Difference checkCommandsBlock
+
+Processing task : 26830314
+
+Difference checkCommandsBlock
+
+Processing task : 26833449
+
+Difference checkCommandsBlock
+
+Processing task : 26836584
+
+Difference checkCommandsBlock
+
+Processing task : 26839719
+
+Difference checkCommandsBlock
+
+Processing task : 26842854
+
+Difference checkCommandsBlock
+
+Processing task : 26845989
+
+Difference checkCommandsBlock
+
+Processing task : 26849124
+
+Processing task : 26852259
+
+Difference checkCommands
+
+Processing task : 26855394
+
+Processing task : 26858529
+
+Difference checkCommands
+
+Processing task : 26861664
+
+Difference checkCommandsBlock
+
+Processing task : 26864799
+
+Difference checkCommands
+
+Processing task : 26867934
+
+Difference checkCommands
+
+Processing task : 26871069
+
+Difference checkCommandsBlock
+
+Processing task : 26874204
+
+Difference checkCommands
+
+Processing task : 26877339
+
+Difference checkCommands
+
+Processing task : 26880474
+
+Difference checkCommands
+
+Processing task : 26883609
+
+Difference checkCommandsBlock
+
+Processing task : 26886744
+
+Difference checkCommands
+
+Processing task : 26889879
+
+Processing task : 26893014
+
+Difference checkCommands
+
+Processing task : 26896149
+
+Difference checkCommands
+
+Processing task : 26899284
+
+Difference checkCommandsBlock
+
+Processing task : 26902419
+
+Difference checkCommands
+
+Processing task : 26905554
+
+Difference checkCommands
+
+Processing task : 26908689
+
+Difference checkCommandsBlock
+
+Processing task : 26911824
+
+Difference checkCommands
+
+Processing task : 26914959
+
+Processing task : 26918094
+
+Processing task : 26921229
+
+Processing task : 26924364
+
+Difference checkCommandsBlock
+
+Processing task : 26927499
+
+Difference checkCommandsBlock
+
+Processing task : 26930634
+
+Difference checkCommandsBlock
+
+Processing task : 26933769
+
+Difference checkCommandsBlock
+
+Processing task : 26936904
+
+Difference checkCommands
+
+Time taken in audit execution: 05:50:20
+
+Completed Task: #182.19.116.158
+
+
+==================== SERVER: 10.66.96.215 ====================
+
+Processing task : 26833442
+
+Difference checkCommandsBlock
+
+Processing task : 26836577
+
+Difference checkCommandsBlock
+
+Processing task : 26839712
+
+Difference checkCommandsBlock
+
+Processing task : 26842847
+
+Difference checkCommandsBlock
+
+Processing task : 26845982
+
+Difference checkCommandsBlock
+
+Processing task : 26849117
+
+Processing task : 26852252
+
+Difference checkCommands
+
+Processing task : 26855387
+
+Processing task : 26858522
+
+Difference checkCommands
+
+Processing task : 26861657
+
+Difference checkCommandsBlock
+
+Processing task : 26864792
+
+Difference checkCommands
+
+Processing task : 26867927
+
+Difference checkCommands
+
+Processing task : 26871062
+
+Difference checkCommandsBlock
+
+Processing task : 26874197
+
+Difference checkCommands
+
+Processing task : 26877332
+
+Difference checkCommands
+
+Processing task : 26880467
+
+Difference checkCommands
+
+Processing task : 26883602
+
+Difference checkCommandsBlock
+
+Processing task : 26886737
+
+Difference checkCommands
+
+Processing task : 26889872
+
+Processing task : 26893007
+
+Difference checkCommands
+
+Processing task : 26896142
+
+Difference checkCommands
+
+Processing task : 26899277
+
+Difference checkCommandsBlock
+
+Processing task : 26902412
+
+Difference checkCommands
+
+Processing task : 26905547
+
+Difference checkCommands
+
+Processing task : 26908682
+
+Difference checkCommandsBlock
+
+Processing task : 26911817
+
+Processing task : 26914952
+
+Processing task : 26918087
+
+Processing task : 26921222
+
+Processing task : 26924357
+
+Difference checkCommandsBlock
+
+Processing task : 26927492
+
+Difference checkCommandsBlock
+
+Processing task : 26930627
+
+Difference checkCommandsBlock
+
+Processing task : 26933762
+
+Difference checkCommandsBlock
+
+Processing task : 26936897
+
+Difference checkCommands
+
+Time taken in audit execution: 05:40:13
+
+Completed Task: #182.19.99.8
+
+
+show running-config | begin router bgp | include 100.69.221.14
+show running-config | begin router bgp | include 100.69.221.15
+show running-config | begin router bgp | include 100.69.221.16
+show running-config | begin router bgp | include 100.69.221.17
+show running-config | begin router bgp | include 100.69.221.130
+show running-config | begin router bgp | include 100.69.221.131
+show running-config | begin router bgp | include 100.69.221.135
+show running-config | begin router bgp | include 100.69.221.136
+show running-config | begin router bgp | include 100.69.221.137
+show running-config | begin router bgp | include 100.69.221.138
+show running-config | begin router bgp | include 100.69.222.9
+show running-config | begin router bgp | include 100.69.222.10
+show running-config | begin router bgp | include 100.69.222.11
+show running-config | begin router bgp | include 100.127.1.48
+show running-config | begin router bgp | include 100.127.1.49
+show running-config | begin router bgp | include 100.127.151.169
+show running-config | begin router bgp | include 100.127.151.226
+show running-config | begin router bgp | include 100.69.221.138
+show running-config | begin router bgp | include 100.127.1.48
+show running-config | begin router bgp | include 100.127.1.49
+show running-config | begin router bgp | include 100.69.221.12
+show running-config | begin router bgp | include 100.69.221.13
+show running-config | begin router bgp | include 100.69.221.14
+show running-config | begin router bgp | include 100.69.221.15
+show running-config | begin router bgp | include 100.69.221.16
+show running-config | begin router bgp | include 100.69.221.17
+show running-config | begin router bgp | include 100.69.221.130
+show running-config | begin router bgp | include 100.69.221.131
+show running-config | begin router bgp | include 100.69.221.135
+show running-config | begin router bgp | include 100.69.221.136
+show running-config | begin router bgp | include 100.69.221.137
+show running-config | begin router bgp | include 100.69.221.138
+show running-config | begin router bgp | include 100.69.222.9
+show running-config | begin router bgp | include 100.69.222.10
+show running-config | begin router bgp | include 100.69.222.11
+show running-config | begin router bgp | include 100.127.1.48
+show running-config | begin router bgp | include 100.127.1.49
+show running-config | begin router bgp | include 100.127.151.169
+show running-config | begin router bgp | include 100.127.151.226
+show run interface BD2001
+show run interface Te0/0/0
+show run interface BD2007
+show run interface BD2501
+show run interface BD2014
+show run interface BD2505
+show run interface BD2009
+show run interface BD2502
+show run interface BD2012
+show run interface BD2504
+show run interface BD2465
+show run interface BD2467
+show running-config interface BD2001
+show running-config interface Te0/0/0
+show running-config interface BD2007
+show running-config interface BD2501
+show running-config interface BD2014
+show running-config interface BD2505
+show running-config interface BD2009
+show running-config interface BD2502
+show running-config interface BD2012
+show running-config interface BD2504
+show running-config interface BD2465
+show running-config interface BD2467
+show running-config interface BD2001
+show running-config interface Te0/0/0
+show running-config interface BD2007
+show running-config interface BD2501
+show running-config interface BD2014
+show running-config interface BD2505
+show running-config interface BD2009
+show running-config interface BD2502
+show running-config interface BD2012
+show running-config interface BD2504
+show running-config interface BD2465
+show running-config interface BD2467
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/0
+show running-config interface Te0/0/0
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2501
+show running-config interface BD2501
+
+show bridge-domain BD2014
+show running-config interface BD2014
+
+show bridge-domain BD2505
+show running-config interface BD2505
+
+show bridge-domain BD2009
+show running-config interface BD2009
+
+show bridge-domain BD2502
+show running-config interface BD2502
+
+show bridge-domain BD2012
+show running-config interface BD2012
+
+show bridge-domain BD2504
+show running-config interface BD2504
+
+show bridge-domain BD2465
+show running-config interface BD2465
+
+show bridge-domain BD2467
+show running-config interface BD2467
+show running-config interface BD2001
+show running-config interface Te0/0/0
+show running-config interface BD2007
+show running-config interface BD2501
+show running-config interface BD2014
+show running-config interface BD2505
+show running-config interface BD2009
+show running-config interface BD2502
+show running-config interface BD2012
+show running-config interface BD2504
+show running-config interface BD2465
+show running-config interface BD2467
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/0
+show running-config interface Te0/0/0
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2501
+show running-config interface BD2501
+
+show bridge-domain BD2014
+show running-config interface BD2014
+
+show bridge-domain BD2505
+show running-config interface BD2505
+
+show bridge-domain BD2009
+show running-config interface BD2009
+
+show bridge-domain BD2502
+show running-config interface BD2502
+
+show bridge-domain BD2012
+show running-config interface BD2012
+
+show bridge-domain BD2504
+show running-config interface BD2504
+
+show bridge-domain BD2465
+show running-config interface BD2465
+
+show bridge-domain BD2467
+show running-config interface BD2467
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show interfaces Te0/0/0
+show running-config interface Te0/0/0
+
+show bridge-domain BD2007
+show running-config interface BD2007
+
+show bridge-domain BD2501
+show running-config interface BD2501
+
+show bridge-domain BD2014
+show running-config interface BD2014
+
+show bridge-domain BD2505
+show running-config interface BD2505
+
+show bridge-domain BD2009
+show running-config interface BD2009
+
+show bridge-domain BD2502
+show running-config interface BD2502
+
+show bridge-domain BD2012
+show running-config interface BD2012
+
+show bridge-domain BD2504
+show running-config interface BD2504
+
+show bridge-domain BD2465
+show running-config interface BD2465
+
+show bridge-domain BD2467
+show running-config interface BD2467
+Processing task : 26788246
+
+Difference checkCommandsBlock
+
+Processing task : 26791381
+
+Difference checkCommandsBlock
+
+Processing task : 26794516
+
+Processing task : 26797651
+
+Processing task : 26800786
+
+Difference checkCommandsBlock
+
+Processing task : 26803921
+
+Difference checkCommands
+
+Processing task : 26807056
+
+Difference checkCommandsBlock
+
+Processing task : 26810191
+
+Difference checkCommandsBlock
+
+Processing task : 26813326
+
+Processing task : 26816461
+
+Difference checkCommandsBlock
+
+Processing task : 26819596
+
+Difference checkCommandsBlock
+
+Processing task : 26822731
+
+Difference checkCommandsBlock
+
+Processing task : 26825866
+
+Difference checkCommandsBlock
+
+Processing task : 26829001
+
+Difference checkCommandsBlock
+
+Processing task : 26832136
+
+Difference checkCommandsBlock
+
+Processing task : 26835271
+
+Difference checkCommandsBlock
+
+Processing task : 26838406
+
+Difference checkCommandsBlock
+
+Processing task : 26841541
+
+Difference checkCommandsBlock
+
+Processing task : 26844676
+
+Difference checkCommandsBlock
+
+Processing task : 26847811
+
+Processing task : 26850946
+
+Difference checkCommands
+
+Processing task : 26854081
+
+Processing task : 26857216
+
+Difference checkCommands
+
+Processing task : 26860351
+
+Difference checkCommandsBlock
+
+Processing task : 26863486
+
+Difference checkCommands
+
+Processing task : 26866621
+
+Difference checkCommands
+
+Processing task : 26869756
+
+Difference checkCommandsBlock
+
+Processing task : 26872891
+
+Difference checkCommands
+
+Processing task : 26876026
+
+Difference checkCommands
+
+Processing task : 26879161
+
+Difference checkCommands
+
+Processing task : 26882296
+
+Difference checkCommandsBlock
+
+Processing task : 26885431
+
+Difference checkCommands
+
+Processing task : 26888566
+
+Processing task : 26891701
+
+Difference checkCommands
+
+Processing task : 26894836
+
+Difference checkCommands
+
+Processing task : 26897971
+
+Difference checkCommandsBlock
+
+Processing task : 26901106
+
+Difference checkCommands
+
+Processing task : 26904241
+
+Difference checkCommands
+
+Processing task : 26907376
+
+Difference checkCommandsBlock
+
+Processing task : 26910511
+
+Difference checkCommands
+
+Processing task : 26913646
+
+Processing task : 26916781
+
+Processing task : 26919916
+
+Processing task : 26923051
+
+Difference checkCommandsBlock
+
+Processing task : 26926186
+
+Difference checkCommandsBlock
+
+Processing task : 26929321
+
+Difference checkCommandsBlock
+
+Processing task : 26932456
+
+Difference checkCommandsBlock
+
+Processing task : 26935591
+
+Difference checkCommands
+
+Time taken in audit execution: 06:22:45
+
+Completed Task: #100.127.0.121
+
+
+==================== SERVER: 10.66.96.216 ====================
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2501
+show running-config interface BD2501
+
+show bridge-domain BD2001
+show running-config interface BD2001
+
+show bridge-domain BD2601
+show running-config interface BD2601
+
+show bridge-domain BD2000
+show running-config interface BD2000
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show bridge-domain BD2006
+show running-config interface BD2006
+
+show bridge-domain BD2501
+show running-config interface BD2501
+
+show bridge-domain BD2001
+show running-config interface BD2001
+show running-config | begin router bgp | include 100.127.132.13
+show running-config | begin router bgp | include 100.127.195.10
+show running-config | begin router bgp | include 100.127.195.11
+show running-config | begin router bgp | include 100.127.195.12
+show running-config | begin router bgp | include 100.127.195.13
+show running-config | begin router bgp | include 182.19.92.193
+show running-config | begin router bgp | include 100.68.66.45
+show running-config | begin router bgp | include 100.127.8.133
+show running-config | begin router bgp | include 100.127.132.10
+show running-config | begin router bgp | include 100.127.132.11
+show running-config | begin router bgp | include 100.127.132.12
+show running-config | begin router bgp | include 100.127.132.13
+show running-config | begin router bgp | include 100.127.195.10
+show running-config | begin router bgp | include 100.127.195.11
+show running-config | begin router bgp | include 100.127.195.12
+show running-config | begin router bgp | include 100.127.195.13
+show running-config | begin router bgp | include 182.19.92.193
+show run interface BD2005
+show run interface Te0/4/2
+show run interface BD2002
+show run interface Te0/4/0
+show run interface BD2003
+show run interface Te0/4/7
+show run interface BD2004
+show running-config interface BD2005
+show running-config interface Te0/4/2
+show running-config interface BD2002
+show running-config interface Te0/4/0
+show running-config interface BD2003
+show running-config interface Te0/4/7
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface Te0/4/2
+show running-config interface BD2002
+show running-config interface Te0/4/0
+show running-config interface BD2003
+show running-config interface Te0/4/7
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/7
+show running-config interface Te0/4/7
+
+show bridge-domain BD2004
+show running-config interface BD2004
+show running-config interface BD2005
+show running-config interface Te0/4/2
+show running-config interface BD2002
+show running-config interface Te0/4/0
+show running-config interface BD2003
+show running-config interface Te0/4/7
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/7
+show running-config interface Te0/4/7
+
+show bridge-domain BD2004
+show running-config interface BD2004
+
+show bridge-domain BD2005
+show running-config interface BD2005
+
+show interfaces Te0/4/2
+show running-config interface Te0/4/2
+
+show bridge-domain BD2002
+show running-config interface BD2002
+
+show interfaces Te0/4/0
+show running-config interface Te0/4/0
+
+show bridge-domain BD2003
+show running-config interface BD2003
+
+show interfaces Te0/4/7
+show running-config interface Te0/4/7
+
+show bridge-domain BD2004
+show running-config interface BD2004
+Processing task : 26789518
+
+Difference checkCommandsBlock
+
+Processing task : 26792653
+
+Difference checkCommandsBlock
+
+Processing task : 26795788
+
+Processing task : 26798923
+
+Processing task : 26802058
+
+Difference checkCommandsBlock
+
+Processing task : 26805193
+
+Difference checkCommands
+
+Processing task : 26808328
+
+Difference checkCommandsBlock
+
+Processing task : 26811463
+
+Difference checkCommandsBlock
+
+Processing task : 26814598
+
+Processing task : 26817733
+
+Difference checkCommandsBlock
+
+Processing task : 26820868
+
+Difference checkCommandsBlock
+
+Processing task : 26824003
+
+Difference checkCommandsBlock
+
+Processing task : 26827138
+
+Difference checkCommandsBlock
+
+Processing task : 26830273
+
+Difference checkCommandsBlock
+
+Processing task : 26833408
+
+Difference checkCommandsBlock
+
+Processing task : 26836543
+
+Difference checkCommandsBlock
+
+Processing task : 26839678
+
+Difference checkCommandsBlock
+
+Processing task : 26842813
+
+Difference checkCommandsBlock
+
+Processing task : 26845948
+
+Difference checkCommandsBlock
+
+Processing task : 26849083
+
+Processing task : 26852218
+
+Difference checkCommands
+
+Processing task : 26855353
+
+Processing task : 26858488
+
+Difference checkCommands
+
+Processing task : 26861623
+
+Difference checkCommandsBlock
+
+Processing task : 26864758
+
+Difference checkCommands
+
+Processing task : 26867893
+
+Difference checkCommands
+
+Processing task : 26871028
+
+Difference checkCommandsBlock
+
+Processing task : 26874163
+
+Difference checkCommands
+
+Processing task : 26877298
+
+Difference checkCommands
+
+Processing task : 26880433
+
+Difference checkCommands
+
+Processing task : 26883568
+
+Difference checkCommandsBlock
+
+Processing task : 26886703
+
+Difference checkCommands
+
+Processing task : 26889838
+
+Processing task : 26892973
+
+Difference checkCommands
+
+Processing task : 26896108
+
+Difference checkCommands
+
+Processing task : 26899243
+
+Difference checkCommandsBlock
+
+Processing task : 26902378
+
+Difference checkCommands
+
+Processing task : 26905513
+
+Difference checkCommands
+
+Processing task : 26908648
+
+Difference checkCommandsBlock
+
+Processing task : 26911783
+
+Difference checkCommands
+
+Processing task : 26914918
+
+Processing task : 26918053
+
+Processing task : 26921188
+
+Processing task : 26924323
+
+Difference checkCommandsBlock
+
+Processing task : 26927458
+
+Difference checkCommandsBlock
+
+Processing task : 26930593
+
+Difference checkCommandsBlock
+
+Processing task : 26933728
+
+Difference checkCommandsBlock
+
+Processing task : 26936863
+
+Difference checkCommands
+
+Time taken in audit execution: 05:53:40
+
+Completed Task: #103.29.45.186
+
+
+Processing task : 26789532
+
+Difference checkCommandsBlock
+
+Processing task : 26792667
+
+Difference checkCommandsBlock
+
+Processing task : 26795802
+
+Processing task : 26798937
+
+Processing task : 26802072
+
+Difference checkCommandsBlock
+
+Processing task : 26805207
+
+Difference checkCommands
+
+Processing task : 26808342
+
+Difference checkCommandsBlock
+
+Processing task : 26811477
+
+Difference checkCommandsBlock
+
+Processing task : 26814612
+
+Processing task : 26817747
+
+Difference checkCommandsBlock
+
+Processing task : 26820882
+
+Difference checkCommandsBlock
+
+Processing task : 26824017
+
+Difference checkCommandsBlock
+
+Processing task : 26827152
+
+Difference checkCommandsBlock
+
+Processing task : 26830287
+
+Difference checkCommandsBlock
+
+Processing task : 26833422
+
+Difference checkCommandsBlock
+
+Processing task : 26836557
+
+Difference checkCommandsBlock
+
+Processing task : 26839692
+
+Difference checkCommandsBlock
+
+Processing task : 26842827
+
+Difference checkCommandsBlock
+
+Processing task : 26845962
+
+Difference checkCommandsBlock
+
+Processing task : 26849097
+
+Processing task : 26852232
+
+Difference checkCommands
+
+Processing task : 26855367
+
+Processing task : 26858502
+
+Difference checkCommands
+
+Processing task : 26861637
+
+Difference checkCommandsBlock
+
+Processing task : 26864772
+
+Difference checkCommands
+
+Processing task : 26867907
+
+Difference checkCommands
+
+Processing task : 26871042
+
+Difference checkCommandsBlock
+
+Processing task : 26874177
+
+Processing task : 26877312
+
+Processing task : 26880447
+
+Processing task : 26883582
+
+Difference checkCommandsBlock
+
+Processing task : 26886717
+
+Difference checkCommands
+
+Processing task : 26889852
+
+Processing task : 26892987
+
+Difference checkCommands
+
+Processing task : 26896122
+
+Difference checkCommands
+
+Processing task : 26899257
+
+Difference checkCommandsBlock
+
+Processing task : 26902392
+
+Difference checkCommands
+
+Processing task : 26905527
+
+Difference checkCommands
+
+Processing task : 26908662
+
+Difference checkCommandsBlock
+
+Processing task : 26911797
+
+Difference checkCommands
+
+Processing task : 26914932
+
+Processing task : 26918067
+
+Processing task : 26921202
+
+Processing task : 26924337
+
+Difference checkCommandsBlock
+
+Processing task : 26927472
+
+Difference checkCommandsBlock
+
+Processing task : 26930607
+
+Difference checkCommandsBlock
+
+Processing task : 26933742
+
+Difference checkCommandsBlock
+
+Processing task : 26936877
+
+Difference checkCommands
+
+Time taken in audit execution: 05:58:24
+
+Completed Task: #182.19.92.165
+
+
+==================== SERVER: 10.66.96.217 ====================
+
+Difference checkCommands
+
+Processing task : 26855385
+
+Processing task : 26858520
+
+Difference checkCommands
+
+Processing task : 26861655
+
+Difference checkCommandsBlock
+
+Processing task : 26864790
+
+Difference checkCommands
+
+Processing task : 26867925
+
+Difference checkCommands
+
+Processing task : 26871060
+
+Difference checkCommandsBlock
+
+Processing task : 26874195
+
+Difference checkCommands
+
+Processing task : 26877330
+
+Difference checkCommands
+
+Processing task : 26880465
+
+Difference checkCommands
+
+show running-config | begin router bgp | include 100.127.12.240
+Processing task : 26883600
+
+Difference checkCommandsBlock
+
+Processing task : 26886735
+
+Difference checkCommands
+
+Processing task : 26889870
+
+Processing task : 26893005
+
+Difference checkCommands
+
+Processing task : 26896140
+
+Difference checkCommands
+
+Processing task : 26899275
+
+Difference checkCommandsBlock
+
+Processing task : 26902410
+
+Difference checkCommands
+
+Processing task : 26905545
+
+Difference checkCommands
+
+Processing task : 26908680
+
+Difference checkCommandsBlock
+
+Processing task : 26911815
+
+Difference checkCommands
+
+Processing task : 26914950
+
+Processing task : 26918085
+
+Processing task : 26921220
+
+Processing task : 26924355
+
+Difference checkCommandsBlock
+
+Processing task : 26927490
+
+Difference checkCommandsBlock
+
+Processing task : 26930625
+
+Difference checkCommandsBlock
+
+Processing task : 26933760
+
+Difference checkCommandsBlock
+
+Processing task : 26936895
+
+Difference checkCommands
+
+Time taken in audit execution: 05:36:44
+
+Completed Task: #182.19.98.228
+
+
+show running-config | begin router bgp | include 100.127.12.241
+show running-config | begin router bgp | include 100.127.12.240
+show running-config | begin router bgp | include 100.127.12.241
+show running-config | begin router bgp | include 100.127.12.240
+show running-config | begin router bgp | include 100.127.12.241
+Processing task : 26789526
+
+Difference checkCommandsBlock
+
+Processing task : 26792661
+
+Difference checkCommandsBlock
+
+Processing task : 26795796
+
+Processing task : 26798931
+
+Processing task : 26802066
+
+Difference checkCommandsBlock
+
+Processing task : 26805201
+
+Difference checkCommands
+
+Processing task : 26808336
+
+Difference checkCommandsBlock
+
+Processing task : 26811471
+
+Difference checkCommandsBlock
+
+Processing task : 26814606
+
+Processing task : 26817741
+
+Difference checkCommandsBlock
+
+Processing task : 26820876
+
+Difference checkCommandsBlock
+
+Processing task : 26824011
+
+Difference checkCommandsBlock
+
+Processing task : 26827146
+
+Difference checkCommandsBlock
+
+Processing task : 26830281
+
+Difference checkCommandsBlock
+
+Processing task : 26833416
+
+Difference checkCommandsBlock
+
+Processing task : 26836551
+
+Difference checkCommandsBlock
+
+Processing task : 26839686
+
+Difference checkCommandsBlock
+
+Processing task : 26842821
+
+Difference checkCommandsBlock
+
+Processing task : 26845956
+
+Difference checkCommandsBlock
+
+Processing task : 26849091
+
+Processing task : 26852226
+
+Difference checkCommands
+
+Processing task : 26855361
+
+Processing task : 26858496
+
+Difference checkCommands
+
+Processing task : 26861631
+
+Difference checkCommandsBlock
+
+Processing task : 26864766
+
+Difference checkCommands
+
+Processing task : 26867901
+
+Difference checkCommands
+
+Processing task : 26871036
+
+Difference checkCommandsBlock
+
+Processing task : 26874171
+
+Difference checkCommands
+
+Processing task : 26877306
+
+Difference checkCommands
+
+Processing task : 26880441
+
+Difference checkCommands
+
+Processing task : 26883576
+
+Difference checkCommandsBlock
+
+Processing task : 26886711
+
+Difference checkCommands
+
+Processing task : 26889846
+
+Processing task : 26892981
+
+Difference checkCommands
+
+Processing task : 26896116
+
+Difference checkCommands
+
+Processing task : 26899251
+
+Difference checkCommandsBlock
+
+Processing task : 26902386
+
+Difference checkCommands
+
+Processing task : 26905521
+
+Difference checkCommands
+
+Processing task : 26908656
+
+Difference checkCommandsBlock
+
+Processing task : 26911791
+
+Difference checkCommands
+
+Processing task : 26914926
+
+Processing task : 26918061
+
+Processing task : 26921196
+
+Processing task : 26924331
+
+Difference checkCommandsBlock
+
+Processing task : 26927466
+
+Difference checkCommandsBlock
+
+Processing task : 26930601
+
+Difference checkCommandsBlock
+
+Processing task : 26933736
+
+Difference checkCommandsBlock
+
+Processing task : 26936871
+
+Difference checkCommands
+
+show run interface Po3
+show run interface BD2696
+Time taken in audit execution: 05:39:39
+
+Completed Task: #182.19.92.38
+
+
+show running-config interface Po3
+show running-config interface BD2696
+show running-config interface Po3
+show running-config interface BD2696
+
+show interfaces Po3
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/0/7
+show running-config interface TenGigabitEthernet0/4/0
+
+show bridge-domain BD2696
+show running-config interface BD2696
+show running-config interface Po3
+show running-config interface BD2696
+
+show interfaces Po3
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/0/7
+show running-config interface TenGigabitEthernet0/4/0
+
+show bridge-domain BD2696
+show running-config interface BD2696
+
+show interfaces Po3
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/0/7
+show running-config interface TenGigabitEthernet0/4/0
+
+show bridge-domain BD2696
+show running-config interface BD2696
+Processing task : 26789524
+
+Difference checkCommandsBlock
+
+Processing task : 26792659
+
+Difference checkCommandsBlock
+
+Processing task : 26795794
+
+Processing task : 26798929
+
+Processing task : 26802064
+
+Difference checkCommandsBlock
+
+Processing task : 26805199
+
+Difference checkCommands
+
+Processing task : 26808334
+
+Difference checkCommandsBlock
+
+Processing task : 26811469
+
+Difference checkCommandsBlock
+
+Processing task : 26814604
+
+Processing task : 26817739
+
+Difference checkCommandsBlock
+
+Processing task : 26820874
+
+Difference checkCommandsBlock
+
+Processing task : 26824009
+
+Difference checkCommandsBlock
+
+Processing task : 26827144
+
+Difference checkCommandsBlock
+
+Processing task : 26830279
+
+Difference checkCommandsBlock
+
+Processing task : 26833414
+
+Difference checkCommandsBlock
+
+Processing task : 26836549
+
+Difference checkCommandsBlock
+
+Processing task : 26839684
+
+Difference checkCommandsBlock
+
+Processing task : 26842819
+
+Difference checkCommandsBlock
+
+Processing task : 26845954
+
+Difference checkCommandsBlock
+
+Processing task : 26849089
+
+Processing task : 26852224
+
+Difference checkCommands
+
+Processing task : 26855359
+
+Processing task : 26858494
+
+Difference checkCommands
+
+Processing task : 26861629
+
+Difference checkCommandsBlock
+
+Processing task : 26864764
+
+Difference checkCommands
+
+Processing task : 26867899
+
+Difference checkCommands
+
+Processing task : 26871034
+
+Difference checkCommandsBlock
+
+Processing task : 26874169
+
+Difference checkCommands
+
+Processing task : 26877304
+
+Difference checkCommands
+
+Processing task : 26880439
+
+Difference checkCommands
+
+Processing task : 26883574
+
+Difference checkCommandsBlock
+
+Processing task : 26886709
+
+Difference checkCommands
+
+Processing task : 26889844
+
+Processing task : 26892979
+
+Difference checkCommands
+
+Processing task : 26896114
+
+Difference checkCommands
+
+Processing task : 26899249
+
+Difference checkCommandsBlock
+
+Processing task : 26902384
+
+Difference checkCommands
+
+Processing task : 26905519
+
+Difference checkCommands
+
+Processing task : 26908654
+
+Difference checkCommandsBlock
+
+Processing task : 26911789
+
+Difference checkCommands
+
+Processing task : 26914924
+
+Processing task : 26918059
+
+Processing task : 26921194
+
+Processing task : 26924329
+
+Difference checkCommandsBlock
+
+Processing task : 26927464
+
+Difference checkCommandsBlock
+
+Processing task : 26930599
+
+Difference checkCommandsBlock
+
+Processing task : 26933734
+
+Difference checkCommandsBlock
+
+Processing task : 26936869
+
+Difference checkCommands
+
+Time taken in audit execution: 05:54:31
+
+Completed Task: #103.29.45.246
+
+
+==================== SERVER: 10.66.96.218 ====================
+
+Difference checkCommands
+
+Processing task : 26866877
+
+Difference checkCommands
+
+Processing task : 26870012
+
+Difference checkCommandsBlock
+
+Processing task : 26873147
+
+Difference checkCommands
+
+Processing task : 26876282
+
+Difference checkCommands
+
+Processing task : 26879417
+
+Difference checkCommands
+
+Processing task : 26882552
+
+Difference checkCommandsBlock
+
+Processing task : 26885687
+
+Difference checkCommands
+
+Processing task : 26888822
+
+Processing task : 26891957
+
+Difference checkCommands
+
+Processing task : 26895092
+
+Difference checkCommands
+
+Processing task : 26898227
+
+Difference checkCommandsBlock
+
+Processing task : 26901362
+
+Difference checkCommands
+
+Processing task : 26904497
+
+Difference checkCommands
+
+Processing task : 26907632
+
+Difference checkCommandsBlock
+
+Processing task : 26910767
+
+Difference checkCommands
+
+Processing task : 26913902
+
+Processing task : 26917037
+
+Processing task : 26920172
+
+Processing task : 26923307
+
+Difference checkCommandsBlock
+
+Processing task : 26926442
+
+Difference checkCommandsBlock
+
+Processing task : 26929577
+
+Difference checkCommandsBlock
+
+Processing task : 26932712
+
+Difference checkCommandsBlock
+
+Processing task : 26935847
+
+Difference checkCommands
+
+show running-config | begin router bgp | include 10.160.100.237
+Time taken in audit execution: 06:02:58
+
+Completed Task: #100.127.26.32
+
+
+show running-config | begin router bgp | include 100.127.12.240
+show running-config | begin router bgp | include 100.127.12.241
+show running-config | begin router bgp | include 100.127.12.240
+show running-config | begin router bgp | include 100.127.12.241
+show running-config | begin router bgp | include 100.127.12.240
+show running-config | begin router bgp | include 100.127.12.241
+show run interface BD2698
+show run interface Te0/0/6
+show run interface Po3
+show running-config interface BD2698
+show running-config interface Te0/0/6
+show running-config interface Po3
+show running-config interface BD2698
+show running-config interface Te0/0/6
+show running-config interface Po3
+
+show bridge-domain BD2698
+show running-config interface BD2698
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show interfaces Po3
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/5
+show running-config interface BD2698
+show running-config interface Te0/0/6
+show running-config interface Po3
+
+show bridge-domain BD2698
+show running-config interface BD2698
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show interfaces Po3
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/5
+
+show bridge-domain BD2698
+show running-config interface BD2698
+
+show interfaces Te0/0/6
+show running-config interface Te0/0/6
+
+show interfaces Po3
+show running-config interface TenGigabitEthernet0/0/5
+show running-config interface TenGigabitEthernet0/4/0
+show running-config interface TenGigabitEthernet0/4/5
+Processing task : 26789554
+
+Difference checkCommandsBlock
+
+Processing task : 26792689
+
+Difference checkCommandsBlock
+
+Processing task : 26795824
+
+Processing task : 26798959
+
+Processing task : 26802094
+
+Difference checkCommandsBlock
+
+Processing task : 26805229
+
+Difference checkCommands
+
+Processing task : 26808364
+
+Difference checkCommandsBlock
+
+Processing task : 26811499
+
+Difference checkCommandsBlock
+
+Processing task : 26814634
+
+Processing task : 26817769
+
+Difference checkCommandsBlock
+
+Processing task : 26820904
+
+Difference checkCommandsBlock
+
+Processing task : 26824039
+
+Difference checkCommandsBlock
+
+Processing task : 26827174
+
+Difference checkCommandsBlock
+
+Processing task : 26830309
+
+Difference checkCommandsBlock
+
+Processing task : 26833444
+
+Difference checkCommandsBlock
+
+Processing task : 26836579
+
+Difference checkCommandsBlock
+
+Processing task : 26839714
+
+Difference checkCommandsBlock
+
+Processing task : 26842849
+
+Difference checkCommandsBlock
+
+Processing task : 26845984
+
+Difference checkCommandsBlock
+
+Processing task : 26849119
+
+Processing task : 26852254
+
+Difference checkCommands
+
+Processing task : 26855389
+
+Processing task : 26858524
+
+Difference checkCommands
+
+Processing task : 26861659
+
+Difference checkCommandsBlock
+
+Processing task : 26864794
+
+Difference checkCommands
+
+Processing task : 26867929
+
+Difference checkCommands
+
+Processing task : 26871064
+
+Difference checkCommandsBlock
+
+Processing task : 26874199
+
+Difference checkCommands
+
+Processing task : 26877334
+
+Difference checkCommands
+
+Processing task : 26880469
+
+Difference checkCommands
+
+Processing task : 26883604
+
+Difference checkCommandsBlock
+
+Processing task : 26886739
+
+Difference checkCommands
+
+Processing task : 26889874
+
+Processing task : 26893009
+
+Difference checkCommands
+
+Processing task : 26896144
+
+Difference checkCommands
+
+Processing task : 26899279
+
+Difference checkCommandsBlock
+
+Processing task : 26902414
+
+Difference checkCommands
+
+Processing task : 26905549
+
+Difference checkCommands
+
+Processing task : 26908684
+
+Difference checkCommandsBlock
+
+Processing task : 26911819
+
+Difference checkCommands
+
+Processing task : 26914954
+
+Processing task : 26918089
+
+Processing task : 26921224
+
+Processing task : 26924359
+
+Difference checkCommandsBlock
+
+Processing task : 26927494
+
+Difference checkCommandsBlock
+
+Processing task : 26930629
+
+Difference checkCommandsBlock
+
+Processing task : 26933764
+
+Difference checkCommandsBlock
+
+Processing task : 26936899
+
+Difference checkCommands
+
+Time taken in audit execution: 05:53:34
+
+Completed Task: #182.19.99.11
+
+
+Processing task : 26789539
+
+Difference checkCommandsBlock
+
+Processing task : 26792674
+
+Difference checkCommandsBlock
+
+Processing task : 26795809
+
+Processing task : 26798944
+
+Processing task : 26802079
+
+Difference checkCommandsBlock
+
+Processing task : 26805214
+
+Difference checkCommands
+
+Processing task : 26808349
+
+Difference checkCommandsBlock
+
+Processing task : 26811484
+
+Difference checkCommandsBlock
+
+Processing task : 26814619
+
+Processing task : 26817754
+
+Difference checkCommandsBlock
+
+Processing task : 26820889
+
+Difference checkCommandsBlock
+
+Processing task : 26824024
+
+Difference checkCommandsBlock
+
+Processing task : 26827159
+
+Difference checkCommandsBlock
+
+Processing task : 26830294
+
+Difference checkCommandsBlock
+
+Processing task : 26833429
+
+Difference checkCommandsBlock
+
+Processing task : 26836564
+
+Difference checkCommandsBlock
+
+Processing task : 26839699
+
+Difference checkCommandsBlock
+
+Processing task : 26842834
+
+Difference checkCommandsBlock
+
+Processing task : 26845969
+
+Difference checkCommandsBlock
+
+Processing task : 26849104
+
+Processing task : 26852239
+
+Difference checkCommands
+
+Processing task : 26855374
+
+Processing task : 26858509
+
+Difference checkCommands
+
+Processing task : 26861644
+
+Difference checkCommandsBlock
+
+Processing task : 26864779
+
+Difference checkCommands
+
+Processing task : 26867914
+
+Difference checkCommands
+
+Processing task : 26871049
+
+Difference checkCommandsBlock
+
+Processing task : 26874184
+
+Difference checkCommands
+
+Processing task : 26877319
+
+Difference checkCommands
+
+Processing task : 26880454
+
+Difference checkCommands
+
+Processing task : 26883589
+
+Difference checkCommandsBlock
+
+Processing task : 26886724
+
+Difference checkCommands
+
+Processing task : 26889859
+
+Processing task : 26892994
+
+Difference checkCommands
+
+Processing task : 26896129
+
+Difference checkCommands
+
+Processing task : 26899264
+
+Difference checkCommandsBlock
+
+Processing task : 26902399
+
+Difference checkCommands
+
+Processing task : 26905534
+
+Difference checkCommands
+
+Processing task : 26908669
+
+Difference checkCommandsBlock
+
+Processing task : 26911804
+
+Difference checkCommands
+
+Processing task : 26914939
+
+Processing task : 26918074
+
+Processing task : 26921209
+
+Processing task : 26924344
+
+Difference checkCommandsBlock
+
+Processing task : 26927479
+
+Difference checkCommandsBlock
+
+Processing task : 26930614
+
+Difference checkCommandsBlock
+
+Processing task : 26933749
+
+Difference checkCommandsBlock
+
+Processing task : 26936884
+
+Difference checkCommands
+
+Time taken in audit execution: 06:06:02
+
+Completed Task: #182.19.93.52
+
+
+==================== SERVER: 10.66.96.219 ====================
+
+Difference checkCommands
+
+Processing task : 26896106
+
+Difference checkCommands
+
+Processing task : 26899241
+
+Difference checkCommandsBlock
+
+Processing task : 26902376
+
+Difference checkCommands
+
+Processing task : 26905511
+
+Difference checkCommands
+
+Processing task : 26908646
+
+Difference checkCommandsBlock
+
+show running-config | begin router bgp | include 100.69.203.94
+Processing task : 26911781
+
+Difference checkCommands
+
+Processing task : 26914916
+
+Processing task : 26918051
+
+Processing task : 26921186
+
+Processing task : 26924321
+
+Difference checkCommandsBlock
+
+Processing task : 26927456
+
+Difference checkCommandsBlock
+
+Processing task : 26930591
+
+Difference checkCommandsBlock
+
+Processing task : 26933726
+
+Difference checkCommandsBlock
+
+Processing task : 26936861
+
+Difference checkCommands
+
+Time taken in audit execution: 05:37:05
+
+Completed Task: #103.29.45.182
+
+
+show running-config | begin router bgp | include 100.69.203.95
+show running-config | begin router bgp | include 100.69.201.36
+show running-config | begin router bgp | include 100.69.201.37
+show running-config | begin router bgp | include 100.69.201.38
+show running-config | begin router bgp | include 100.69.201.39
+show running-config | begin router bgp | include 100.69.201.40
+show running-config | begin router bgp | include 100.69.201.168
+show running-config | begin router bgp | include 100.69.203.94
+Processing task : 26789456
+
+Difference checkCommandsBlock
+
+Processing task : 26792591
+
+Difference checkCommandsBlock
+
+Processing task : 26795726
+
+Processing task : 26798861
+
+Processing task : 26801996
+
+Difference checkCommandsBlock
+
+Processing task : 26805131
+
+Difference checkCommands
+
+Processing task : 26808266
+
+Difference checkCommandsBlock
+
+Processing task : 26811401
+
+Difference checkCommandsBlock
+
+Processing task : 26814536
+
+Processing task : 26817671
+
+Difference checkCommandsBlock
+
+Processing task : 26820806
+
+Difference checkCommandsBlock
+
+Processing task : 26823941
+
+Difference checkCommandsBlock
+
+Processing task : 26827076
+
+Difference checkCommandsBlock
+
+Processing task : 26830211
+
+Difference checkCommandsBlock
+
+Processing task : 26833346
+
+Difference checkCommandsBlock
+
+Processing task : 26836481
+
+Difference checkCommandsBlock
+
+Processing task : 26839616
+
+Difference checkCommandsBlock
+
+Processing task : 26842751
+
+Difference checkCommandsBlock
+
+Processing task : 26845886
+
+Difference checkCommandsBlock
+
+Processing task : 26849021
+
+Processing task : 26852156
+
+Difference checkCommands
+
+Processing task : 26855291
+
+Processing task : 26858426
+
+Difference checkCommands
+
+Processing task : 26861561
+
+Difference checkCommandsBlock
+
+Processing task : 26864696
+
+Difference checkCommands
+
+Processing task : 26867831
+
+Difference checkCommands
+
+Processing task : 26870966
+
+Difference checkCommandsBlock
+
+Processing task : 26874101
+
+Processing task : 26877236
+
+Processing task : 26880371
+
+Processing task : 26883506
+
+Difference checkCommandsBlock
+
+Processing task : 26886641
+
+Difference checkCommands
+
+Processing task : 26889776
+
+Processing task : 26892911
+
+Processing task : 26896046
+
+Processing task : 26899181
+
+Difference checkCommandsBlock
+
+Processing task : 26902316
+
+Difference checkCommands
+
+Processing task : 26905451
+
+Difference checkCommands
+
+Processing task : 26908586
+
+Difference checkCommandsBlock
+
+Processing task : 26911721
+
+Difference checkCommands
+
+Processing task : 26914856
+
+Processing task : 26917991
+
+Processing task : 26921126
+
+Processing task : 26924261
+
+Difference checkCommandsBlock
+
+Processing task : 26927396
+
+Difference checkCommandsBlock
+
+Processing task : 26930531
+
+Difference checkCommandsBlock
+
+Processing task : 26933666
+
+Difference checkCommandsBlock
+
+Processing task : 26936801
+
+Difference checkCommands
+
+Time taken in audit execution: 05:39:10
+
+Completed Task: #100.127.202.14
+
+
+show running-config | begin router bgp | include 100.69.203.95
+show running-config | begin router bgp | include 100.69.201.36
+show running-config | begin router bgp | include 100.69.201.37
+show running-config | begin router bgp | include 100.69.201.38
+show running-config | begin router bgp | include 100.69.201.39
+show running-config | begin router bgp | include 100.69.201.40
+show running-config | begin router bgp | include 100.69.201.168
+show running-config | begin router bgp | include 100.69.203.94
+show running-config | begin router bgp | include 100.69.203.95
+show run interface BD2585
+show run interface BD2085
+show run interface BD2258
+show run interface BD2259
+show run interface BD2051
+show run interface BD2451
+show running-config interface BD2585
+show running-config interface BD2085
+show running-config interface BD2258
+show running-config interface BD2259
+show running-config interface BD2051
+show running-config interface BD2451
+show running-config interface BD2585
+show running-config interface BD2085
+show running-config interface BD2258
+show running-config interface BD2259
+show running-config interface BD2051
+show running-config interface BD2451
+
+show bridge-domain BD2585
+show running-config interface BD2585
+
+show bridge-domain BD2085
+show running-config interface BD2085
+
+show bridge-domain BD2258
+show running-config interface BD2258
+
+show bridge-domain BD2259
+show running-config interface BD2259
+
+show bridge-domain BD2051
+show running-config interface BD2051
+
+show bridge-domain BD2451
+show running-config interface BD2451
+show running-config interface BD2585
+show running-config interface BD2085
+show running-config interface BD2258
+show running-config interface BD2259
+show running-config interface BD2051
+show running-config interface BD2451
+
+show bridge-domain BD2585
+show running-config interface BD2585
+
+show bridge-domain BD2085
+show running-config interface BD2085
+
+show bridge-domain BD2258
+show running-config interface BD2258
+
+show bridge-domain BD2259
+show running-config interface BD2259
+
+show bridge-domain BD2051
+show running-config interface BD2051
+
+show bridge-domain BD2451
+show running-config interface BD2451
+
+show bridge-domain BD2585
+show running-config interface BD2585
+
+show bridge-domain BD2085
+show running-config interface BD2085
+
+show bridge-domain BD2258
+show running-config interface BD2258
+
+show bridge-domain BD2259
+show running-config interface BD2259
+
+show bridge-domain BD2051
+show running-config interface BD2051
+
+show bridge-domain BD2451
+show running-config interface BD2451
+Processing task : 26789502
+
+Difference checkCommandsBlock
+
+Processing task : 26792637
+
+Difference checkCommandsBlock
+
+Processing task : 26795772
+
+Processing task : 26798907
+
+Processing task : 26802042
+
+Difference checkCommandsBlock
+
+Processing task : 26805177
+
+Difference checkCommands
+
+Processing task : 26808312
+
+Difference checkCommandsBlock
+
+Processing task : 26811447
+
+Difference checkCommandsBlock
+
+Processing task : 26814582
+
+Processing task : 26817717
+
+Difference checkCommandsBlock
+
+Processing task : 26820852
+
+Difference checkCommandsBlock
+
+Processing task : 26823987
+
+Difference checkCommandsBlock
+
+Processing task : 26827122
+
+Difference checkCommandsBlock
+
+Processing task : 26830257
+
+Difference checkCommandsBlock
+
+Processing task : 26833392
+
+Difference checkCommandsBlock
+
+Processing task : 26836527
+
+Difference checkCommandsBlock
+
+Processing task : 26839662
+
+Difference checkCommandsBlock
+
+Processing task : 26842797
+
+Difference checkCommandsBlock
+
+Processing task : 26845932
+
+Difference checkCommandsBlock
+
+Processing task : 26849067
+
+Processing task : 26852202
+
+Difference checkCommands
+
+Processing task : 26855337
+
+Processing task : 26858472
+
+Difference checkCommands
+
+Processing task : 26861607
+
+Difference checkCommandsBlock
+
+Processing task : 26864742
+
+Difference checkCommands
+
+Processing task : 26867877
+
+Difference checkCommands
+
+Processing task : 26871012
+
+Difference checkCommandsBlock
+
+Processing task : 26874147
+
+Difference checkCommands
+
+Processing task : 26877282
+
+Difference checkCommands
+
+Processing task : 26880417
+
+Difference checkCommands
+
+Processing task : 26883552
+
+Difference checkCommandsBlock
+
+Processing task : 26886687
+
+Difference checkCommands
+
+Processing task : 26889822
+
+Processing task : 26892957
+
+Difference checkCommands
+
+Processing task : 26896092
+
+Difference checkCommands
+
+Processing task : 26899227
+
+Difference checkCommandsBlock
+
+Processing task : 26902362
+
+Difference checkCommands
+
+Processing task : 26905497
+
+Difference checkCommands
+
+Processing task : 26908632
+
+Difference checkCommandsBlock
+
+Processing task : 26911767
+
+Difference checkCommands
+
+Processing task : 26914902
+
+Processing task : 26918037
+
+Processing task : 26921172
+
+Processing task : 26924307
+
+Difference checkCommandsBlock
+
+Processing task : 26927442
+
+Difference checkCommandsBlock
+
+Processing task : 26930577
+
+Difference checkCommandsBlock
+
+Processing task : 26933712
+
+Difference checkCommandsBlock
+
+Processing task : 26936847
+
+Difference checkCommands
+
+Time taken in audit execution: 05:44:55
+
+Completed Task: #103.29.45.106
+
+
+==================== SERVER: 10.66.96.220 ====================
+
+
+Processing task : 26827157
+
+Difference checkCommandsBlock
+
+Processing task : 26830292
+
+Difference checkCommandsBlock
+
+Processing task : 26833427
+
+Difference checkCommandsBlock
+
+Processing task : 26836562
+
+Difference checkCommandsBlock
+
+Processing task : 26839697
+
+Difference checkCommandsBlock
+
+Processing task : 26842832
+
+Difference checkCommandsBlock
+
+Processing task : 26845967
+
+Difference checkCommandsBlock
+
+Processing task : 26849102
+
+Processing task : 26852237
+
+Difference checkCommands
+
+Processing task : 26855372
+
+Processing task : 26858507
+
+Difference checkCommands
+
+Time taken in audit execution: 05:40:40
+
+Completed Task: #100.127.188.142
+
+
+Processing task : 26861642
+
+Difference checkCommandsBlock
+
+Processing task : 26864777
+
+Difference checkCommands
+
+Processing task : 26867912
+
+Difference checkCommands
+
+Processing task : 26871047
+
+Difference checkCommandsBlock
+
+Processing task : 26874182
+
+Difference checkCommands
+
+Processing task : 26877317
+
+Difference checkCommands
+
+Processing task : 26880452
+
+Difference checkCommands
+
+Processing task : 26883587
+
+Difference checkCommandsBlock
+
+Processing task : 26886722
+
+Difference checkCommands
+
+Processing task : 26889857
+
+Processing task : 26892992
+
+Difference checkCommands
+
+Processing task : 26896127
+
+Difference checkCommands
+
+Processing task : 26899262
+
+Difference checkCommandsBlock
+
+Processing task : 26902397
+
+Difference checkCommands
+
+Processing task : 26905532
+
+Difference checkCommands
+
+Processing task : 26908667
+
+Difference checkCommandsBlock
+
+Processing task : 26911802
+
+Difference checkCommands
+
+Processing task : 26914937
+
+Processing task : 26918072
+
+Processing task : 26921207
+
+Processing task : 26924342
+
+Difference checkCommandsBlock
+
+Processing task : 26927477
+
+Difference checkCommandsBlock
+
+Processing task : 26930612
+
+Difference checkCommandsBlock
+
+Processing task : 26933747
+
+Difference checkCommandsBlock
+
+Processing task : 26936882
+
+Difference checkCommands
+
+Time taken in audit execution: 05:38:48
+
+Completed Task: #182.19.92.232
+
+
+Processing task : 26789568
+
+Difference checkCommandsBlock
+
+Processing task : 26792703
+
+Difference checkCommandsBlock
+
+Processing task : 26795838
+
+Processing task : 26798973
+
+Processing task : 26802108
+
+Difference checkCommandsBlock
+
+Processing task : 26805243
+
+Difference checkCommands
+
+Processing task : 26808378
+
+Difference checkCommandsBlock
+
+Processing task : 26811513
+
+Difference checkCommandsBlock
+
+Processing task : 26814648
+
+Processing task : 26817783
+
+Difference checkCommandsBlock
+
+Processing task : 26820918
+
+Difference checkCommandsBlock
+
+Processing task : 26824053
+
+Difference checkCommandsBlock
+
+Processing task : 26827188
+
+Difference checkCommandsBlock
+
+Processing task : 26830323
+
+Difference checkCommandsBlock
+
+Processing task : 26833458
+
+Difference checkCommandsBlock
+
+Processing task : 26836593
+
+Difference checkCommandsBlock
+
+Processing task : 26839728
+
+Difference checkCommandsBlock
+
+Processing task : 26842863
+
+Difference checkCommandsBlock
+
+Processing task : 26845998
+
+Difference checkCommandsBlock
+
+Processing task : 26849133
+
+Processing task : 26852268
+
+Difference checkCommands
+
+Processing task : 26855403
+
+Processing task : 26858538
+
+Difference checkCommands
+
+Processing task : 26861673
+
+Difference checkCommandsBlock
+
+Processing task : 26864808
+
+Difference checkCommands
+
+Processing task : 26867943
+
+Difference checkCommands
+
+Processing task : 26871078
+
+Difference checkCommandsBlock
+
+Processing task : 26874213
+
+Difference checkCommands
+
+Processing task : 26877348
+
+Difference checkCommands
+
+Processing task : 26880483
+
+Difference checkCommands
+
+Processing task : 26883618
+
+Difference checkCommandsBlock
+
+Processing task : 26886753
+
+Difference checkCommands
+
+Processing task : 26889888
+
+Processing task : 26893023
+
+Difference checkCommands
+
+Processing task : 26896158
+
+Difference checkCommands
+
+Processing task : 26899293
+
+Difference checkCommandsBlock
+
+Processing task : 26902428
+
+Difference checkCommands
+
+Processing task : 26905563
+
+Difference checkCommands
+
+Processing task : 26908698
+
+Difference checkCommandsBlock
+
+Processing task : 26911833
+
+Difference checkCommands
+
+Processing task : 26914968
+
+Processing task : 26918103
+
+Processing task : 26921238
+
+Processing task : 26924373
+
+Difference checkCommandsBlock
+
+Processing task : 26927508
+
+Difference checkCommandsBlock
+
+Processing task : 26930643
+
+Difference checkCommandsBlock
+
+Processing task : 26933778
+
+Difference checkCommandsBlock
+
+Processing task : 26936913
+
+Difference checkCommands
+
+Time taken in audit execution: 05:42:36
+
+Completed Task: #182.19.116.176
+
+
+Processing task : 26789548
+
+Difference checkCommandsBlock
+
+Processing task : 26792683
+
+Difference checkCommandsBlock
+
+Processing task : 26795818
+
+Processing task : 26798953
+
+Processing task : 26802088
+
+Difference checkCommandsBlock
+
+Processing task : 26805223
+
+Difference checkCommands
+
+Processing task : 26808358
+
+Difference checkCommandsBlock
+
+Processing task : 26811493
+
+Difference checkCommandsBlock
+
+Processing task : 26814628
+
+Processing task : 26817763
+
+Difference checkCommandsBlock
+
+Processing task : 26820898
+
+Difference checkCommandsBlock
+
+Processing task : 26824033
+
+Difference checkCommandsBlock
+
+Processing task : 26827168
+
+Difference checkCommandsBlock
+
+Processing task : 26830303
+
+Difference checkCommandsBlock
+
+Processing task : 26833438
+
+Difference checkCommandsBlock
+
+Processing task : 26836573
+
+Difference checkCommandsBlock
+
+Processing task : 26839708
+
+Difference checkCommandsBlock
+
+Processing task : 26842843
+
+Difference checkCommandsBlock
+
+Processing task : 26845978
+
+Difference checkCommandsBlock
+
+Processing task : 26849113
+
+Processing task : 26852248
+
+Difference checkCommands
+
+Processing task : 26855383
+
+Processing task : 26858518
+
+Difference checkCommands
+
+Processing task : 26861653
+
+Difference checkCommandsBlock
+
+Processing task : 26864788
+
+Difference checkCommands
+
+Processing task : 26867923
+
+Difference checkCommands
+
+Processing task : 26871058
+
+Difference checkCommandsBlock
+
+Processing task : 26874193
+
+Difference checkCommands
+
+Processing task : 26877328
+
+Difference checkCommands
+
+Processing task : 26880463
+
+Difference checkCommands
+
+Processing task : 26883598
+
+Difference checkCommandsBlock
+
+Processing task : 26886733
+
+Difference checkCommands
+
+Processing task : 26889868
+
+Processing task : 26893003
+
+Difference checkCommands
+
+Processing task : 26896138
+
+Difference checkCommands
+
+Processing task : 26899273
+
+Difference checkCommandsBlock
+
+Processing task : 26902408
+
+Difference checkCommands
+
+Processing task : 26905543
+
+Difference checkCommands
+
+Processing task : 26908678
+
+Difference checkCommandsBlock
+
+Processing task : 26911813
+
+Difference checkCommands
+
+Processing task : 26914948
+
+Processing task : 26918083
+
+Processing task : 26921218
+
+Processing task : 26924353
+
+Difference checkCommandsBlock
+
+Processing task : 26927488
+
+Difference checkCommandsBlock
+
+Processing task : 26930623
+
+Difference checkCommandsBlock
+
+Processing task : 26933758
+
+Difference checkCommandsBlock
+
+Processing task : 26936893
+
+Difference checkCommands
+
+Time taken in audit execution: 05:43:25
+
+Completed Task: #182.19.98.194
+
