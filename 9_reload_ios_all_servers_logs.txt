@@ -1,0 +1,281 @@
+
+==================== SERVER: 10.66.96.201 ====================
+
+
+==================== SERVER: 10.66.96.202 ====================
+
+{"user_id":100,"user_session_id":"5ep67bac387cskcuhsogpan0ek","upgrade_id":"29024","type":"reload","autoclean_image":"0"}
+Received Task: #1
+
+<b># Going to Process..</b>
+log
+
+
+
+<b># Going to Process..</b>
+sshssh
+<hr/><h3><b># Reload process...</b></h3>
+Processing started at : [2026-04-10 00:07:05]
+log
+
+
+
+<hr/><h3><b># Reload process...</b></h3>
+Processing started at : [2026-04-10 00:07:05]
+
+<h4><b><font color='green'>Reload processing started at : [2026-04-10 00:07:05]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing started at : [2026-04-10 00:07:05]</font></b></h4>
+
+<hr/><h3><b># Loading connection with device...</b></h3> [2026-04-10 00:07:05]
+log
+
+
+
+<hr/><h3><b># Loading connection with device...</b></h3> [2026-04-10 00:07:05]
+ssh
+Connection established successfully.
+log
+
+
+
+Connection established successfully.
+
+<hr/><h3><b># Fetching pre reload commands output...</b></h3> [2026-04-10 00:07:21]
+log
+
+
+
+<hr/><h3><b># Fetching pre reload commands output...</b></h3> [2026-04-10 00:07:21]
+<b>request support information | no-more</b>
+log
+
+
+<b>request support information | no-more</b>
+<b>show configuration | no-more</b>
+log
+
+
+<b>show configuration | no-more</b>
+<b>show configuration | display set | no-more</b>
+log
+
+
+<b>show configuration | display set | no-more</b>
+<b>show version</b>
+log
+
+
+<b>show version</b>
+<b>show chassis alarms</b>
+log
+
+
+<b>show chassis alarms</b>
+<b>show chassis hardware details | no-more</b>
+log
+
+
+<b>show chassis hardware details | no-more</b>
+<b>show chassis environment | no-more</b>
+log
+
+
+<b>show chassis environment | no-more</b>
+<b>show log messages | no-more</b>
+log
+
+
+<b>show log messages | no-more</b>
+<b>show interfaces terse</b>
+log
+
+
+<b>show interfaces terse</b>
+<b>show isis adjacency</b>
+log
+
+
+<b>show isis adjacency</b>
+<b>show bfd session</b>
+log
+
+
+<b>show bfd session</b>
+<b>show ldp session</b>
+log
+
+
+<b>show ldp session</b>
+<b>show ldp neighbor</b>
+log
+
+
+<b>show ldp neighbor</b>
+<b>show mpls lsp | no-more</b>
+log
+
+
+<b>show mpls lsp | no-more</b>
+<b>show rsvp neighbor | no-more</b>
+log
+
+
+<b>show rsvp neighbor | no-more</b>
+<b>show rsvp session | no-more</b>
+log
+
+
+<b>show rsvp session | no-more</b>
+<b>show vrrp summary | no-more</b>
+log
+
+
+<b>show vrrp summary | no-more</b>
+<b>show route summary | no-more</b>
+log
+
+
+<b>show route summary | no-more</b>
+<b>show bgp summary | no-more</b>
+log
+
+
+<b>show bgp summary | no-more</b>
+<b>show l2vpn connection</b>
+log
+
+
+<b>show l2vpn connection</b>
+<b>show vpls connection</b>
+log
+
+
+<b>show vpls connection</b>
+<b>show arp no-resolve | no-more</b>
+log
+
+
+<b>show arp no-resolve | no-more</b>
+<b>show chassis error active detail | no-more</b>
+log
+
+
+<b>show chassis error active detail | no-more</b>
+<b>show configuration | display set | count</b>
+log
+
+
+<b>show configuration | display set | count</b>
+<b>show configuration | display set | match uid</b>
+log
+
+
+<b>show configuration | display set | match uid</b>
+<b>show configuration | display set | match -order</b>
+log
+
+
+<b>show configuration | display set | match -order</b>
+<b>file list /var/tmp detail</b>
+log
+
+
+<b>file list /var/tmp detail</b>
+<b>show system storage</b>
+log
+
+
+<b>show system storage</b>
+
+Pre reload commands output taken successfully [2026-04-10 00:08:05]
+log
+
+
+
+Pre reload commands output taken successfully [2026-04-10 00:08:05]
+
+<hr/><h3><b># Taking system snapshot before upgrade...</b></h3> [2026-04-10 00:08:05]
+log
+
+
+
+<hr/><h3><b># Taking system snapshot before upgrade...</b></h3> [2026-04-10 00:08:05]
+
+<b>request system snapshot slice alternate</b>
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-10 00:13:23]</font></b></h4>
+<font color="red">SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: SELECT * FROM `tbl_ios_upgrade_detail` WHERE (`id`=29024) AND (`ip_address`='10.220.178.181')</font>
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: SELECT * FROM `tbl_ios_upgrade_detail` WHERE (`id`=29024) AND (`ip_address`='10.220.178.181')Error: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: UPDATE `tbl_ios_upgrade_detail` SET `reload_status`=5, `upgrade_status`=1 WHERE `id`=29024
+{"user_id":100,"user_session_id":"5ep67bac387cskcuhsogpan0ek","upgrade_id":"29024","type":"reload","autoclean_image":"0"}
+Received Task: #1
+
+<b># Going to Process..</b>
+log
+
+
+
+<b># Going to Process..</b>
+sshssh
+ID : 29024 & Loopback : 10.220.178.181 
+Reload process is already done/running.
+
+==================== SERVER: 10.66.96.203 ====================
+
+
+==================== SERVER: 10.66.96.204 ====================
+
+
+==================== SERVER: 10.66.96.205 ====================
+
+
+==================== SERVER: 10.66.96.206 ====================
+
+
+==================== SERVER: 10.66.96.207 ====================
+
+
+==================== SERVER: 10.66.96.208 ====================
+
+
+==================== SERVER: 10.66.96.209 ====================
+
+
+==================== SERVER: 10.66.96.210 ====================
+
+
+==================== SERVER: 10.66.96.211 ====================
+
+
+==================== SERVER: 10.66.96.212 ====================
+
+
+==================== SERVER: 10.66.96.213 ====================
+
+
+==================== SERVER: 10.66.96.214 ====================
+
+
+==================== SERVER: 10.66.96.215 ====================
+
+
+==================== SERVER: 10.66.96.216 ====================
+
+
+==================== SERVER: 10.66.96.217 ====================
+
+
+==================== SERVER: 10.66.96.218 ====================
+
+
+==================== SERVER: 10.66.96.219 ====================
+
+
+==================== SERVER: 10.66.96.220 ====================
+
