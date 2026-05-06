@@ -1,0 +1,6060 @@
+
+==================== SERVER: 10.66.96.201 ====================
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0>                                                                                
+*** FINAL System shutdown message from root@PJRJPKHDPAR01JM104-re0 ***       
+
+System going down IMMEDIATELY                                                  
+
+                                                                               
+rlogin: connection closed
+log
+
+
+
+
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> 
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0>                                                                                
+*** FINAL System shutdown message from root@PJRJPKHDPAR01JM104-re0 ***       
+
+System going down IMMEDIATELY                                                  
+
+                                                                               
+rlogin: connection closed
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-23 01:03:33]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-23 01:03:33]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-23 01:08:38]
+log
+
+
+
+2 attempt. [2026-03-23 01:08:38]
+
+100.127.48.58 reachable now. [2026-03-23 01:08:39]
+log
+
+
+
+100.127.48.58 reachable now. [2026-03-23 01:08:39]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+log
+
+
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+
+<b>show chassis routing-engine | match state</b>
+log
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: PJRJPKHDPAR01JM104-re1
+log
+
+
+
+ 
+Hostname: PJRJPKHDPAR01JM104-re1
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0>
+log
+
+
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJRJPKHDPAR01JM104-re0>
+
+Successfully login into the master routing engine. [2026-03-23 01:08:45]
+log
+
+
+
+Successfully login into the master routing engine. [2026-03-23 01:08:45]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+show version | match "host|seleinfinity_labs_auto@PJRJPKHDPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJRJPKHDPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+show version | match "host|seleinfinity_labs_auto@PJRJPKHDPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJRJPKHDPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-23 01:08:50]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-23 01:08:50]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-03-23 01:08:54]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-03-23 01:08:54]
+
+Connection closed with the device successfully at 2026-03-23 01:09:04
+log
+
+
+
+Connection closed with the device successfully at 2026-03-23 01:09:04
+
+Scheduled for post reload activity. [2026-03-23 01:09:04]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-23 01:09:04]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-23 01:09:04]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-23 01:09:04]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.202 ====================
+
+
+
+<b>show redundancy synchronization</b>
+
+ 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2025/06/14 22:09:26
+Standby Version              : TiMOS-B-22.10.R3 both/hops64 Nokia 7250 IXR
+                               Copyright (c) 2000-2023 Nokia.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Wed Feb 15 17:27:20 PST 2023 by
+                               builder in /builds/c/2210B/R3/panos/main/sros
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Boot Environment
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 03/21/2026 01:33:41
+Last Boot Env Sync Time      : 03/21/2026 01:34:03
+Rollback Sync Mode           : None
+Rollback Sync Status         : No Rollback synchronization
+Last Rollback Sync Time      : Never
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+
+Sat Mar 21 01:34:09 IST 2026
+log
+
+
+
+ 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2025/06/14 22:09:26
+Standby Version              : TiMOS-B-22.10.R3 both/hops64 Nokia 7250 IXR
+                               Copyright (c) 2000-2023 Nokia.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Wed Feb 15 17:27:20 PST 2023 by
+                               builder in /builds/c/2210B/R3/panos/main/sros
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Boot Environment
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 03/21/2026 01:33:41
+Last Boot Env Sync Time      : 03/21/2026 01:34:03
+Rollback Sync Mode           : None
+Rollback Sync Status         : No Rollback synchronization
+Last Rollback Sync Time      : Never
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+
+Sat Mar 21 01:34:09 IST 2026
+
+<hr/><h3><b># Capturing the timestamp before the node reboot...</b></h3> [2026-03-21 01:35:14]
+log
+
+
+
+<hr/><h3><b># Capturing the timestamp before the node reboot...</b></h3> [2026-03-21 01:35:14]
+
+Before reboot environment time-stamp output.
+log
+
+
+
+Before reboot environment time-stamp output.
+
+ 
+reboot_start_time
+
+Sat Mar 21 01:34:09 IST 2026
+log
+
+
+
+ 
+reboot_start_time
+
+Sat Mar 21 01:34:09 IST 2026
+
+ 
+
+Sat Mar 21 01:34:09 IST 2026
+log
+
+
+
+ 
+
+Sat Mar 21 01:34:09 IST 2026
+
+<hr/><h3><b># Rebooting device...</b></h3> [2026-03-21 01:35:14]
+log
+
+
+
+<hr/><h3><b># Rebooting device...</b></h3> [2026-03-21 01:35:14]
+<b> admin reboot now </b>
+log
+
+
+<b> admin reboot now </b>
+
+Wait for 15 minutes to reboot the device. [2026-03-21 01:35:14]
+log
+
+
+
+Wait for 15 minutes to reboot the device. [2026-03-21 01:35:14]
+
+Rebooting device processing... [2026-03-21 01:52:44]
+log
+
+
+
+Rebooting device processing... [2026-03-21 01:52:44]
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-03-21 01:57:44]
+log
+
+
+
+1 attempt. [2026-03-21 01:57:44]
+
+182.19.93.53 reachable now. [2026-03-21 01:57:45]
+log
+
+
+
+182.19.93.53 reachable now. [2026-03-21 01:57:45]
+ssh
+After reboot environment time-stamp output.
+log
+
+
+
+After reboot environment time-stamp output.
+
+ 
+
+Sat Mar 21 01:56:45 IST 2026
+log
+
+
+
+ 
+
+Sat Mar 21 01:56:45 IST 2026
+
+<b>show version</b>
+log
+
+
+
+<b>show version</b>
+
+ 
+TiMOS-B-24.10.R7 both/hops64 Nokia 7250 IXR Copyright (c) 2000-2025 Nokia.
+All rights reserved. All use subject to applicable license agreements.
+Built on Wed Nov 12 20:20:20 UTC 2025 by builder in /builds/2410B/R7/panos
+
+Sat Mar 21 01:56:45 IST 2026
+log
+
+
+
+ 
+TiMOS-B-24.10.R7 both/hops64 Nokia 7250 IXR Copyright (c) 2000-2025 Nokia.
+All rights reserved. All use subject to applicable license agreements.
+Built on Wed Nov 12 20:20:20 UTC 2025 by builder in /builds/2410B/R7/panos
+
+Sat Mar 21 01:56:45 IST 2026
+
+<b>show system alarms</b>
+log
+
+
+
+<b>show system alarms</b>
+
+ 
+
+===============================================================================
+Alarms [Critical:0 Major:0 Minor:0 Warning:4 Total:4]
+===============================================================================
+Index      Date/Time               Severity  Alarm      Resource
+   Details                                              
+-------------------------------------------------------------------------------
+10         2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/2/10
+   Interface 1/2/10 is not operational
+
+9          2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/2/9
+   Interface 1/2/9 is not operational
+
+6          2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/2/1
+   Interface 1/2/1 is not operational
+
+2          2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/1/1
+   Interface 1/1/1 is not operational
+===============================================================================
+
+Sat Mar 21 01:56:45 IST 2026
+log
+
+
+
+ 
+
+===============================================================================
+Alarms [Critical:0 Major:0 Minor:0 Warning:4 Total:4]
+===============================================================================
+Index      Date/Time               Severity  Alarm      Resource
+   Details                                              
+-------------------------------------------------------------------------------
+10         2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/2/10
+   Interface 1/2/10 is not operational
+
+9          2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/2/9
+   Interface 1/2/9 is not operational
+
+6          2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/2/1
+   Interface 1/2/1 is not operational
+
+2          2026/03/21 01:46:11.10  WARNING   59-2004-1  Port 1/1/1
+   Interface 1/1/1 is not operational
+===============================================================================
+
+Sat Mar 21 01:56:45 IST 2026
+
+ Reload and Upgrade status Success. [2026-03-21 01:57:50]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-21 01:57:50]
+
+Scheduled for post reload activity. [2026-03-21 01:57:50]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-21 01:57:50]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-21 01:57:50]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-21 01:57:50]</font></b></h4>
+
+Inside the post upgrade process.
+log
+
+
+
+Inside the post upgrade process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.203 ====================
+
+JUNOS Services NAT [20.2R2-S2.6]
+JUNOS Services RPM [20.2R2-S2.6]
+JUNOS Services SOFTWIRE [20.2R2-S2.6]
+JUNOS Services Captive Portal and Content Delivery Container package [20.2R2-S2.6]
+JUNOS Macsec Software Suite [20.2R2-S2.6]
+JUNOS Services Crypto [20.2R2-S2.6]
+JUNOS Services IPSec [20.2R2-S2.6]
+JUNOS Services RTCOM [20.2R2-S2.6]
+JUNOS Services SSL [20.2R2-S2.6]
+JUNOS Services TCP-LOG [20.2R2-S2.6]
+JUNOS DP Crypto Software Software Suite [20.2R2-S2.6]
+JUNOS py-base-powerpc [20.2R2-S2.6]
+JUNOS py-base2-powerpc [20.2R2-S2.6]
+JUNOS py-extensions-powerpc [20.2R2-S2.6]
+JUNOS py-extensions2-powerpc [20.2R2-S2.6]
+JUNOS jsd [powerpc-20.2R2-S2.6-jet-1]
+JUNOS Kernel Software Suite [20.2R2-S2.6]
+JUNOS Routing Software Suite [20.2R2-S2.6]log
+
+
+ 
+Hostname: PJLDHRNGACR01J2200
+Model: acx2200
+Junos: 20.2R2-S2.6
+JUNOS Base OS boot [20.2R2-S2.6]
+JUNOS Base OS Software Suite [20.2R2-S2.6]
+JUNOS Crypto Software Suite [20.2R2-S2.6]
+JUNOS Packet Forwarding Engine Support (ACX) [20.2R2-S2.6]
+JUNOS Web Management [20.2R2-S2.6]
+JUNOS Online Documentation [20.2R2-S2.6]
+JUNOS SDN Software Suite [20.2R2-S2.6]
+JUNOS Services Application Level Gateways [20.2R2-S2.6]
+JUNOS Services COS [20.2R2-S2.6]
+JUNOS Services Jflow Container package [20.2R2-S2.6]
+JUNOS Services Stateful Firewall [20.2R2-S2.6]
+JUNOS Services NAT [20.2R2-S2.6]
+JUNOS Services RPM [20.2R2-S2.6]
+JUNOS Services SOFTWIRE [20.2R2-S2.6]
+JUNOS Services Captive Portal and Content Delivery Container package [20.2R2-S2.6]
+JUNOS Macsec Software Suite [20.2R2-S2.6]
+JUNOS Services Crypto [20.2R2-S2.6]
+JUNOS Services IPSec [20.2R2-S2.6]
+JUNOS Services RTCOM [20.2R2-S2.6]
+JUNOS Services SSL [20.2R2-S2.6]
+JUNOS Services TCP-LOG [20.2R2-S2.6]
+JUNOS DP Crypto Software Software Suite [20.2R2-S2.6]
+JUNOS py-base-powerpc [20.2R2-S2.6]
+JUNOS py-base2-powerpc [20.2R2-S2.6]
+JUNOS py-extensions-powerpc [20.2R2-S2.6]
+JUNOS py-extensions2-powerpc [20.2R2-S2.6]
+JUNOS jsd [powerpc-20.2R2-S2.6-jet-1]
+JUNOS Kernel Software Suite [20.2R2-S2.6]
+JUNOS Routing Software Suite [20.2R2-S2.6]
+Wait for 5 minutes before checking the device upgrade version. [2026-04-04 03:15:29]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-04-04 03:15:29]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+11 attempt. [2026-04-04 03:20:29]
+log
+
+
+
+11 attempt. [2026-04-04 03:20:29]
+
+10.220.178.140 reachable now. [2026-04-04 03:20:30]
+log
+
+
+
+10.220.178.140 reachable now. [2026-04-04 03:20:30]
+ssh
+<b>show version</b>
+log
+
+
+
+<b>show version</b>
+ 
+Hostname: PJLDHRNGACR01J2200
+Model: acx2200
+Junos: 20.2R2-S2.6
+JUNOS Base OS boot [20.2R2-S2.6]
+JUNOS Base OS Software Suite [20.2R2-S2.6]
+JUNOS Crypto Software Suite [20.2R2-S2.6]
+JUNOS Packet Forwarding Engine Support (ACX) [20.2R2-S2.6]
+JUNOS Web Management [20.2R2-S2.6]
+JUNOS Online Documentation [20.2R2-S2.6]
+JUNOS SDN Software Suite [20.2R2-S2.6]
+JUNOS Services Application Level Gateways [20.2R2-S2.6]
+JUNOS Services COS [20.2R2-S2.6]
+JUNOS Services Jflow Container package [20.2R2-S2.6]
+JUNOS Services Stateful Firewall [20.2R2-S2.6]
+JUNOS Services NAT [20.2R2-S2.6]
+JUNOS Services RPM [20.2R2-S2.6]
+JUNOS Services SOFTWIRE [20.2R2-S2.6]
+JUNOS Services Captive Portal and Content Delivery Container package [20.2R2-S2.6]
+JUNOS Macsec Software Suite [20.2R2-S2.6]
+JUNOS Services Crypto [20.2R2-S2.6]
+JUNOS Services IPSec [20.2R2-S2.6]
+JUNOS Services RTCOM [20.2R2-S2.6]
+JUNOS Services SSL [20.2R2-S2.6]
+JUNOS Services TCP-LOG [20.2R2-S2.6]
+JUNOS DP Crypto Software Software Suite [20.2R2-S2.6]
+JUNOS py-base-powerpc [20.2R2-S2.6]
+JUNOS py-base2-powerpc [20.2R2-S2.6]
+JUNOS py-extensions-powerpc [20.2R2-S2.6]
+JUNOS py-extensions2-powerpc [20.2R2-S2.6]
+JUNOS jsd [powerpc-20.2R2-S2.6-jet-1]
+JUNOS Kernel Software Suite [20.2R2-S2.6]
+JUNOS Routing Software Suite [20.2R2-S2.6]log
+
+
+ 
+Hostname: PJLDHRNGACR01J2200
+Model: acx2200
+Junos: 20.2R2-S2.6
+JUNOS Base OS boot [20.2R2-S2.6]
+JUNOS Base OS Software Suite [20.2R2-S2.6]
+JUNOS Crypto Software Suite [20.2R2-S2.6]
+JUNOS Packet Forwarding Engine Support (ACX) [20.2R2-S2.6]
+JUNOS Web Management [20.2R2-S2.6]
+JUNOS Online Documentation [20.2R2-S2.6]
+JUNOS SDN Software Suite [20.2R2-S2.6]
+JUNOS Services Application Level Gateways [20.2R2-S2.6]
+JUNOS Services COS [20.2R2-S2.6]
+JUNOS Services Jflow Container package [20.2R2-S2.6]
+JUNOS Services Stateful Firewall [20.2R2-S2.6]
+JUNOS Services NAT [20.2R2-S2.6]
+JUNOS Services RPM [20.2R2-S2.6]
+JUNOS Services SOFTWIRE [20.2R2-S2.6]
+JUNOS Services Captive Portal and Content Delivery Container package [20.2R2-S2.6]
+JUNOS Macsec Software Suite [20.2R2-S2.6]
+JUNOS Services Crypto [20.2R2-S2.6]
+JUNOS Services IPSec [20.2R2-S2.6]
+JUNOS Services RTCOM [20.2R2-S2.6]
+JUNOS Services SSL [20.2R2-S2.6]
+JUNOS Services TCP-LOG [20.2R2-S2.6]
+JUNOS DP Crypto Software Software Suite [20.2R2-S2.6]
+JUNOS py-base-powerpc [20.2R2-S2.6]
+JUNOS py-base2-powerpc [20.2R2-S2.6]
+JUNOS py-extensions-powerpc [20.2R2-S2.6]
+JUNOS py-extensions2-powerpc [20.2R2-S2.6]
+JUNOS jsd [powerpc-20.2R2-S2.6-jet-1]
+JUNOS Kernel Software Suite [20.2R2-S2.6]
+JUNOS Routing Software Suite [20.2R2-S2.6]
+Wait for 5 minutes before checking the device upgrade version. [2026-04-04 03:20:46]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-04-04 03:20:46]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+12 attempt. [2026-04-04 03:25:46]
+log
+
+
+
+12 attempt. [2026-04-04 03:25:46]
+
+10.220.178.140 reachable now. [2026-04-04 03:25:47]
+log
+
+
+
+10.220.178.140 reachable now. [2026-04-04 03:25:47]
+ssh
+<b>show version</b>
+log
+
+
+
+<b>show version</b>
+ 
+Hostname: PJLDHRNGACR01J2200
+Model: acx2200
+Junos: 20.2R2-S2.6
+JUNOS Base OS boot [20.2R2-S2.6]
+JUNOS Base OS Software Suite [20.2R2-S2.6]
+JUNOS Crypto Software Suite [20.2R2-S2.6]
+JUNOS Packet Forwarding Engine Support (ACX) [20.2R2-S2.6]
+JUNOS Web Management [20.2R2-S2.6]
+JUNOS Online Documentation [20.2R2-S2.6]
+JUNOS SDN Software Suite [20.2R2-S2.6]
+JUNOS Services Application Level Gateways [20.2R2-S2.6]
+JUNOS Services COS [20.2R2-S2.6]
+JUNOS Services Jflow Container package [20.2R2-S2.6]
+JUNOS Services Stateful Firewall [20.2R2-S2.6]
+JUNOS Services NAT [20.2R2-S2.6]
+JUNOS Services RPM [20.2R2-S2.6]
+JUNOS Services SOFTWIRE [20.2R2-S2.6]
+JUNOS Services Captive Portal and Content Delivery Container package [20.2R2-S2.6]
+JUNOS Macsec Software Suite [20.2R2-S2.6]
+JUNOS Services Crypto [20.2R2-S2.6]
+JUNOS Services IPSec [20.2R2-S2.6]
+JUNOS Services RTCOM [20.2R2-S2.6]
+JUNOS Services SSL [20.2R2-S2.6]
+JUNOS Services TCP-LOG [20.2R2-S2.6]
+JUNOS DP Crypto Software Software Suite [20.2R2-S2.6]
+JUNOS py-base-powerpc [20.2R2-S2.6]
+JUNOS py-base2-powerpc [20.2R2-S2.6]
+JUNOS py-extensions-powerpc [20.2R2-S2.6]
+JUNOS py-extensions2-powerpc [20.2R2-S2.6]
+JUNOS jsd [powerpc-20.2R2-S2.6-jet-1]
+JUNOS Kernel Software Suite [20.2R2-S2.6]
+JUNOS Routing Software Suite [20.2R2-S2.6]log
+
+
+ 
+Hostname: PJLDHRNGACR01J2200
+Model: acx2200
+Junos: 20.2R2-S2.6
+JUNOS Base OS boot [20.2R2-S2.6]
+JUNOS Base OS Software Suite [20.2R2-S2.6]
+JUNOS Crypto Software Suite [20.2R2-S2.6]
+JUNOS Packet Forwarding Engine Support (ACX) [20.2R2-S2.6]
+JUNOS Web Management [20.2R2-S2.6]
+JUNOS Online Documentation [20.2R2-S2.6]
+JUNOS SDN Software Suite [20.2R2-S2.6]
+JUNOS Services Application Level Gateways [20.2R2-S2.6]
+JUNOS Services COS [20.2R2-S2.6]
+JUNOS Services Jflow Container package [20.2R2-S2.6]
+JUNOS Services Stateful Firewall [20.2R2-S2.6]
+JUNOS Services NAT [20.2R2-S2.6]
+JUNOS Services RPM [20.2R2-S2.6]
+JUNOS Services SOFTWIRE [20.2R2-S2.6]
+JUNOS Services Captive Portal and Content Delivery Container package [20.2R2-S2.6]
+JUNOS Macsec Software Suite [20.2R2-S2.6]
+JUNOS Services Crypto [20.2R2-S2.6]
+JUNOS Services IPSec [20.2R2-S2.6]
+JUNOS Services RTCOM [20.2R2-S2.6]
+JUNOS Services SSL [20.2R2-S2.6]
+JUNOS Services TCP-LOG [20.2R2-S2.6]
+JUNOS DP Crypto Software Software Suite [20.2R2-S2.6]
+JUNOS py-base-powerpc [20.2R2-S2.6]
+JUNOS py-base2-powerpc [20.2R2-S2.6]
+JUNOS py-extensions-powerpc [20.2R2-S2.6]
+JUNOS py-extensions2-powerpc [20.2R2-S2.6]
+JUNOS jsd [powerpc-20.2R2-S2.6-jet-1]
+JUNOS Kernel Software Suite [20.2R2-S2.6]
+JUNOS Routing Software Suite [20.2R2-S2.6]
+Wait for 5 minutes before checking the device upgrade version. [2026-04-04 03:26:03]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-04-04 03:26:03]
+
+ Reload and Upgrade status Pending. [2026-04-04 03:31:03]
+log
+
+
+
+ Reload and Upgrade status Pending. [2026-04-04 03:31:03]
+
+Scheduled for post reload activity. [2026-04-04 03:31:03]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-04 03:31:03]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-04 03:31:03]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-04 03:31:03]</font></b></h4>
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+
+==================== SERVER: 10.66.96.204 ====================
+
+
+
+
+ 
+Hostname: KLCLTVELACR01J7024
+Model: ACX7024
+Junos: 25.4R1.13-EVO
+Yocto: 4.0.22
+Linux Kernel: 5.15.164-10.22.33.18-yocto-standard-juniper-17155-g5adff1d6d404
+JUNOS-EVO OS 64-bit [junos-evo-install-acx-f-x86-64-25.4R1.13-EVO]
+
+<hr/><h3><b># Upgrade firmware re-bios into the device...</b></h3> [2026-03-31 02:23:31]
+log
+
+
+
+<hr/><h3><b># Upgrade firmware re-bios into the device...</b></h3> [2026-03-31 02:23:31]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+
+<b>request system firmware upgrade re bios</b>
+log
+
+
+
+<b>request system firmware upgrade re bios</b>
+
+request system firmware upgrade re bios 
+Upgrade initiated. Please check status using show system firmware cmd. When programming finishes for all initiated upgrades, please reboot system to load/see new version.
+
+infinity_labs_auto@KLCLTVELACR01J7024>
+log
+
+
+
+request system firmware upgrade re bios 
+Upgrade initiated. Please check status using show system firmware cmd. When programming finishes for all initiated upgrades, please reboot system to load/see new version.
+
+infinity_labs_auto@KLCLTVELACR01J7024>
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+
+Wait for 2-3 minutes to confirm the upgrade status. [2026-03-31 02:23:41]
+log
+
+
+
+Wait for 2-3 minutes to confirm the upgrade status. [2026-03-31 02:23:41]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+
+<b>set cli timestamp</b>
+log
+
+
+
+<b>set cli timestamp</b>
+
+Reboot start time:  
+Mar 31 02:25:20
+CLI timestamp set to: %b %d %T
+log
+
+
+
+Reboot start time:  
+Mar 31 02:25:20
+CLI timestamp set to: %b %d %T
+<b>request system reboot
+yes
+</b>
+log
+
+
+<b>request system reboot
+yes
+</b>
+<b>yes</b>
+log
+
+
+<b>yes</b>
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-03-31 02:43:41]
+log
+
+
+
+1 attempt. [2026-03-31 02:43:41]
+
+100.69.185.159 reachable now. [2026-03-31 02:43:42]
+log
+
+
+
+100.69.185.159 reachable now. [2026-03-31 02:43:42]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-31 02:43:48]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-31 02:43:48]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-31 02:43:48]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-31 02:43:48]
+
+Scheduled for post reload activity. [2026-03-31 02:46:18]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-31 02:46:18]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-31 02:46:18]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-31 02:46:18]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.205 ====================
+
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-03-28 01:12:34]
+log
+
+
+
+1 attempt. [2026-03-28 01:12:34]
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-03-28 01:12:36]
+log
+
+
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-03-28 01:12:36]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+10 attempt. [2026-03-28 01:16:31]
+log
+
+
+
+10 attempt. [2026-03-28 01:16:31]
+
+100.127.34.5 reachable now. [2026-03-28 01:16:32]
+log
+
+
+
+100.127.34.5 reachable now. [2026-03-28 01:16:32]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Aborted! This command can only be used on the master routing engine.
+log
+
+
+
+ 
+Aborted! This command can only be used on the master routing engine.
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-28 01:16:32]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-28 01:16:32]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-28 01:17:36]
+log
+
+
+
+2 attempt. [2026-03-28 01:17:36]
+
+100.69.185.84 reachable now. [2026-03-28 01:17:37]
+log
+
+
+
+100.69.185.84 reachable now. [2026-03-28 01:17:37]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-28 01:17:43]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-28 01:17:43]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-28 01:17:43]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-28 01:17:43]
+
+Scheduled for post reload activity. [2026-03-28 01:20:13]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-28 01:20:13]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-28 01:20:13]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-28 01:20:13]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+11 attempt. [2026-03-28 01:21:37]
+log
+
+
+
+11 attempt. [2026-03-28 01:21:37]
+
+100.127.34.5 reachable now. [2026-03-28 01:21:38]
+log
+
+
+
+100.127.34.5 reachable now. [2026-03-28 01:21:38]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Aborted! This command can only be used on the master routing engine.
+log
+
+
+
+ 
+Aborted! This command can only be used on the master routing engine.
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-28 01:21:38]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-28 01:21:38]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+12 attempt. [2026-03-28 01:26:43]
+log
+
+
+
+12 attempt. [2026-03-28 01:26:43]
+
+100.127.34.5 reachable now. [2026-03-28 01:26:44]
+log
+
+
+
+100.127.34.5 reachable now. [2026-03-28 01:26:44]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Aborted! This command can only be used on the master routing engine.
+log
+
+
+
+ 
+Aborted! This command can only be used on the master routing engine.
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-28 01:26:45]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-28 01:26:45]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-28 01:31:50]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-28 01:31:50]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-03-28 01:31:53]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-03-28 01:31:53]
+
+Connection closed with the device successfully at 2026-03-28 01:32:03
+log
+
+
+
+Connection closed with the device successfully at 2026-03-28 01:32:03
+
+Scheduled for post reload activity. [2026-03-28 01:32:03]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-28 01:32:03]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-28 01:32:03]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-28 01:32:03]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.206 ====================
+
+
+ Reload and Upgrade status Success. [2026-04-01 03:01:51]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:01:51]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:01:51]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-04-01 03:01:54]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-04-01 03:01:54]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:01:54]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:01:54]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-04-01 03:04:03]
+log
+
+
+
+2 attempt. [2026-04-01 03:04:03]
+
+100.69.185.146 reachable now. [2026-04-01 03:04:04]
+log
+
+
+
+100.69.185.146 reachable now. [2026-04-01 03:04:04]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-04-01 03:04:09]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-04-01 03:04:09]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:04:09]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:04:09]
+
+Scheduled for post reload activity. [2026-04-01 03:04:21]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-01 03:04:21]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:04:21]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:04:21]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+Scheduled for post reload activity. [2026-04-01 03:04:24]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-01 03:04:24]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:04:24]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:04:24]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+Scheduled for post reload activity. [2026-04-01 03:06:39]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-01 03:06:39]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:06:39]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:06:39]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-04-01 03:11:59]
+log
+
+
+
+1 attempt. [2026-04-01 03:11:59]
+
+100.69.185.180 reachable now. [2026-04-01 03:12:00]
+log
+
+
+
+100.69.185.180 reachable now. [2026-04-01 03:12:00]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-04-01 03:12:06]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-04-01 03:12:06]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:12:06]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:12:06]
+
+Scheduled for post reload activity. [2026-04-01 03:14:36]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-01 03:14:36]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:14:36]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:14:36]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.207 ====================
+
+1 attempt. [2026-03-15 00:47:15]
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-03-15 00:47:17]
+log
+
+
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-03-15 00:47:17]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-15 00:52:13]
+log
+
+
+
+2 attempt. [2026-03-15 00:52:13]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-15 00:52:13]
+log
+
+
+
+2 attempt. [2026-03-15 00:52:13]
+
+100.68.82.48 reachable now. [2026-03-15 00:52:14]
+log
+
+
+
+100.68.82.48 reachable now. [2026-03-15 00:52:14]
+
+100.68.82.96 reachable now. [2026-03-15 00:52:14]
+log
+
+
+
+100.68.82.96 reachable now. [2026-03-15 00:52:14]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-15 00:52:17]
+log
+
+
+
+2 attempt. [2026-03-15 00:52:17]
+
+100.68.82.99 reachable now. [2026-03-15 00:52:18]
+log
+
+
+
+100.68.82.99 reachable now. [2026-03-15 00:52:18]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-15 00:52:20]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-15 00:52:20]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-15 00:52:20]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-15 00:52:20]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-15 00:52:20]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-15 00:52:20]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-15 00:52:20]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-15 00:52:20]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-15 00:52:24]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-15 00:52:24]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-15 00:52:24]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-15 00:52:24]
+
+Scheduled for post reload activity. [2026-03-15 00:54:50]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-15 00:54:50]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-15 00:54:50]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-15 00:54:50]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+Scheduled for post reload activity. [2026-03-15 00:54:50]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-15 00:54:50]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-15 00:54:50]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-15 00:54:50]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+Scheduled for post reload activity. [2026-03-15 00:54:54]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-15 00:54:54]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-15 00:54:54]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-15 00:54:54]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.208 ====================
+
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> rlogin: connection closed
+log
+
+
+
+
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> 
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> pushed_successfully
+                                       ^
+unknown command.
+
+infinity_labs_auto@ASGWHSXMPAR01JM104> rlogin: connection closed
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-16 01:50:07]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-16 01:50:07]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-16 01:55:12]
+log
+
+
+
+2 attempt. [2026-03-16 01:55:12]
+
+100.127.44.8 reachable now. [2026-03-16 01:55:13]
+log
+
+
+
+100.127.44.8 reachable now. [2026-03-16 01:55:13]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Slot 0   Online      
+  PIC 0  Online       1x 10GE XFP
+  PIC 1  Online       1x 10GE XFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) -EH SFP
+  PIC 1  Online       10x 1GE(LAN) -EH SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+log
+
+
+
+ 
+Slot 0   Online      
+  PIC 0  Online       1x 10GE XFP
+  PIC 1  Online       1x 10GE XFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) -EH SFP
+  PIC 1  Online       10x 1GE(LAN) -EH SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+
+<b>show chassis routing-engine | match state</b>
+log
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: ASGWHSXMPAR01JM104
+log
+
+
+
+ 
+Hostname: ASGWHSXMPAR01JM104
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@ASGWHSXMPAR01JM104>
+log
+
+
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@ASGWHSXMPAR01JM104>
+
+Successfully login into the master routing engine. [2026-03-16 01:55:19]
+log
+
+
+
+Successfully login into the master routing engine. [2026-03-16 01:55:19]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+ 
+Hostname: ASGWHSXMPAR01JM104
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+ 
+Hostname: ASGWHSXMPAR01JM104
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-16 01:55:24]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-16 01:55:24]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-03-16 01:55:28]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-03-16 01:55:28]
+
+Connection closed with the device successfully at 2026-03-16 01:55:39
+log
+
+
+
+Connection closed with the device successfully at 2026-03-16 01:55:39
+
+Scheduled for post reload activity. [2026-03-16 01:55:39]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-16 01:55:39]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-16 01:55:39]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-16 01:55:39]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.209 ====================
+
+
+<b>file copy cf3:/TiMOS-SR-24.10.R7/boot.ldr cf3-a:/boot.ldr</b>
+
+file copy cf3:/TiMOS-SR-24.10.R7/boot.ldr cf3-a:/boot.ldr 
+Overwrite destination file: boot.ldr (y/n)? y 
+Copying file cf3:\TiMOS-SR-24.10.R7\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+1 file copied.
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# y
+                      ^
+Error: Bad command. 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+log
+
+
+
+file copy cf3:/TiMOS-SR-24.10.R7/boot.ldr cf3-a:/boot.ldr 
+Overwrite destination file: boot.ldr (y/n)? y 
+Copying file cf3:\TiMOS-SR-24.10.R7\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+1 file copied.
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# y
+                      ^
+Error: Bad command. 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:48 IST 2026
+
+Copy new version boot.ldr file in cf3-a: flash card successfully.
+log
+
+
+
+Copy new version boot.ldr file in cf3-a: flash card successfully.
+
+<b>file copy cf3:/TiMOS-SR-24.10.R7/boot.ldr cf3-b:/boot.ldr</b>
+log
+
+
+
+<b>file copy cf3:/TiMOS-SR-24.10.R7/boot.ldr cf3-b:/boot.ldr</b>
+
+file copy cf3:/TiMOS-SR-24.10.R7/boot.ldr cf3-b:/boot.ldr 
+Overwrite destination file: boot.ldr (y/n)? y 
+Copying file cf3:\TiMOS-SR-24.10.R7\boot.ldr ...   ...   ...   ...   ... OK
+1 file copied.
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# yy
+                      ^
+Error: Bad command. 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:53 IST 2026
+log
+
+
+
+file copy cf3:/TiMOS-SR-24.10.R7/boot.ldr cf3-b:/boot.ldr 
+Overwrite destination file: boot.ldr (y/n)? y 
+Copying file cf3:\TiMOS-SR-24.10.R7\boot.ldr ...   ...   ...   ...   ... OK
+1 file copied.
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# yy
+                      ^
+Error: Bad command. 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:52 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:17:53 IST 2026
+
+Copy new version boot.ldr file in cf3-b: flash card successfully.
+log
+
+
+
+Copy new version boot.ldr file in cf3-b: flash card successfully.
+
+<b> admin save </b>
+log
+
+
+
+<b> admin save </b>
+
+admin save 
+Writing configuration to cf3:\WBNPGMLGCAG01NSRA4.cfg
+Saving configuration ...   ... OK
+Syncing Boot environment
+     boot option file : cf3:\bof.cfg ... OK     
+     boot loader      : cf3:\boot.ldr ... OK     
+     nvsys file       : cf3:\nvsys.info ... OK     
+     primary config   : cf3:\WBNPGMLGCAG01NSRA4.cfg ... OK     
+     persistent index : cf3:\WBNPGMLGCAG01NSRA4.ndx ... OK     
+     rollback         : cf3:\rollback.rb ... OK     
+     rollback         : cf3:\rollback.rb.1 ... OK     
+     rollback         : cf3:\rollback.rb.2 ... OK     
+     rollback         : cf3:\rollback.rb.3 ... OK     
+     rollback         : cf3:\rollback.rb.4 ... OK     
+     rollback         : cf3:\rollback.rb.5 ... OK     
+     rollback         : cf3:\rollback.rb.6 ... OK     
+     rollback         : cf3:\rollback.rb.7 ... OK     
+     rollback         : cf3:\rollback.rb.8 ... OK     
+     rollback         : cf3:\rollback.rb.9 ... OK     
+     rollback         : cf3:\rollback.rb.10 ... OK     
+     rollback         : cf3:\rollback.rb.11 ... OK     
+     rollback         : cf3:\rollback.rb.12 ... OK     
+     rollback         : cf3:\rollback.rb.13 ... OK     
+     rollback         : cf3:\rollback.rb.14 ... OK     
+     rollback         : cf3:\rollback.rb.15 ... OK     
+     rollback         : cf3:\rollback.rb.16 ... OK     
+     rollback         : cf3:\rollback.rb.17 ... OK     
+     rollback         : cf3:\rollback.rb.18 ... OK     
+     rollback         : cf3:\rollback.rb.19 ... OK     
+     primary image    : cf3:\cpm.tim Cannot open input file cf3:\cpm.tim... Failed
+
+MINOR: CLI Boot environment sync failed - File copy failed.
+
+Wed May  6 01:18:17 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:18:17 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:18:17 IST 2026
+log
+
+
+
+admin save 
+Writing configuration to cf3:\WBNPGMLGCAG01NSRA4.cfg
+Saving configuration ...   ... OK
+Syncing Boot environment
+     boot option file : cf3:\bof.cfg ... OK     
+     boot loader      : cf3:\boot.ldr ... OK     
+     nvsys file       : cf3:\nvsys.info ... OK     
+     primary config   : cf3:\WBNPGMLGCAG01NSRA4.cfg ... OK     
+     persistent index : cf3:\WBNPGMLGCAG01NSRA4.ndx ... OK     
+     rollback         : cf3:\rollback.rb ... OK     
+     rollback         : cf3:\rollback.rb.1 ... OK     
+     rollback         : cf3:\rollback.rb.2 ... OK     
+     rollback         : cf3:\rollback.rb.3 ... OK     
+     rollback         : cf3:\rollback.rb.4 ... OK     
+     rollback         : cf3:\rollback.rb.5 ... OK     
+     rollback         : cf3:\rollback.rb.6 ... OK     
+     rollback         : cf3:\rollback.rb.7 ... OK     
+     rollback         : cf3:\rollback.rb.8 ... OK     
+     rollback         : cf3:\rollback.rb.9 ... OK     
+     rollback         : cf3:\rollback.rb.10 ... OK     
+     rollback         : cf3:\rollback.rb.11 ... OK     
+     rollback         : cf3:\rollback.rb.12 ... OK     
+     rollback         : cf3:\rollback.rb.13 ... OK     
+     rollback         : cf3:\rollback.rb.14 ... OK     
+     rollback         : cf3:\rollback.rb.15 ... OK     
+     rollback         : cf3:\rollback.rb.16 ... OK     
+     rollback         : cf3:\rollback.rb.17 ... OK     
+     rollback         : cf3:\rollback.rb.18 ... OK     
+     rollback         : cf3:\rollback.rb.19 ... OK     
+     primary image    : cf3:\cpm.tim Cannot open input file cf3:\cpm.tim... Failed
+
+MINOR: CLI Boot environment sync failed - File copy failed.
+
+Wed May  6 01:18:17 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:18:17 IST 2026
+A:WBNPGMLGPAR01NSRA4# 
+
+Wed May  6 01:18:17 IST 2026
+
+<hr/><h3><b># Adjust BOF to point to new version image...</b></h3> [2026-05-06 01:08:53]
+log
+
+
+
+<hr/><h3><b># Adjust BOF to point to new version image...</b></h3> [2026-05-06 01:08:53]
+
+<b>show bof</b>
+log
+
+
+
+<b>show bof</b>
+
+ 
+===============================================================================
+BOF (Memory)
+===============================================================================
+    primary-image    cf3:\TiMOS-SR-21.10.R8
+    primary-config   cf3:\WBNPGMLGCAG01NSRA4.cfg
+    secondary-image  cf3:\TiMOS-SR-19.10.R6
+    address          10.168.91.26/29 active
+    address          10.168.91.27/29 standby
+    static-route     10.168.82.131/32 next-hop 10.168.91.25
+    autonegotiate
+    duplex           full
+    speed            100
+    wait             3
+    persist          on
+    no li-local-save
+    no li-separate
+    no fips-140-2
+    console-speed    115200
+===============================================================================
+
+Wed May  6 01:18:22 IST 2026
+log
+
+
+
+ 
+===============================================================================
+BOF (Memory)
+===============================================================================
+    primary-image    cf3:\TiMOS-SR-21.10.R8
+    primary-config   cf3:\WBNPGMLGCAG01NSRA4.cfg
+    secondary-image  cf3:\TiMOS-SR-19.10.R6
+    address          10.168.91.26/29 active
+    address          10.168.91.27/29 standby
+    static-route     10.168.82.131/32 next-hop 10.168.91.25
+    autonegotiate
+    duplex           full
+    speed            100
+    wait             3
+    persist          on
+    no li-local-save
+    no li-separate
+    no fips-140-2
+    console-speed    115200
+===============================================================================
+
+Wed May  6 01:18:22 IST 2026
+<b>bof</b>
+
+<h4><b><font color='green'>Reload processing ended at : [2026-05-06 01:18:01]</font></b></h4>
+<font color="red">SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: SELECT * FROM `tbl_ios_upgrade_detail` WHERE (`id`=29772) AND (`ip_address`='100.127.25.180')</font>
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: SELECT * FROM `tbl_ios_upgrade_detail` WHERE (`id`=29772) AND (`ip_address`='100.127.25.180')Error: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: UPDATE `tbl_ios_upgrade_detail` SET `reload_status`=5, `upgrade_status`=1 WHERE `id`=29772
+{"user_id":100,"upgrade_id":29772,"type":"reload","autoclean_image":0}
+Received Task: #1
+
+<b># Going to Process..</b>
+log
+
+
+
+<b># Going to Process..</b>
+ssh
+ID : 29772 & Loopback : 100.127.25.180 
+Reload process is already done/running.
+
+==================== SERVER: 10.66.96.210 ====================
+
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+{"user_id":100,"upgrade_id":29766,"type":"reload","autoclean_image":0}
+Received Task: #1
+
+<b># Going to Process..</b>
+log
+
+
+
+<b># Going to Process..</b>
+sshssh
+<hr/><h3><b># Reload process...</b></h3>
+Processing started at : [2026-05-06 03:01:02]
+log
+
+
+
+<hr/><h3><b># Reload process...</b></h3>
+Processing started at : [2026-05-06 03:01:02]
+
+<h4><b><font color='green'>Reload processing started at : [2026-05-06 03:01:02]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing started at : [2026-05-06 03:01:02]</font></b></h4>
+
+<hr/><h3><b># Loading connection with device...</b></h3> [2026-05-06 03:01:02]
+log
+
+
+
+<hr/><h3><b># Loading connection with device...</b></h3> [2026-05-06 03:01:02]
+ssh
+Connection established successfully.
+log
+
+
+
+Connection established successfully.
+
+<hr/><h3><b># Fetching pre reload commands output...</b></h3> [2026-05-06 03:01:17]
+log
+
+
+
+<hr/><h3><b># Fetching pre reload commands output...</b></h3> [2026-05-06 03:01:17]
+<b>set cli timestamp</b>
+log
+
+
+<b>set cli timestamp</b>
+<b>request support information | no-more</b>
+log
+
+
+<b>request support information | no-more</b>
+<b>show configuration | no-more</b>
+log
+
+
+<b>show configuration | no-more</b>
+<b>show configuration | display set | no-more</b>
+log
+
+
+<b>show configuration | display set | no-more</b>
+<b>show version | no-more</b>
+log
+
+
+<b>show version | no-more</b>
+<b>show chassis alarms | no-more</b>
+log
+
+
+<b>show chassis alarms | no-more</b>
+<b>show chassis hardware details | no-more</b>
+log
+
+
+<b>show chassis hardware details | no-more</b>
+<b>show chassis environment | no-more</b>
+log
+
+
+<b>show chassis environment | no-more</b>
+<b>show log messages | no-more</b>
+log
+
+
+<b>show log messages | no-more</b>
+<b>show interfaces terse | no-more</b>
+log
+
+
+<b>show interfaces terse | no-more</b>
+<b>show isis adjacency | no-more</b>
+log
+
+
+<b>show isis adjacency | no-more</b>
+<b>show bfd session | no-more</b>
+log
+
+
+<b>show bfd session | no-more</b>
+<b>show ldp session | no-more</b>
+log
+
+
+<b>show ldp session | no-more</b>
+<b>show ldp neighbor | no-more</b>
+log
+
+
+<b>show ldp neighbor | no-more</b>
+<b>show mpls lsp | no-more</b>
+log
+
+
+<b>show mpls lsp | no-more</b>
+<b>show rsvp neighbor | no-more</b>
+log
+
+
+<b>show rsvp neighbor | no-more</b>
+<b>show rsvp session | no-more</b>
+log
+
+
+<b>show rsvp session | no-more</b>
+<b>show vrrp summary | no-more</b>
+log
+
+
+<b>show vrrp summary | no-more</b>
+<b>show route summary | no-more</b>
+log
+
+
+<b>show route summary | no-more</b>
+<b>show bgp summary | no-more</b>
+log
+
+
+<b>show bgp summary | no-more</b>
+<b>show l2vpn connection | no-more</b>
+log
+
+
+<b>show l2vpn connection | no-more</b>
+<b>show vpls connection | no-more</b>
+log
+
+
+<b>show vpls connection | no-more</b>
+<b>show arp no-resolve | no-more</b>
+log
+
+
+<b>show arp no-resolve | no-more</b>
+<b>show configuration | display set | count</b>
+log
+
+
+<b>show configuration | display set | count</b>
+<b>show configuration | display set | match uid</b>
+log
+
+
+<b>show configuration | display set | match uid</b>
+<b>show configuration | display set | match -order</b>
+log
+
+
+<b>show configuration | display set | match -order</b>
+<b>file list /var/tmp detail</b>
+log
+
+
+<b>file list /var/tmp detail</b>
+<b>show system storage | no-more</b>
+log
+
+
+<b>show system storage | no-more</b>
+<b>show system firmware | no-more</b>
+log
+
+
+<b>show system firmware | no-more</b>
+<b>show interface description | no-more</b>
+log
+
+
+<b>show interface description | no-more</b>
+
+Pre reload commands output taken successfully [2026-05-06 03:02:55]
+log
+
+
+
+Pre reload commands output taken successfully [2026-05-06 03:02:55]
+
+<hr/><h3><b># Installing boot file into the device for the upgrade...</b></h3> [2026-05-06 03:02:55]
+log
+
+
+
+<hr/><h3><b># Installing boot file into the device for the upgrade...</b></h3> [2026-05-06 03:02:55]
+
+<b>request system software add /var/tmp/junos-evo-install-acx-f-x86-64-25.4R1.13-EVO.iso</b>
+log
+
+
+
+<b>request system software add /var/tmp/junos-evo-install-acx-f-x86-64-25.4R1.13-EVO.iso</b>
+
+request system software add /var/tmp/junos-evo-install-acx-f-x86-64-25.4R1.13-EVO.iso 
+May 06 03:12:24
+Adding software images. This process can take several minutes. Please be patient...
+Download and Validate in Progressre0: Running pre-checks for 'junos-evo-install-acx-f-x86-64-25.4R1.13-EVO'
+re0: Pre-checks pass successfully, copying files to software area
+re0: Starting upgrade : /var/tmp/junos-evo-install-acx-f-x86-64-25.4R1.13-EVO.iso
+re0: Upgrade version : junos-evo-install-acx-f-x86-64-25.4R1.13-EVO
+re0: Validating existing configs. See /var/log/validation_config.log for config validation logs.re0: Running post install commands...re0: Post install sequence was successful.re0: Boot version is now 'junos-evo-install-acx-f-x86-64-25.4R1.13-EVO're0: Validation Passed
+re0: Installation was successful
+Image validation and installation succeeded.
+WARNING: NOTE: A reboot is required to start using the new software.
+WARNING: Use the 'request system reboot' command when ready.
+WARNING: Configuration changes made after this point will not be validated.
+WARNING: Target image will be booted with the latest configuration. Changing configuration now may be risky.
+
+infinity_labs_auto@UWAGRKAMACR01J7024> 
+May 06 03:19:20
+
+infinity_labs_auto@UWAGRKAMACR01J7024>^
+unknown command.
+
+infinity_labs_auto@UWAGRKAMACR01J7024> 
+May 06 03:19:20
+
+infinity_labs_auto@UWAGRKAMACR01J7024> 
+May 06 03:19:20
+
+infinity_labs_auto@UWAGRKAMACR01J7024> 
+May 06 03:19:20
+
+infinity_labs_auto@UWAGRKAMACR01J7024>^
+unknown command.
+
+infinity_labs_auto@UWAGRKAMACR01J7024> 
+May 06 03:19:20
+
+infinity_labs_auto@UWAGRKAMACR01J7024> 
+May 06 03:19:20
+
+infinity_labs_auto@UWAGRKAMACR01J7024>
+
+<h4><b><font color='green'>Reload processing ended at : [2026-05-06 03:09:56]</font></b></h4>
+<font color="red">SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: SELECT * FROM `tbl_ios_upgrade_detail` WHERE (`id`=29766) AND (`ip_address`='100.68.82.53')</font>
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: SELECT * FROM `tbl_ios_upgrade_detail` WHERE (`id`=29766) AND (`ip_address`='100.68.82.53')Error: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+The SQL being executed was: UPDATE `tbl_ios_upgrade_detail` SET `reload_status`=5, `upgrade_status`=1 WHERE `id`=29766
+{"user_id":100,"upgrade_id":29766,"type":"reload","autoclean_image":0}
+Received Task: #1
+
+<b># Going to Process..</b>
+log
+
+
+
+<b># Going to Process..</b>
+sshssh
+ID : 29766 & Loopback : 100.68.82.53 
+Reload process is already done/running.
+
+==================== SERVER: 10.66.96.211 ====================
+
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1   2.504                 2.506                 OK                
+
+<b>set cli timestamp</b>
+log
+
+
+
+<b>set cli timestamp</b>
+
+Reboot start time:  
+Apr 07 00:42:56
+CLI timestamp set to: %b %d %T
+log
+
+
+
+Reboot start time:  
+Apr 07 00:42:56
+CLI timestamp set to: %b %d %T
+<b>request system reboot
+yes
+</b>
+log
+
+
+<b>request system reboot
+yes
+</b>
+<b>yes</b>
+log
+
+
+<b>yes</b>
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-04-07 01:00:35]
+log
+
+
+
+1 attempt. [2026-04-07 01:00:35]
+
+100.69.185.155 reachable now. [2026-04-07 01:00:36]
+log
+
+
+
+100.69.185.155 reachable now. [2026-04-07 01:00:36]
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-04-07 01:00:40]
+log
+
+
+
+1 attempt. [2026-04-07 01:00:40]
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-04-07 01:00:40]
+log
+
+
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-04-07 01:00:40]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-04-07 01:00:42]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-04-07 01:00:42]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-07 01:00:42]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-07 01:00:42]
+
+Scheduled for post reload activity. [2026-04-07 01:03:12]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-07 01:03:12]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:03:12]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:03:12]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-04-07 01:05:40]
+log
+
+
+
+2 attempt. [2026-04-07 01:05:40]
+
+100.69.185.171 reachable now. [2026-04-07 01:05:41]
+log
+
+
+
+100.69.185.171 reachable now. [2026-04-07 01:05:41]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-04-07 01:05:47]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-04-07 01:05:47]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-07 01:05:47]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-07 01:05:47]
+
+Scheduled for post reload activity. [2026-04-07 01:08:17]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-07 01:08:17]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:08:17]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:08:17]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+
+==================== SERVER: 10.66.96.212 ====================
+
+
+
+
+
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0>                                                                                
+*** FINAL System shutdown message from root@RJBRMKUNPAR02JM104-re0 ***       
+
+System going down IMMEDIATELY                                                  
+
+                                                                               
+
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> 
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0> rlogin: connection closed
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-01 01:35:27]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-01 01:35:27]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-01 01:40:32]
+log
+
+
+
+2 attempt. [2026-03-01 01:40:32]
+
+100.127.30.51 reachable now. [2026-03-01 01:40:33]
+log
+
+
+
+100.127.30.51 reachable now. [2026-03-01 01:40:33]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) -EH SFP
+  PIC 1  Online       10x 1GE(LAN) -EH SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) -EH SFP
+  PIC 1  Online       10x 1GE(LAN) -EH SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+log
+
+
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) -EH SFP
+  PIC 1  Online       10x 1GE(LAN) -EH SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) -EH SFP
+  PIC 1  Online       10x 1GE(LAN) -EH SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+
+<b>show chassis routing-engine | match state</b>
+log
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: RJBRMKUNPAR02JM104-re1
+log
+
+
+
+ 
+Hostname: RJBRMKUNPAR02JM104-re1
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0>
+log
+
+
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@RJBRMKUNPAR02JM104-re0>
+
+Successfully login into the master routing engine. [2026-03-01 01:40:39]
+log
+
+
+
+Successfully login into the master routing engine. [2026-03-01 01:40:39]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+show version | match "host|seleinfinity_labs_auto@RJBRMKUNPAR02JM104-re0> ...ost|sele"                       
+Hostname: RJBRMKUNPAR02JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+show version | match "host|seleinfinity_labs_auto@RJBRMKUNPAR02JM104-re0> ...ost|sele"                       
+Hostname: RJBRMKUNPAR02JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-01 01:40:45]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-01 01:40:45]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-03-01 01:40:48]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-03-01 01:40:48]
+
+Connection closed with the device successfully at 2026-03-01 01:40:59
+log
+
+
+
+Connection closed with the device successfully at 2026-03-01 01:40:59
+
+Scheduled for post reload activity. [2026-03-01 01:40:59]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-01 01:40:59]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-01 01:40:59]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-01 01:40:59]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+
+==================== SERVER: 10.66.96.213 ====================
+
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> 
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0>                                                                                
+*** FINAL System shutdown message from root@RJBKNNAGPAR02JM104-re0 ***       
+
+System going down IMMEDIATELY                                                  
+
+                                                                               
+rlogin: connection closed
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-01 01:25:45]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-01 01:25:45]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-01 01:30:50]
+log
+
+
+
+2 attempt. [2026-03-01 01:30:50]
+
+100.127.30.84 reachable now. [2026-03-01 01:30:51]
+log
+
+
+
+100.127.30.84 reachable now. [2026-03-01 01:30:51]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+log
+
+
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+
+<b>show chassis routing-engine | match state</b>
+log
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: RJBKNNAGPAR02JM104-re1
+log
+
+
+
+ 
+Hostname: RJBKNNAGPAR02JM104-re1
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0>
+log
+
+
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@RJBKNNAGPAR02JM104-re0>
+
+Successfully login into the master routing engine. [2026-03-01 01:30:57]
+log
+
+
+
+Successfully login into the master routing engine. [2026-03-01 01:30:57]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+show version | match "host|seleinfinity_labs_auto@RJBKNNAGPAR02JM104-re0> ...ost|sele"                       
+Hostname: RJBKNNAGPAR02JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+show version | match "host|seleinfinity_labs_auto@RJBKNNAGPAR02JM104-re0> ...ost|sele"                       
+Hostname: RJBKNNAGPAR02JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-01 01:31:02]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-01 01:31:02]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-03-01 01:31:05]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-03-01 01:31:05]
+
+Connection closed with the device successfully at 2026-03-01 01:31:16
+log
+
+
+
+Connection closed with the device successfully at 2026-03-01 01:31:16
+
+Scheduled for post reload activity. [2026-03-01 01:31:16]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-01 01:31:16]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-01 01:31:16]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-01 01:31:16]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+
+==================== SERVER: 10.66.96.214 ====================
+
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+log
+
+
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+
+<b>show chassis routing-engine | match state</b>
+log
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: PJAMRGMPPAR01JM104-re1
+log
+
+
+
+ 
+Hostname: PJAMRGMPPAR01JM104-re1
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: PJPATABLPAR01JM104-re1
+log
+
+
+
+ 
+Hostname: PJPATABLPAR01JM104-re1
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJAMRGMPPAR01JM104-re0>
+log
+
+
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJAMRGMPPAR01JM104-re0>
+
+Successfully login into the master routing engine. [2026-04-07 01:31:33]
+log
+
+
+
+Successfully login into the master routing engine. [2026-04-07 01:31:33]
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJPATABLPAR01JM104-re0>
+log
+
+
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJPATABLPAR01JM104-re0>
+
+Successfully login into the master routing engine. [2026-04-07 01:31:34]
+log
+
+
+
+Successfully login into the master routing engine. [2026-04-07 01:31:34]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+show version | match "host|seleinfinity_labs_auto@PJAMRGMPPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJAMRGMPPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+show version | match "host|seleinfinity_labs_auto@PJAMRGMPPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJAMRGMPPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-04-07 01:31:39]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-04-07 01:31:39]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+show version | match "host|seleinfinity_labs_auto@PJPATABLPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJPATABLPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+show version | match "host|seleinfinity_labs_auto@PJPATABLPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJPATABLPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-04-07 01:31:39]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-04-07 01:31:39]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-04-07 01:31:42]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-04-07 01:31:42]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-04-07 01:31:42]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-04-07 01:31:42]
+
+Connection closed with the device successfully at 2026-04-07 01:31:53
+log
+
+
+
+Connection closed with the device successfully at 2026-04-07 01:31:53
+
+Scheduled for post reload activity. [2026-04-07 01:31:53]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-07 01:31:53]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:31:53]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:31:53]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+Connection closed with the device successfully at 2026-04-07 01:31:53
+log
+
+
+
+Connection closed with the device successfully at 2026-04-07 01:31:53
+
+Scheduled for post reload activity. [2026-04-07 01:31:53]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-07 01:31:53]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:31:53]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-07 01:31:53]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+
+==================== SERVER: 10.66.96.215 ====================
+
+psb |INF_B1UH           Up              operational          NA              Single          NA                              
+csb |CIPS300            Up              operational          act             Single          NA                              
+xsb |MCIPS300           Up              operational          act             Single          NA                              
+fs  |FCU-1050           Up              operational          NA              Single          NA                              
+bp  |MBP-1050           Up              operational          NA              Single          NA                              
+
+Device chassis status is UP. [2026-04-08 00:25:11]
+log
+
+
+
+Device chassis status is UP. [2026-04-08 00:25:11]
+
+<hr/><h3><b># Remove incase of any maintenance command configuration present under redundancy.</b></h3> [2026-04-08 00:25:11]
+log
+
+
+
+<hr/><h3><b># Remove incase of any maintenance command configuration present under redundancy.</b></h3> [2026-04-08 00:25:11]
+
+<b> show chassis mcips/mcp status </b> 
+log
+
+
+
+<b> show chassis mcips/mcp status </b> 
+
+Active card   Sync Status     Switch Time           Since          Operational command
+mcipsb        Out-of-Sync     NA                    0              None
+
+Configuration            Value    Description
+primary                  mcipsa   Preferred rcp module
+auto-switchover          yes      Should the standby take over on error
+config-sync              yes      Synchronize the configuration file
+high-availability        yes      Synchronize active information to standby
+high-availability-retry  1        Time before retrying after a failure
+log
+
+
+
+Active card   Sync Status     Switch Time           Since          Operational command
+mcipsb        Out-of-Sync     NA                    0              None
+
+Configuration            Value    Description
+primary                  mcipsa   Preferred rcp module
+auto-switchover          yes      Should the standby take over on error
+config-sync              yes      Synchronize the configuration file
+high-availability        yes      Synchronize active information to standby
+high-availability-retry  1        Time before retrying after a failure
+
+<hr/><h3><b># Perform Pre-upgrade test...</b></h3> [2026-04-08 00:25:11]
+log
+
+
+
+<hr/><h3><b># Perform Pre-upgrade test...</b></h3> [2026-04-08 00:25:11]
+<b>configure</b>
+log
+
+
+<b>configure</b>
+<b>run request system software launch pre-upgrade-test version V9.1.00411</b>
+log
+
+
+<b>run request system software launch pre-upgrade-test version V9.1.00411</b>
+
+configure
+Entering configuration mode
+Users currently editing the configuration:
+
+[edit]
+INFI_AUTO@MHPUNNRLACR01E1050# run request system software launch pre-upgrade-test version V9.1.00411
+Pre-upgrade-test succeed.
+
+[edit]
+INFI_AUTO@MHPUNNRLACR01E1050# 
+
+[edit]
+log
+
+
+
+configure
+Entering configuration mode
+Users currently editing the configuration:
+
+[edit]
+INFI_AUTO@MHPUNNRLACR01E1050# run request system software launch pre-upgrade-test version V9.1.00411
+Pre-upgrade-test succeed.
+
+[edit]
+INFI_AUTO@MHPUNNRLACR01E1050# 
+
+[edit]
+
+Pre-upgrade-test successfully. [2026-04-08 00:26:20]
+log
+
+
+
+Pre-upgrade-test successfully. [2026-04-08 00:26:20]
+
+<hr/><h3><b># Reloading device...</b></h3> [2026-04-08 00:26:20]
+log
+
+
+
+<hr/><h3><b># Reloading device...</b></h3> [2026-04-08 00:26:20]
+<b>run request system software launch version V9.1.00411</b>
+log
+
+
+<b>run request system software launch version V9.1.00411</b>
+
+run request system software launch version V9.1.00411
+
+[edit]
+INFI_AUTO@MHPUNNRLACR01E1050# 
+
+[edit]
+log
+
+
+
+run request system software launch version V9.1.00411
+
+[edit]
+INFI_AUTO@MHPUNNRLACR01E1050# 
+
+[edit]
+
+Wait for 10 to 15 minutes to reboot the device. [2026-04-08 00:26:25]
+log
+
+
+
+Wait for 10 to 15 minutes to reboot the device. [2026-04-08 00:26:25]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt.
+log
+
+
+
+1 attempt.
+
+Wait for 5 minutes before checking the device upgrade version. [2026-04-08 00:36:27]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-04-08 00:36:27]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt.
+log
+
+
+
+2 attempt.
+
+10.211.161.82 reachable now. [2026-04-08 00:58:58]
+log
+
+
+
+10.211.161.82 reachable now. [2026-04-08 00:58:58]
+ssh
+<b>show version</b>
+log
+
+
+
+<b>show version</b>
+
+######## [slot:xsb][Active] ########
+Software Release   : V9.1.00411-06
+Version            : release/v9.1-hw-st-rcpd-V9.0R_0
+Ne Type            : NPT-1050i
+Date Created       : Tue Dec 26 23:44:50 2023
+File Hash          : 9cd782c524e958cbbb188833dca1cb45cf0a869e7d95a33140ac3ccd87b3b03c
+log
+
+
+
+######## [slot:xsb][Active] ########
+Software Release   : V9.1.00411-06
+Version            : release/v9.1-hw-st-rcpd-V9.0R_0
+Ne Type            : NPT-1050i
+Date Created       : Tue Dec 26 23:44:50 2023
+File Hash          : 9cd782c524e958cbbb188833dca1cb45cf0a869e7d95a33140ac3ccd87b3b03c
+
+<b> show system bank </b>
+log
+
+
+
+<b> show system bank </b>
+Software upgrade status        : Idle.
+
+Software Launch Date           :
+
+The master software version is : V9.1.00411-06
+The slave  software version is : V8.1.20113
+The master partition        is : Down-Partition
+The master file hash        is : 9cd782c524e958cbbb188833dca1cb45cf0a869e7d95a33140ac3ccd87b3b03c
+The slave  file hash        is : 71183fe046dd0d74eea15acbcdf0d0e704154590d00e8ee016bf664691f2a694
+The patch  file hash        is : b07ff959509132a4f146a4efaeff2853faa082f3fabbb6124eff1c88a76f7bbdlog
+
+
+Software upgrade status        : Idle.
+
+Software Launch Date           :
+
+The master software version is : V9.1.00411-06
+The slave  software version is : V8.1.20113
+The master partition        is : Down-Partition
+The master file hash        is : 9cd782c524e958cbbb188833dca1cb45cf0a869e7d95a33140ac3ccd87b3b03c
+The slave  file hash        is : 71183fe046dd0d74eea15acbcdf0d0e704154590d00e8ee016bf664691f2a694
+The patch  file hash        is : b07ff959509132a4f146a4efaeff2853faa082f3fabbb6124eff1c88a76f7bbd
+<b> show chassis status </b>
+log
+
+
+
+<b> show chassis status </b>
+Name                    Oper-status     Availability-status  Protection      slot-occupancy  PG-name
+ts1  |DHGE_8S           Up              operational          NA              Single          NA                              
+psa  |INF_B1UH          Up              operational          NA              Single          NA                              
+psb  |INF_B1UH          Up              operational          NA              Single          NA                              
+csb  |CIPS300           Up              operational          act             Single          NA                              
+xsb  |MCIPS300          Up              operational          act             Single          NA                              
+fs   |FCU-1050          Up              operational          NA              Single          NA                              
+bp   |MBP-1050          Up              operational          NA              Single          NA                              log
+
+
+Name                    Oper-status     Availability-status  Protection      slot-occupancy  PG-name
+ts1  |DHGE_8S           Up              operational          NA              Single          NA                              
+psa  |INF_B1UH          Up              operational          NA              Single          NA                              
+psb  |INF_B1UH          Up              operational          NA              Single          NA                              
+csb  |CIPS300           Up              operational          act             Single          NA                              
+xsb  |MCIPS300          Up              operational          act             Single          NA                              
+fs   |FCU-1050          Up              operational          NA              Single          NA                              
+bp   |MBP-1050          Up              operational          NA              Single          NA                              
+Reload and Upgrade status of the device Success.
+log
+
+
+
+Reload and Upgrade status of the device Success.
+
+Scheduled for post reload activity. [2026-04-08 00:59:03]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-08 00:59:03]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-08 00:59:03]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-08 00:59:03]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+
+==================== SERVER: 10.66.96.216 ====================
+
+Successfully login into the master routing engine. [2026-03-27 00:30:34]
+log
+
+
+
+Successfully login into the master routing engine. [2026-03-27 00:30:34]
+
+<hr/><h3><b># Install and reloading device to upgrade master routing engine...</b></h3> [2026-03-27 00:30:34]
+log
+
+
+
+<hr/><h3><b># Install and reloading device to upgrade master routing engine...</b></h3> [2026-03-27 00:30:34]
+
+<b>request system software add /var/tmp/jselective-update-amd64-J22.2-x86-64-21.2R3-S8-J22.2.tgz reboot</b>
+log
+
+
+
+<b>request system software add /var/tmp/jselective-update-amd64-J22.2-x86-64-21.2R3-S8-J22.2.tgz reboot</b>
+
+request system software add /var/tmp/jselective-update-amd64-J22.2-x86-64-21.2R3-S8-J22.2.tgz reboot 
+Verified jselective-update-amd64-J22.2-x86-64-21.2R3-S8-J22.2 signed by PackageProductionECP256_2025 method ECDSA256+SHA256
+NOTICE: 'pending' set will be activated at next reboot...
+Rebooting. Please wait ...
+shutdown: [pid 85890]
+Shutdown NOW!
+                                                                               
+*** FINAL System shutdown message from root@KLMLPNBRPAR01JM960-re0 ***       
+
+System going down IMMEDIATELY                                                  
+
+                                                                               
+Shutdown NOW!
+
+System shutdown time has arrived\x07\x07
+
+infinity_labs_auto@KLMLPNBRPAR01JM960-re0> rlogin: connection closed
+
+infinity_labs_auto@KLMLPNBRPAR01JM960-re1>
+log
+
+
+
+request system software add /var/tmp/jselective-update-amd64-J22.2-x86-64-21.2R3-S8-J22.2.tgz reboot 
+Verified jselective-update-amd64-J22.2-x86-64-21.2R3-S8-J22.2 signed by PackageProductionECP256_2025 method ECDSA256+SHA256
+NOTICE: 'pending' set will be activated at next reboot...
+Rebooting. Please wait ...
+shutdown: [pid 85890]
+Shutdown NOW!
+                                                                               
+*** FINAL System shutdown message from root@KLMLPNBRPAR01JM960-re0 ***       
+
+System going down IMMEDIATELY                                                  
+
+                                                                               
+Shutdown NOW!
+
+System shutdown time has arrived\x07\x07
+
+infinity_labs_auto@KLMLPNBRPAR01JM960-re0> rlogin: connection closed
+
+infinity_labs_auto@KLMLPNBRPAR01JM960-re1>
+
+Wait for 5 minutes to reboot the device. [2026-03-27 00:30:39]
+log
+
+
+
+Wait for 5 minutes to reboot the device. [2026-03-27 00:30:39]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-03-27 00:35:39]
+log
+
+
+
+1 attempt. [2026-03-27 00:35:39]
+
+100.127.19.118 reachable now. [2026-03-27 00:35:41]
+log
+
+
+
+100.127.19.118 reachable now. [2026-03-27 00:35:41]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Slot 3   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       10x 1GE(LAN) SFP
+  PIC 3  Online       10x 1GE(LAN) SFP
+Slot 4   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       2x 10GE  XFP
+  PIC 3  Online       2x 10GE  XFP
+Slot 5   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       10x 1GE(LAN) SFP
+  PIC 3  Online       10x 1GE(LAN) SFP
+Slot 7   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       10x 1GE(LAN) SFP
+  PIC 3  Online       10x 1GE(LAN) SFP
+Slot 9   Online       MPC4E 3D 2CGE+8XGE                            
+  PIC 0  Online       4x10GE SFPP
+  PIC 1  Online       1X100GE CFP
+  PIC 2  Online       4x10GE SFPP
+  PIC 3  Online       1X100GE CFP
+log
+
+
+
+ 
+Slot 3   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       10x 1GE(LAN) SFP
+  PIC 3  Online       10x 1GE(LAN) SFP
+Slot 4   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       2x 10GE  XFP
+  PIC 3  Online       2x 10GE  XFP
+Slot 5   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       10x 1GE(LAN) SFP
+  PIC 3  Online       10x 1GE(LAN) SFP
+Slot 7   Online       MPCE Type 2 3D P                              
+  PIC 0  Online       2x 10GE  XFP
+  PIC 1  Online       2x 10GE  XFP
+  PIC 2  Online       10x 1GE(LAN) SFP
+  PIC 3  Online       10x 1GE(LAN) SFP
+Slot 9   Online       MPC4E 3D 2CGE+8XGE                            
+  PIC 0  Online       4x10GE SFPP
+  PIC 1  Online       1X100GE CFP
+  PIC 2  Online       4x10GE SFPP
+  PIC 3  Online       1X100GE CFP
+
+<b>show chassis routing-engine | match state</b>
+log
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: KLMLPNBRPAR01JM960-re1
+log
+
+
+
+ 
+Hostname: KLMLPNBRPAR01JM960-re1
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+Last login: Fri Mar 27 00:36:49 from re1
+
+--- JUNOS 21.2R3-S8.5 Kernel 64-bit  JNPR-12.1-20240405.6c1de77_buil
+infinity_labs_auto@KLMLPNBRPAR01JM960-re0>
+log
+
+
+
+request routing-engine login other-routing-engine 
+Last login: Fri Mar 27 00:36:49 from re1
+
+--- JUNOS 21.2R3-S8.5 Kernel 64-bit  JNPR-12.1-20240405.6c1de77_buil
+infinity_labs_auto@KLMLPNBRPAR01JM960-re0>
+
+Successfully login into the master routing engine. [2026-03-27 00:35:47]
+log
+
+
+
+Successfully login into the master routing engine. [2026-03-27 00:35:47]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+ 
+Hostname: KLMLPNBRPAR01JM960-re0
+JUNOS Selective Update J22.2 (for: /usr/libexec64/rpd /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+ 
+Hostname: KLMLPNBRPAR01JM960-re0
+JUNOS Selective Update J22.2 (for: /usr/libexec64/rpd /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-27 00:35:52]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-27 00:35:52]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-03-27 00:35:56]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-03-27 00:35:56]
+
+Connection closed with the device successfully at 2026-03-27 00:36:05
+log
+
+
+
+Connection closed with the device successfully at 2026-03-27 00:36:05
+
+Scheduled for post reload activity. [2026-03-27 00:36:05]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-27 00:36:05]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-27 00:36:05]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-27 00:36:05]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+Error: Socket error: could not connect to host.
+
+==================== SERVER: 10.66.96.217 ====================
+
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+Wait for 2-3 minutes to confirm the upgrade status. [2026-04-01 03:06:01]
+log
+
+
+
+Wait for 2-3 minutes to confirm the upgrade status. [2026-04-01 03:06:01]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   19.01.00              22.01.00              UPGRADED SUCCESSFULLY
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+<b>set cli timestamp</b>
+log
+
+
+
+<b>set cli timestamp</b>
+
+Reboot start time:  
+Apr 01 03:07:40
+CLI timestamp set to: %b %d %T
+log
+
+
+
+Reboot start time:  
+Apr 01 03:07:40
+CLI timestamp set to: %b %d %T
+<b>request system reboot
+yes
+</b>
+log
+
+
+<b>request system reboot
+yes
+</b>
+<b>yes</b>
+log
+
+
+<b>yes</b>
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-04-01 03:18:11]
+log
+
+
+
+1 attempt. [2026-04-01 03:18:11]
+
+100.69.184.153 reachable now. [2026-04-01 03:18:12]
+log
+
+
+
+100.69.184.153 reachable now. [2026-04-01 03:18:12]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-04-01 03:18:18]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-04-01 03:18:18]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:18:18]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:18:18]
+
+Scheduled for post reload activity. [2026-04-01 03:20:48]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-01 03:20:48]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:20:48]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:20:48]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-04-01 03:26:02]
+log
+
+
+
+1 attempt. [2026-04-01 03:26:02]
+
+100.69.184.178 reachable now. [2026-04-01 03:26:03]
+log
+
+
+
+100.69.184.178 reachable now. [2026-04-01 03:26:03]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-04-01 03:26:08]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-04-01 03:26:08]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:26:08]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-04-01 03:26:08]
+
+Scheduled for post reload activity. [2026-04-01 03:28:38]
+log
+
+
+
+Scheduled for post reload activity. [2026-04-01 03:28:38]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:28:38]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-04-01 03:28:38]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.218 ====================
+
+ In Loop....
+
+1 attempt. [2026-03-20 02:00:18]
+log
+
+
+
+1 attempt. [2026-03-20 02:00:18]
+
+100.127.144.62 reachable now. [2026-03-20 02:00:19]
+log
+
+
+
+100.127.144.62 reachable now. [2026-03-20 02:00:19]
+ssh
+After reboot environment time-stamp output.
+log
+
+
+
+After reboot environment time-stamp output.
+
+ 
+
+Fri Mar 20 01:59:17 IST 2026
+log
+
+
+
+ 
+
+Fri Mar 20 01:59:17 IST 2026
+
+<b>show version</b>
+log
+
+
+
+<b>show version</b>
+
+ 
+TiMOS-B-24.10.R7 both/hops64 Nokia 7250 IXR Copyright (c) 2000-2025 Nokia.
+All rights reserved. All use subject to applicable license agreements.
+Built on Wed Nov 12 20:20:20 UTC 2025 by builder in /builds/2410B/R7/panos
+
+Fri Mar 20 01:59:17 IST 2026
+log
+
+
+
+ 
+TiMOS-B-24.10.R7 both/hops64 Nokia 7250 IXR Copyright (c) 2000-2025 Nokia.
+All rights reserved. All use subject to applicable license agreements.
+Built on Wed Nov 12 20:20:20 UTC 2025 by builder in /builds/2410B/R7/panos
+
+Fri Mar 20 01:59:17 IST 2026
+
+<b>show system alarms</b>
+log
+
+
+
+<b>show system alarms</b>
+
+ 
+
+===============================================================================
+Alarms [Critical:0 Major:0 Minor:0 Warning:3 Total:3]
+===============================================================================
+Index      Date/Time               Severity  Alarm      Resource
+   Details                                              
+-------------------------------------------------------------------------------
+10         2026/03/20 01:48:27.20  WARNING   59-2004-1  Port 1/3/4
+   Interface 1/3/4 is not operational
+
+9          2026/03/20 01:48:27.20  WARNING   59-2004-1  Port 1/3/3
+   Interface 1/3/3 is not operational
+
+6          2026/03/20 01:48:27.20  WARNING   59-2004-1  Port 1/2/5
+   Interface 1/2/5 is not operational
+===============================================================================
+
+Fri Mar 20 01:59:17 IST 2026
+log
+
+
+
+ 
+
+===============================================================================
+Alarms [Critical:0 Major:0 Minor:0 Warning:3 Total:3]
+===============================================================================
+Index      Date/Time               Severity  Alarm      Resource
+   Details                                              
+-------------------------------------------------------------------------------
+10         2026/03/20 01:48:27.20  WARNING   59-2004-1  Port 1/3/4
+   Interface 1/3/4 is not operational
+
+9          2026/03/20 01:48:27.20  WARNING   59-2004-1  Port 1/3/3
+   Interface 1/3/3 is not operational
+
+6          2026/03/20 01:48:27.20  WARNING   59-2004-1  Port 1/2/5
+   Interface 1/2/5 is not operational
+===============================================================================
+
+Fri Mar 20 01:59:17 IST 2026
+
+ Reload and Upgrade status Success. [2026-03-20 02:00:24]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-20 02:00:24]
+
+Scheduled for post reload activity. [2026-03-20 02:00:24]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-20 02:00:24]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-20 02:00:24]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-20 02:00:24]</font></b></h4>
+
+Inside the post upgrade process.
+log
+
+
+
+Inside the post upgrade process.
+
+Rebooting device processing... [2026-03-20 02:06:29]
+log
+
+
+
+Rebooting device processing... [2026-03-20 02:06:29]
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-03-20 02:11:29]
+log
+
+
+
+1 attempt. [2026-03-20 02:11:29]
+
+100.127.144.13 reachable now. [2026-03-20 02:11:30]
+log
+
+
+
+100.127.144.13 reachable now. [2026-03-20 02:11:30]
+ssh
+After reboot environment time-stamp output.
+log
+
+
+
+After reboot environment time-stamp output.
+
+ 
+
+Fri Mar 20 02:10:28 IST 2026
+log
+
+
+
+ 
+
+Fri Mar 20 02:10:28 IST 2026
+
+<b>show version</b>
+log
+
+
+
+<b>show version</b>
+
+ 
+TiMOS-B-24.10.R7 both/hops64 Nokia 7250 IXR Copyright (c) 2000-2025 Nokia.
+All rights reserved. All use subject to applicable license agreements.
+Built on Wed Nov 12 20:20:20 UTC 2025 by builder in /builds/2410B/R7/panos
+
+Fri Mar 20 02:10:28 IST 2026
+log
+
+
+
+ 
+TiMOS-B-24.10.R7 both/hops64 Nokia 7250 IXR Copyright (c) 2000-2025 Nokia.
+All rights reserved. All use subject to applicable license agreements.
+Built on Wed Nov 12 20:20:20 UTC 2025 by builder in /builds/2410B/R7/panos
+
+Fri Mar 20 02:10:28 IST 2026
+
+<b>show system alarms</b>
+log
+
+
+
+<b>show system alarms</b>
+
+ 
+
+===============================================================================
+Alarms [Critical:0 Major:0 Minor:0 Warning:2 Total:2]
+===============================================================================
+Index      Date/Time               Severity  Alarm      Resource
+   Details                                              
+-------------------------------------------------------------------------------
+5          2026/03/20 01:59:45.90  WARNING   59-2004-1  Port 1/5/9
+   Interface 1/5/9 is not operational
+
+2          2026/03/20 01:59:45.90  WARNING   59-2004-1  Port 1/4/20
+   Interface 1/4/20 is not operational
+===============================================================================
+
+Fri Mar 20 02:10:28 IST 2026
+log
+
+
+
+ 
+
+===============================================================================
+Alarms [Critical:0 Major:0 Minor:0 Warning:2 Total:2]
+===============================================================================
+Index      Date/Time               Severity  Alarm      Resource
+   Details                                              
+-------------------------------------------------------------------------------
+5          2026/03/20 01:59:45.90  WARNING   59-2004-1  Port 1/5/9
+   Interface 1/5/9 is not operational
+
+2          2026/03/20 01:59:45.90  WARNING   59-2004-1  Port 1/4/20
+   Interface 1/4/20 is not operational
+===============================================================================
+
+Fri Mar 20 02:10:28 IST 2026
+
+ Reload and Upgrade status Success. [2026-03-20 02:11:34]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-20 02:11:34]
+
+Scheduled for post reload activity. [2026-03-20 02:11:34]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-20 02:11:34]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-20 02:11:34]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-20 02:11:34]</font></b></h4>
+
+Inside the post upgrade process.
+log
+
+
+
+Inside the post upgrade process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.219 ====================
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-10 00:37:31]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-10 00:37:31]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-10 00:37:31]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-10 00:37:31]
+
+Scheduled for post reload activity. [2026-03-10 00:40:01]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-10 00:40:01]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-10 00:40:01]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-10 00:40:01]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-03-10 00:40:27]
+log
+
+
+
+1 attempt. [2026-03-10 00:40:27]
+
+100.69.249.98 reachable now. [2026-03-10 00:40:28]
+log
+
+
+
+100.69.249.98 reachable now. [2026-03-10 00:40:28]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-10 00:40:34]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-10 00:40:34]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-10 00:40:34]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-10 00:40:34]
+
+
+log
+
+
+
+
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+1 attempt. [2026-03-10 00:42:00]
+log
+
+
+
+1 attempt. [2026-03-10 00:42:00]
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-03-10 00:42:00]
+log
+
+
+
+Wait for 5 minutes before checking the firmware upgrade. [2026-03-10 00:42:00]
+
+Scheduled for post reload activity. [2026-03-10 00:43:04]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-10 00:43:04]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-10 00:43:04]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-10 00:43:04]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-10 00:47:00]
+log
+
+
+
+2 attempt. [2026-03-10 00:47:00]
+
+100.68.82.100 reachable now. [2026-03-10 00:47:01]
+log
+
+
+
+100.68.82.100 reachable now. [2026-03-10 00:47:01]
+
+<b>show system firmware</b>
+log
+
+
+
+<b>show system firmware</b>
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+log
+
+
+
+ 
+Part             Type                     Tag   Current               Available             Status
+                                                version               version
+PSM 0            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+PSM 1            Psm MCU DC AFI             0   22.34                 22.34                 OK                
+RE 0             BIOS ROM                   0   22.01.00              22.01.00              OK                
+RE 0             UMC FPGA                   8   0x0012                0x0012                OK                
+RE 0             RE FPGA                    2   0x0100                0x0100                OK                
+RE 0             eMMC                       3   0x1100000000000000    0x1100000000000000    OK                
+RE 0             IDT PLL                    4   4.8.15                4.8.15                OK                
+CB 0             GNSS                       0                         ENP720B2112100T       OK                
+FPC 0            BCM Qumran 2U              1                         2.506                 OK                
+
+ Reload and Upgrade status Success. [2026-03-10 00:47:07]
+log
+
+
+
+ Reload and Upgrade status Success. [2026-03-10 00:47:07]
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-10 00:47:07]
+log
+
+
+
+Wait for 2-3 minutes before taking post upgrade backup. [2026-03-10 00:47:07]
+
+Scheduled for post reload activity. [2026-03-10 00:49:37]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-10 00:49:37]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-10 00:49:37]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-10 00:49:37]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+
+==================== SERVER: 10.66.96.220 ====================
+
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> 
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0>                                                                                
+*** FINAL System shutdown message from root@PJSOLLDFPAR01JM104-re0 ***       
+
+System going down IMMEDIATELY                                                  
+
+                                                                               
+
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> pushed_successfully
+                                           ^
+unknown command.
+
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0> rlogin: connection closed
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-25 01:22:43]
+log
+
+
+
+Wait for 5 minutes before checking the device upgrade version. [2026-03-25 01:22:43]
+
+ In Loop....
+log
+
+
+
+ In Loop....
+
+2 attempt. [2026-03-25 01:27:48]
+log
+
+
+
+2 attempt. [2026-03-25 01:27:48]
+
+100.127.48.61 reachable now. [2026-03-25 01:27:49]
+log
+
+
+
+100.127.48.61 reachable now. [2026-03-25 01:27:49]
+
+<b>show chassis fpc pic-status</b>
+log
+
+
+
+<b>show chassis fpc pic-status</b>
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+log
+
+
+
+ 
+Slot 0   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 1   Online      
+  PIC 0  Online       10x 1GE(LAN) SFP
+  PIC 1  Online       10x 1GE(LAN) SFP
+Slot 2   Online      
+  PIC 0  Online       4x 10GE(LAN) SFP+
+
+<b>show chassis routing-engine | match state</b>
+log
+
+
+
+<b>show chassis routing-engine | match state</b>
+
+ 
+    Current state                  Backup
+    Current state                  Master
+log
+
+
+
+ 
+    Current state                  Backup
+    Current state                  Master
+
+<b>show version | match Hostname</b>
+log
+
+
+
+<b>show version | match Hostname</b>
+
+ 
+Hostname: PJSOLLDFPAR01JM104-re1
+log
+
+
+
+ 
+Hostname: PJSOLLDFPAR01JM104-re1
+
+<b>request routing-engine login other-routing-engine</b>
+log
+
+
+
+<b>request routing-engine login other-routing-engine</b>
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0>
+log
+
+
+
+request routing-engine login other-routing-engine 
+
+--- JUNOS 21.2R3-S8.5 built 2024-06-14 05:48:36 UTC
+infinity_labs_auto@PJSOLLDFPAR01JM104-re0>
+
+Successfully login into the master routing engine. [2026-03-25 01:27:55]
+log
+
+
+
+Successfully login into the master routing engine. [2026-03-25 01:27:55]
+
+<b>show version | match "host|sele"</b>
+log
+
+
+
+<b>show version | match "host|sele"</b>
+
+show version | match "host|seleinfinity_labs_auto@PJSOLLDFPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJSOLLDFPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+log
+
+
+
+show version | match "host|seleinfinity_labs_auto@PJSOLLDFPAR01JM104-re0> ...ost|sele"                       
+Hostname: PJSOLLDFPAR01JM104-re0
+JUNOS Selective Update J22.2 (for: /usr/sbin/rpd) [21.2R3-S8-J22.2]
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-25 01:28:01]
+log
+
+
+
+ Reload and Upgrade status of the master routing engine Success. [2026-03-25 01:28:01]
+
+<b> exit </b>
+log
+
+
+
+<b> exit </b>
+
+Logout from the master routing engine successfully. [2026-03-25 01:28:04]
+log
+
+
+
+Logout from the master routing engine successfully. [2026-03-25 01:28:04]
+
+Connection closed with the device successfully at 2026-03-25 01:28:15
+log
+
+
+
+Connection closed with the device successfully at 2026-03-25 01:28:15
+
+Scheduled for post reload activity. [2026-03-25 01:28:15]
+log
+
+
+
+Scheduled for post reload activity. [2026-03-25 01:28:15]
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-25 01:28:15]</font></b></h4>
+log
+
+
+
+<h4><b><font color='green'>Reload processing ended at : [2026-03-25 01:28:15]</font></b></h4>
+
+Inside the post backup process.
+log
+
+
+
+Inside the post backup process.
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
+Error: Library error: channel mismatch
